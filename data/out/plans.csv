@@ -1,0 +1,7 @@
+plan_id,plan_name,tier,deductible,oop_max
+PLN-BRZ,Fernbrook Bronze HMO,Bronze,6000,9000
+PLN-SLV,Fernbrook Silver HMO,Silver,3500,7500
+PLN-GLD,Fernbrook Gold PPO,Gold,1500,6000
+PLN-PLT,Fernbrook Platinum PPO,Platinum,500,4000
+PLN-HDH,Fernbrook High-Deductible HSA,HDHP,7000,8500
+PLN-MCR,Fernbrook Medicare Advantage,Medicare,0,5000

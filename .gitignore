@@ -1,0 +1,6 @@
+*.local.sql
+.env
+__pycache__/
+*.pyc
+
+data/public/
