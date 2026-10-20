@@ -1,8 +1,8 @@
 """
-Builds the Fernbrook Member Services Agent data set on top of the Synthea
+Builds the Cedarline Member Services Agent data set on top of the Synthea
 sample CSVs in data/public/ (synthea_sample_data_csv_nov2021, ~1,160 patients).
 
-Real (Synthea) data, mapped onto the Fernbrook SERVICE tables:
+Real (Synthea) data, mapped onto the Cedarline SERVICE tables:
     patients.csv + payer_transitions.csv -> MEMBERS
     payers.csv                           -> PLANS (10 payers grouped into 6 plans)
     claims.csv + claims_transactions.csv -> CLAIMS
@@ -19,7 +19,7 @@ What Synthea does NOT contain, and how it is filled in:
   * Denials: Synthea has no denial concept. Claims with no insurance on file are
     denied/COVERAGE_TERMINATED; a seeded ~8% of other fully member-paid claims
     are denied with a randomly assigned reason.
-  * Plans: deductible/oop_max are the fixed Fernbrook values, not Synthea's.
+  * Plans: deductible/oop_max are the fixed Cedarline values, not Synthea's.
 
 Usage:
     python import_synthea.py
@@ -72,12 +72,12 @@ def midnight(d: date) -> datetime:
 # ---------------------------------------------------------------------------
 plans = pd.DataFrame(
     [
-        {"plan_id": "PLN-BRZ", "plan_name": "Fernbrook Bronze HMO", "tier": "Bronze", "deductible": 6000, "oop_max": 9000},
-        {"plan_id": "PLN-SLV", "plan_name": "Fernbrook Silver HMO", "tier": "Silver", "deductible": 3500, "oop_max": 7500},
-        {"plan_id": "PLN-GLD", "plan_name": "Fernbrook Gold PPO", "tier": "Gold", "deductible": 1500, "oop_max": 6000},
-        {"plan_id": "PLN-PLT", "plan_name": "Fernbrook Platinum PPO", "tier": "Platinum", "deductible": 500, "oop_max": 4000},
-        {"plan_id": "PLN-HDH", "plan_name": "Fernbrook High-Deductible HSA", "tier": "HDHP", "deductible": 7000, "oop_max": 8500},
-        {"plan_id": "PLN-MCR", "plan_name": "Fernbrook Medicare Advantage", "tier": "Medicare", "deductible": 0, "oop_max": 5000},
+        {"plan_id": "PLN-BRZ", "plan_name": "Cedarline Bronze HMO", "tier": "Bronze", "deductible": 6000, "oop_max": 9000},
+        {"plan_id": "PLN-SLV", "plan_name": "Cedarline Silver HMO", "tier": "Silver", "deductible": 3500, "oop_max": 7500},
+        {"plan_id": "PLN-GLD", "plan_name": "Cedarline Gold PPO", "tier": "Gold", "deductible": 1500, "oop_max": 6000},
+        {"plan_id": "PLN-PLT", "plan_name": "Cedarline Platinum PPO", "tier": "Platinum", "deductible": 500, "oop_max": 4000},
+        {"plan_id": "PLN-HDH", "plan_name": "Cedarline High-Deductible HSA", "tier": "HDHP", "deductible": 7000, "oop_max": 8500},
+        {"plan_id": "PLN-MCR", "plan_name": "Cedarline Medicare Advantage", "tier": "Medicare", "deductible": 0, "oop_max": 5000},
     ]
 )
 PAYER_TO_PLAN = {
@@ -373,7 +373,7 @@ claims = pd.concat(
                     "claim_id": seed_claim_id,
                     "member_id": seed_member_1,
                     "service_date": TODAY - timedelta(days=10),
-                    "provider": "Fernbrook Regional Imaging",
+                    "provider": "Cedarline Regional Imaging",
                     "billed": 2400.00,
                     "member_owes": 2400.00,
                     "status": "denied",
