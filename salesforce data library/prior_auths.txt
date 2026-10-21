@@ -1,0 +1,1751 @@
+Cedarline Prior Authorizations
+Source: Cedarline Health Plan service data.
+
+Prior authorization PA00000001 for member M000248 (Alvaro Altenwerth). Service code: CT-CHEST. Status: approved. Submitted: 2026-08-17 06:18:54 UTC. Decided: 2026-08-20 06:18:54 UTC.
+
+Prior authorization PA00000002 for member M001134 (Jeremy Witting). Service code: MRI-KNEE. Status: denied. Submitted: 2026-05-18 06:07:06 UTC. Decided: 2026-05-26 06:07:06 UTC.
+
+Prior authorization PA00000003 for member M000205 (Shavonne Barton). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-02-19 21:11:22 UTC. Decided: 2026-03-01 21:11:22 UTC.
+
+Prior authorization PA00000004 for member M000998 (Rich Beatty). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-28 05:44:37 UTC. Decided: 2026-04-29 05:44:37 UTC.
+
+Prior authorization PA00000005 for member M000582 (Lawrence Lueilwitz). Service code: PT-EVAL. Status: pending. Submitted: 2025-10-21 06:31:56 UTC. Decided: not yet.
+
+Prior authorization PA00000006 for member M000423 (Robbin Green). Service code: MRI-KNEE. Status: denied. Submitted: 2026-10-08 17:19:51 UTC. Decided: 2026-10-13 17:19:51 UTC.
+
+Prior authorization PA00000007 for member M000358 (Amee Hessel). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-07-12 16:23:57 UTC. Decided: 2026-07-13 16:23:57 UTC.
+
+Prior authorization PA00000008 for member M000181 (Jolynn Conn). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-08-19 06:33:13 UTC. Decided: 2026-08-24 06:33:13 UTC.
+
+Prior authorization PA00000009 for member M000483 (Allison Howell). Service code: MRI-KNEE. Status: approved. Submitted: 2026-04-14 15:14:51 UTC. Decided: 2026-04-16 15:14:51 UTC.
+
+Prior authorization PA00000010 for member M001106 (Kiyoko Reilly). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-07-16 03:29:01 UTC. Decided: 2026-07-20 03:29:01 UTC.
+
+Prior authorization PA00000011 for member M000567 (Emogene Schroeder). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-06-12 22:48:31 UTC. Decided: 2026-06-16 22:48:31 UTC.
+
+Prior authorization PA00000012 for member M000972 (Michelle Haley). Service code: PT-EVAL. Status: denied. Submitted: 2025-12-14 05:25:58 UTC. Decided: 2025-12-17 05:25:58 UTC.
+
+Prior authorization PA00000013 for member M000746 (Miguel Schneider). Service code: CT-CHEST. Status: approved. Submitted: 2026-01-07 01:34:11 UTC. Decided: 2026-01-11 01:34:11 UTC.
+
+Prior authorization PA00000014 for member M000929 (Caleb Lind). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-05-28 09:09:09 UTC. Decided: 2026-05-30 09:09:09 UTC.
+
+Prior authorization PA00000015 for member M000060 (Dwayne Fisher). Service code: PT-EVAL. Status: approved. Submitted: 2025-11-13 19:33:52 UTC. Decided: 2025-11-22 19:33:52 UTC.
+
+Prior authorization PA00000016 for member M000911 (Micaela Cordero). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2025-12-16 02:34:47 UTC. Decided: not yet.
+
+Prior authorization PA00000017 for member M000668 (Coretta O'Connell). Service code: MRI-KNEE. Status: approved. Submitted: 2026-08-10 11:52:05 UTC. Decided: 2026-08-12 11:52:05 UTC.
+
+Prior authorization PA00000018 for member M000845 (Amos Wehner). Service code: MRI-KNEE. Status: approved. Submitted: 2026-04-02 08:17:35 UTC. Decided: 2026-04-09 08:17:35 UTC.
+
+Prior authorization PA00000019 for member M000993 (Carlos Cruickshank). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-02-07 02:40:37 UTC. Decided: 2026-02-14 02:40:37 UTC.
+
+Prior authorization PA00000020 for member M000932 (Gerry Treutel). Service code: MRI-KNEE. Status: pending. Submitted: 2025-12-31 07:52:13 UTC. Decided: not yet.
+
+Prior authorization PA00000021 for member M000398 (Jospeh Gerhold). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-05-04 13:35:53 UTC. Decided: 2026-05-10 13:35:53 UTC.
+
+Prior authorization PA00000022 for member M000066 (Genny Rath). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-03-05 07:21:44 UTC. Decided: 2026-03-15 07:21:44 UTC.
+
+Prior authorization PA00000023 for member M000954 (Mathew Jacobs). Service code: PT-EVAL. Status: approved. Submitted: 2025-11-17 10:12:59 UTC. Decided: 2025-11-24 10:12:59 UTC.
+
+Prior authorization PA00000024 for member M000605 (Rocco Rempel). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-01-13 12:30:33 UTC. Decided: 2026-01-16 12:30:33 UTC.
+
+Prior authorization PA00000025 for member M001133 (Scarlet Gaylord). Service code: MRI-KNEE. Status: pending. Submitted: 2026-09-09 22:15:54 UTC. Decided: not yet.
+
+Prior authorization PA00000026 for member M001002 (Dewayne Jacobi). Service code: MRI-KNEE. Status: pending. Submitted: 2025-12-01 14:59:21 UTC. Decided: not yet.
+
+Prior authorization PA00000027 for member M000572 (Julia Madrigal). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-08-16 17:14:21 UTC. Decided: 2026-08-23 17:14:21 UTC.
+
+Prior authorization PA00000028 for member M000456 (Christen Cartwright). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-02-21 09:01:23 UTC. Decided: 2026-02-24 09:01:23 UTC.
+
+Prior authorization PA00000029 for member M000091 (Brain Wuckert). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-08-07 00:11:05 UTC. Decided: 2026-08-15 00:11:05 UTC.
+
+Prior authorization PA00000030 for member M000808 (Miguel Krajcik). Service code: PT-EVAL. Status: approved. Submitted: 2026-07-03 01:13:26 UTC. Decided: 2026-07-05 01:13:26 UTC.
+
+Prior authorization PA00000031 for member M001144 (Glinda O'Keefe). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-06-06 18:01:58 UTC. Decided: 2026-06-13 18:01:58 UTC.
+
+Prior authorization PA00000032 for member M000490 (Concha Adams). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-02-06 04:49:54 UTC. Decided: 2026-02-08 04:49:54 UTC.
+
+Prior authorization PA00000033 for member M000332 (Kyra Pagac). Service code: SURG-OUTPT. Status: denied. Submitted: 2025-10-26 17:28:06 UTC. Decided: 2025-11-03 17:28:06 UTC.
+
+Prior authorization PA00000034 for member M000932 (Gerry Treutel). Service code: PT-EVAL. Status: approved. Submitted: 2026-08-06 21:15:01 UTC. Decided: 2026-08-09 21:15:01 UTC.
+
+Prior authorization PA00000035 for member M000759 (Judi Russel). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-10-13 14:45:31 UTC. Decided: 2026-10-21 14:45:31 UTC.
+
+Prior authorization PA00000036 for member M000145 (Bonita Bernier). Service code: PT-EVAL. Status: approved. Submitted: 2026-10-13 23:03:41 UTC. Decided: 2026-10-19 23:03:41 UTC.
+
+Prior authorization PA00000037 for member M000553 (Diann Kub). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-07-16 01:11:27 UTC. Decided: 2026-07-26 01:11:27 UTC.
+
+Prior authorization PA00000038 for member M000166 (Jennette Kemmer). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-07-22 20:56:36 UTC. Decided: 2026-07-28 20:56:36 UTC.
+
+Prior authorization PA00000039 for member M000746 (Miguel Schneider). Service code: MRI-BRAIN. Status: pending. Submitted: 2025-11-15 18:44:27 UTC. Decided: not yet.
+
+Prior authorization PA00000040 for member M000084 (Zachary Hane). Service code: CT-CHEST. Status: approved. Submitted: 2025-12-13 13:56:34 UTC. Decided: 2025-12-19 13:56:34 UTC.
+
+Prior authorization PA00000041 for member M000138 (Lavone Swaniawski). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-01-15 23:35:57 UTC. Decided: 2026-01-19 23:35:57 UTC.
+
+Prior authorization PA00000042 for member M000233 (Dino Schultz). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-12-27 12:11:39 UTC. Decided: 2026-01-04 12:11:39 UTC.
+
+Prior authorization PA00000043 for member M000462 (Jorge Kertzmann). Service code: CT-CHEST. Status: denied. Submitted: 2026-08-11 07:38:18 UTC. Decided: 2026-08-17 07:38:18 UTC.
+
+Prior authorization PA00000044 for member M000568 (Latesha Breitenberg). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-03-03 18:20:03 UTC. Decided: 2026-03-05 18:20:03 UTC.
+
+Prior authorization PA00000045 for member M001027 (Curt Schmidt). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-04-26 12:34:09 UTC. Decided: 2026-04-28 12:34:09 UTC.
+
+Prior authorization PA00000046 for member M001092 (Maxie Green). Service code: CT-CHEST. Status: denied. Submitted: 2026-06-15 19:21:57 UTC. Decided: 2026-06-23 19:21:57 UTC.
+
+Prior authorization PA00000047 for member M000135 (Anderson Haag). Service code: MRI-KNEE. Status: denied. Submitted: 2026-08-31 13:24:13 UTC. Decided: 2026-09-08 13:24:13 UTC.
+
+Prior authorization PA00000048 for member M000367 (Tiana Fay). Service code: CT-CHEST. Status: approved. Submitted: 2025-12-01 02:55:08 UTC. Decided: 2025-12-03 02:55:08 UTC.
+
+Prior authorization PA00000049 for member M000304 (Vance Jakubowski). Service code: PT-EVAL. Status: approved. Submitted: 2025-12-12 05:59:56 UTC. Decided: 2025-12-15 05:59:56 UTC.
+
+Prior authorization PA00000050 for member M000047 (David Heidenreich). Service code: CT-CHEST. Status: pending. Submitted: 2026-01-30 18:57:27 UTC. Decided: not yet.
+
+Prior authorization PA00000051 for member M000971 (Boyce Olson). Service code: CT-CHEST. Status: pending. Submitted: 2026-05-19 19:42:46 UTC. Decided: not yet.
+
+Prior authorization PA00000052 for member M000044 (Ahmed Beatty). Service code: CT-CHEST. Status: denied. Submitted: 2026-05-21 16:09:37 UTC. Decided: 2026-05-25 16:09:37 UTC.
+
+Prior authorization PA00000053 for member M000476 (Ermelinda Kerluke). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2025-11-19 00:48:08 UTC. Decided: not yet.
+
+Prior authorization PA00000054 for member M000703 (Golda Green). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-09-13 12:13:44 UTC. Decided: 2026-09-19 12:13:44 UTC.
+
+Prior authorization PA00000055 for member M001086 (Tabatha Schaefer). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-06-23 21:36:12 UTC. Decided: 2026-07-01 21:36:12 UTC.
+
+Prior authorization PA00000056 for member M000628 (Malcom Lang). Service code: MRI-KNEE. Status: approved. Submitted: 2026-06-09 11:04:16 UTC. Decided: 2026-06-14 11:04:16 UTC.
+
+Prior authorization PA00000057 for member M000591 (Aimee Hudson). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-02-11 17:37:50 UTC. Decided: 2026-02-14 17:37:50 UTC.
+
+Prior authorization PA00000058 for member M000341 (Sharlene Dach). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-04-16 10:21:14 UTC. Decided: 2026-04-19 10:21:14 UTC.
+
+Prior authorization PA00000059 for member M000360 (Ike Harvey). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-10-17 19:29:25 UTC. Decided: 2026-10-20 19:29:25 UTC.
+
+Prior authorization PA00000060 for member M000649 (Basil Douglas). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-01-08 08:39:42 UTC. Decided: 2026-01-11 08:39:42 UTC.
+
+Prior authorization PA00000061 for member M000421 (Emelina Howell). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-05-31 09:28:52 UTC. Decided: 2026-06-01 09:28:52 UTC.
+
+Prior authorization PA00000062 for member M000303 (Nanci Kreiger). Service code: CT-CHEST. Status: pending. Submitted: 2026-09-23 11:32:22 UTC. Decided: not yet.
+
+Prior authorization PA00000063 for member M001093 (Jamie Luettgen). Service code: CT-CHEST. Status: pending. Submitted: 2026-06-04 19:39:21 UTC. Decided: not yet.
+
+Prior authorization PA00000064 for member M001023 (So Ferry). Service code: MRI-KNEE. Status: approved. Submitted: 2025-12-19 00:54:26 UTC. Decided: 2025-12-27 00:54:26 UTC.
+
+Prior authorization PA00000065 for member M001119 (Joseph Stiedemann). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-03-30 05:40:54 UTC. Decided: 2026-04-05 05:40:54 UTC.
+
+Prior authorization PA00000066 for member M000594 (Bethanie Gislason). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-09-14 10:45:39 UTC. Decided: 2026-09-17 10:45:39 UTC.
+
+Prior authorization PA00000067 for member M000231 (Rex Bailey). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-08-03 16:05:47 UTC. Decided: 2026-08-11 16:05:47 UTC.
+
+Prior authorization PA00000068 for member M000240 (Benjamin Pfeffer). Service code: CT-CHEST. Status: denied. Submitted: 2025-11-07 05:04:34 UTC. Decided: 2025-11-08 05:04:34 UTC.
+
+Prior authorization PA00000069 for member M000914 (Ronny Klein). Service code: CT-CHEST. Status: denied. Submitted: 2026-05-11 22:28:59 UTC. Decided: 2026-05-13 22:28:59 UTC.
+
+Prior authorization PA00000070 for member M000400 (Nieves Strosin). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-04-03 02:00:13 UTC. Decided: 2026-04-12 02:00:13 UTC.
+
+Prior authorization PA00000071 for member M000172 (Macie O'Connell). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-02-08 10:07:08 UTC. Decided: 2026-02-16 10:07:08 UTC.
+
+Prior authorization PA00000072 for member M000808 (Miguel Krajcik). Service code: MRI-KNEE. Status: pending. Submitted: 2026-09-29 03:10:52 UTC. Decided: not yet.
+
+Prior authorization PA00000073 for member M001048 (Brent Metz). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-06-26 11:34:09 UTC. Decided: 2026-07-02 11:34:09 UTC.
+
+Prior authorization PA00000074 for member M000876 (Erin Mann). Service code: CT-CHEST. Status: denied. Submitted: 2026-05-09 05:23:11 UTC. Decided: 2026-05-16 05:23:11 UTC.
+
+Prior authorization PA00000075 for member M000720 (Vicente Gleason). Service code: CT-CHEST. Status: approved. Submitted: 2026-04-26 00:26:37 UTC. Decided: 2026-05-04 00:26:37 UTC.
+
+Prior authorization PA00000076 for member M000910 (Daniela Hagenes). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-08-01 03:11:21 UTC. Decided: 2026-08-08 03:11:21 UTC.
+
+Prior authorization PA00000077 for member M000869 (Johana Wunsch). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-01 10:30:31 UTC. Decided: 2026-06-08 10:30:31 UTC.
+
+Prior authorization PA00000078 for member M000295 (Renato Bechtelar). Service code: MRI-KNEE. Status: approved. Submitted: 2025-12-28 21:22:42 UTC. Decided: 2026-01-02 21:22:42 UTC.
+
+Prior authorization PA00000079 for member M000136 (Tristan Swift). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-06-18 19:07:32 UTC. Decided: not yet.
+
+Prior authorization PA00000080 for member M000560 (Danette Stehr). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-28 03:13:13 UTC. Decided: 2026-05-01 03:13:13 UTC.
+
+Prior authorization PA00000081 for member M000281 (Guillermo Vallejo). Service code: MRI-KNEE. Status: denied. Submitted: 2026-07-29 16:49:30 UTC. Decided: 2026-08-01 16:49:30 UTC.
+
+Prior authorization PA00000082 for member M000087 (Terri Grimes). Service code: CT-CHEST. Status: approved. Submitted: 2026-05-01 10:32:20 UTC. Decided: 2026-05-11 10:32:20 UTC.
+
+Prior authorization PA00000083 for member M000950 (Lorinda Rosenbaum). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-22 17:59:22 UTC. Decided: 2026-03-23 17:59:22 UTC.
+
+Prior authorization PA00000084 for member M000968 (Milton Ortiz). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-10-19 05:36:28 UTC. Decided: 2025-10-24 05:36:28 UTC.
+
+Prior authorization PA00000085 for member M000502 (Essie Kuhn). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-05-19 06:31:50 UTC. Decided: 2026-05-21 06:31:50 UTC.
+
+Prior authorization PA00000086 for member M000137 (Brock Paucek). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-03-08 17:57:05 UTC. Decided: not yet.
+
+Prior authorization PA00000087 for member M000894 (Parker Hudson). Service code: CT-CHEST. Status: approved. Submitted: 2026-04-21 21:09:21 UTC. Decided: 2026-04-29 21:09:21 UTC.
+
+Prior authorization PA00000088 for member M000036 (Dominga Kuphal). Service code: CT-CHEST. Status: approved. Submitted: 2026-10-08 04:21:14 UTC. Decided: 2026-10-11 04:21:14 UTC.
+
+Prior authorization PA00000089 for member M000945 (Hubert Jenkins). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-08-11 02:07:49 UTC. Decided: 2026-08-14 02:07:49 UTC.
+
+Prior authorization PA00000090 for member M000740 (Ivory Mueller). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-18 05:56:45 UTC. Decided: 2026-04-24 05:56:45 UTC.
+
+Prior authorization PA00000091 for member M000158 (Cinthia Cremin). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-11-11 10:33:12 UTC. Decided: 2025-11-15 10:33:12 UTC.
+
+Prior authorization PA00000092 for member M000343 (Moon Ledner). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-09-04 06:40:18 UTC. Decided: 2026-09-10 06:40:18 UTC.
+
+Prior authorization PA00000093 for member M000743 (Raphael Feeney). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-03-28 10:57:42 UTC. Decided: 2026-04-06 10:57:42 UTC.
+
+Prior authorization PA00000094 for member M000027 (Sharleen Cronin). Service code: MRI-KNEE. Status: denied. Submitted: 2026-08-10 12:48:08 UTC. Decided: 2026-08-19 12:48:08 UTC.
+
+Prior authorization PA00000095 for member M000844 (Christia Ritchie). Service code: CT-CHEST. Status: denied. Submitted: 2026-03-11 13:34:51 UTC. Decided: 2026-03-14 13:34:51 UTC.
+
+Prior authorization PA00000096 for member M000453 (Roselia Kilback). Service code: MRI-KNEE. Status: approved. Submitted: 2025-12-09 07:55:57 UTC. Decided: 2025-12-18 07:55:57 UTC.
+
+Prior authorization PA00000097 for member M001129 (Geri Padberg). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-08-28 19:08:18 UTC. Decided: 2026-08-30 19:08:18 UTC.
+
+Prior authorization PA00000098 for member M000239 (Alexandria Hilll). Service code: MRI-KNEE. Status: pending. Submitted: 2026-05-19 16:45:57 UTC. Decided: not yet.
+
+Prior authorization PA00000099 for member M000743 (Raphael Feeney). Service code: MRI-KNEE. Status: approved. Submitted: 2025-10-26 17:27:31 UTC. Decided: 2025-11-03 17:27:31 UTC.
+
+Prior authorization PA00000100 for member M000701 (Brice Ferry). Service code: MRI-KNEE. Status: denied. Submitted: 2026-08-19 19:02:46 UTC. Decided: 2026-08-24 19:02:46 UTC.
+
+Prior authorization PA00000101 for member M000292 (Olivia Lovato). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-11-01 04:19:04 UTC. Decided: 2025-11-05 04:19:04 UTC.
+
+Prior authorization PA00000102 for member M000161 (Antony McDermott). Service code: PT-EVAL. Status: approved. Submitted: 2026-03-24 04:33:49 UTC. Decided: 2026-03-26 04:33:49 UTC.
+
+Prior authorization PA00000103 for member M000884 (Ernesto Pacocha). Service code: MRI-BRAIN. Status: denied. Submitted: 2025-11-26 00:41:04 UTC. Decided: 2025-11-30 00:41:04 UTC.
+
+Prior authorization PA00000104 for member M001052 (Zandra Kerluke). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2025-12-12 01:11:38 UTC. Decided: 2025-12-13 01:11:38 UTC.
+
+Prior authorization PA00000105 for member M000089 (Darin Williamson). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-06-15 04:19:47 UTC. Decided: not yet.
+
+Prior authorization PA00000106 for member M000254 (Neoma Powlowski). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-03-21 00:22:26 UTC. Decided: 2026-03-25 00:22:26 UTC.
+
+Prior authorization PA00000107 for member M000720 (Vicente Gleason). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-08-14 07:16:57 UTC. Decided: 2026-08-16 07:16:57 UTC.
+
+Prior authorization PA00000108 for member M000713 (Sheron Leffler). Service code: CT-CHEST. Status: pending. Submitted: 2025-12-31 10:05:56 UTC. Decided: not yet.
+
+Prior authorization PA00000109 for member M000496 (Rod Franecki). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-01-08 18:13:39 UTC. Decided: 2026-01-18 18:13:39 UTC.
+
+Prior authorization PA00000110 for member M000029 (Abraham Koss). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2025-11-21 03:36:29 UTC. Decided: 2025-11-25 03:36:29 UTC.
+
+Prior authorization PA00000111 for member M001101 (Israel Koepp). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-01-24 10:15:43 UTC. Decided: 2026-01-26 10:15:43 UTC.
+
+Prior authorization PA00000112 for member M000973 (Inés Huerta). Service code: CT-CHEST. Status: pending. Submitted: 2026-02-04 18:21:25 UTC. Decided: not yet.
+
+Prior authorization PA00000113 for member M000220 (Booker Brown). Service code: MRI-KNEE. Status: approved. Submitted: 2026-10-10 21:27:31 UTC. Decided: 2026-10-16 21:27:31 UTC.
+
+Prior authorization PA00000114 for member M000467 (Timmy Pfannerstill). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-30 15:26:26 UTC. Decided: 2026-05-02 15:26:26 UTC.
+
+Prior authorization PA00000115 for member M001065 (Shalanda Price). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-27 04:30:02 UTC. Decided: 2026-04-04 04:30:02 UTC.
+
+Prior authorization PA00000116 for member M000084 (Zachary Hane). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-20 10:29:44 UTC. Decided: 2026-04-26 10:29:44 UTC.
+
+Prior authorization PA00000117 for member M000936 (Reina Tremblay). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-06-27 04:12:47 UTC. Decided: 2026-07-02 04:12:47 UTC.
+
+Prior authorization PA00000118 for member M000835 (Marylyn Botsford). Service code: CT-CHEST. Status: approved. Submitted: 2026-10-04 16:09:50 UTC. Decided: 2026-10-11 16:09:50 UTC.
+
+Prior authorization PA00000119 for member M000975 (Heath King). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-01-22 02:32:03 UTC. Decided: not yet.
+
+Prior authorization PA00000120 for member M001007 (Laurena Leuschke). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-04-24 06:31:40 UTC. Decided: 2026-04-26 06:31:40 UTC.
+
+Prior authorization PA00000121 for member M000175 (Ethelene Reilly). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-05-08 15:56:57 UTC. Decided: 2026-05-11 15:56:57 UTC.
+
+Prior authorization PA00000122 for member M000209 (Moira McLaughlin). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-05-08 14:35:10 UTC. Decided: 2026-05-11 14:35:10 UTC.
+
+Prior authorization PA00000123 for member M000694 (Mandy McClure). Service code: MRI-KNEE. Status: pending. Submitted: 2025-11-20 13:14:32 UTC. Decided: not yet.
+
+Prior authorization PA00000124 for member M000870 (Delmy Shanahan). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-08-18 14:43:10 UTC. Decided: 2026-08-26 14:43:10 UTC.
+
+Prior authorization PA00000125 for member M000820 (Myrna Schroeder). Service code: CT-CHEST. Status: approved. Submitted: 2026-03-09 21:11:13 UTC. Decided: 2026-03-17 21:11:13 UTC.
+
+Prior authorization PA00000126 for member M000993 (Carlos Cruickshank). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-09-24 21:57:38 UTC. Decided: not yet.
+
+Prior authorization PA00000127 for member M000222 (Mario Towne). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-03-09 05:21:56 UTC. Decided: 2026-03-14 05:21:56 UTC.
+
+Prior authorization PA00000128 for member M000276 (Jackie Runolfsson). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-06-25 18:06:18 UTC. Decided: 2026-06-27 18:06:18 UTC.
+
+Prior authorization PA00000129 for member M000055 (Gretta Rolfson). Service code: MRI-KNEE. Status: approved. Submitted: 2025-11-14 02:29:02 UTC. Decided: 2025-11-21 02:29:02 UTC.
+
+Prior authorization PA00000130 for member M000198 (Kenton Strosin). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-08-23 11:54:14 UTC. Decided: 2026-09-01 11:54:14 UTC.
+
+Prior authorization PA00000131 for member M001020 (Sung Weber). Service code: PT-EVAL. Status: approved. Submitted: 2026-06-27 16:58:02 UTC. Decided: 2026-07-06 16:58:02 UTC.
+
+Prior authorization PA00000132 for member M001108 (Dara Hills). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-02-28 19:44:58 UTC. Decided: 2026-03-01 19:44:58 UTC.
+
+Prior authorization PA00000133 for member M000244 (Dalene Nolan). Service code: PT-EVAL. Status: pending. Submitted: 2025-11-03 15:40:14 UTC. Decided: not yet.
+
+Prior authorization PA00000134 for member M000907 (Kayleen Spencer). Service code: PT-EVAL. Status: pending. Submitted: 2026-06-05 11:27:09 UTC. Decided: not yet.
+
+Prior authorization PA00000135 for member M000621 (Marlen Batz). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-11-05 01:11:46 UTC. Decided: 2025-11-08 01:11:46 UTC.
+
+Prior authorization PA00000136 for member M000797 (Abdul Harris). Service code: PT-EVAL. Status: approved. Submitted: 2026-06-26 15:40:50 UTC. Decided: 2026-06-28 15:40:50 UTC.
+
+Prior authorization PA00000137 for member M001105 (Sterling Rau). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-08-05 17:51:37 UTC. Decided: 2026-08-13 17:51:37 UTC.
+
+Prior authorization PA00000138 for member M001038 (Barton Breitenberg). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-06-18 20:28:15 UTC. Decided: not yet.
+
+Prior authorization PA00000139 for member M000774 (Mitch Stark). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-05-06 09:35:23 UTC. Decided: 2026-05-12 09:35:23 UTC.
+
+Prior authorization PA00000140 for member M000093 (Craig Pfeffer). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-12 11:40:06 UTC. Decided: 2026-03-18 11:40:06 UTC.
+
+Prior authorization PA00000141 for member M000699 (Erminia Lebsack). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-14 21:15:41 UTC. Decided: 2026-04-16 21:15:41 UTC.
+
+Prior authorization PA00000142 for member M000844 (Christia Ritchie). Service code: CT-CHEST. Status: pending. Submitted: 2026-05-25 12:33:58 UTC. Decided: not yet.
+
+Prior authorization PA00000143 for member M000640 (Sherron Trantow). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-11-15 08:53:31 UTC. Decided: 2025-11-17 08:53:31 UTC.
+
+Prior authorization PA00000144 for member M000235 (Art Lesch). Service code: CT-CHEST. Status: pending. Submitted: 2026-10-05 02:23:05 UTC. Decided: not yet.
+
+Prior authorization PA00000145 for member M000077 (Elwood Lindgren). Service code: PT-EVAL. Status: approved. Submitted: 2026-01-12 00:43:03 UTC. Decided: 2026-01-19 00:43:03 UTC.
+
+Prior authorization PA00000146 for member M000547 (Lachelle Tillman). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-08-04 18:44:30 UTC. Decided: not yet.
+
+Prior authorization PA00000147 for member M000649 (Basil Douglas). Service code: PT-EVAL. Status: approved. Submitted: 2026-10-09 17:06:04 UTC. Decided: 2026-10-19 17:06:04 UTC.
+
+Prior authorization PA00000148 for member M001001 (Kurtis Hoppe). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-05-05 11:44:20 UTC. Decided: 2026-05-09 11:44:20 UTC.
+
+Prior authorization PA00000149 for member M000696 (Mathew O'Conner). Service code: MRI-KNEE. Status: approved. Submitted: 2026-04-08 18:05:07 UTC. Decided: 2026-04-18 18:05:07 UTC.
+
+Prior authorization PA00000150 for member M000414 (Carman Wyman). Service code: PT-EVAL. Status: pending. Submitted: 2026-03-20 13:13:42 UTC. Decided: not yet.
+
+Prior authorization PA00000151 for member M001098 (Jerome Kihn). Service code: MRI-KNEE. Status: denied. Submitted: 2026-09-08 02:44:32 UTC. Decided: 2026-09-13 02:44:32 UTC.
+
+Prior authorization PA00000152 for member M000824 (Cole Wuckert). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-02 01:43:50 UTC. Decided: 2026-03-12 01:43:50 UTC.
+
+Prior authorization PA00000153 for member M000690 (Lucretia Mann). Service code: CT-CHEST. Status: approved. Submitted: 2025-12-04 21:03:04 UTC. Decided: 2025-12-06 21:03:04 UTC.
+
+Prior authorization PA00000154 for member M000430 (Duane Gibson). Service code: CT-CHEST. Status: approved. Submitted: 2026-08-04 19:20:07 UTC. Decided: 2026-08-06 19:20:07 UTC.
+
+Prior authorization PA00000155 for member M000615 (Scottie Fritsch). Service code: PT-EVAL. Status: approved. Submitted: 2026-09-16 10:59:23 UTC. Decided: 2026-09-25 10:59:23 UTC.
+
+Prior authorization PA00000156 for member M000515 (Janetta Breitenberg). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-03-27 07:17:04 UTC. Decided: 2026-04-05 07:17:04 UTC.
+
+Prior authorization PA00000157 for member M000039 (Jennie Leuschke). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-07 19:56:10 UTC. Decided: 2026-06-16 19:56:10 UTC.
+
+Prior authorization PA00000158 for member M000958 (Phillis Walter). Service code: CT-CHEST. Status: approved. Submitted: 2026-01-21 21:00:08 UTC. Decided: 2026-01-30 21:00:08 UTC.
+
+Prior authorization PA00000159 for member M000123 (Rickie Nienow). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-08-28 15:47:29 UTC. Decided: not yet.
+
+Prior authorization PA00000160 for member M000493 (Reid MacGyver). Service code: MRI-KNEE. Status: approved. Submitted: 2026-01-28 13:15:46 UTC. Decided: 2026-02-02 13:15:46 UTC.
+
+Prior authorization PA00000161 for member M000132 (Angel Jacobi). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-05-28 14:56:13 UTC. Decided: 2026-06-01 14:56:13 UTC.
+
+Prior authorization PA00000162 for member M000329 (Yukiko Kemmer). Service code: CT-CHEST. Status: denied. Submitted: 2026-05-17 09:43:07 UTC. Decided: 2026-05-27 09:43:07 UTC.
+
+Prior authorization PA00000163 for member M000308 (Drucilla Kshlerin). Service code: MRI-KNEE. Status: approved. Submitted: 2026-02-15 14:46:37 UTC. Decided: 2026-02-16 14:46:37 UTC.
+
+Prior authorization PA00000164 for member M001147 (Colin Barrows). Service code: PT-EVAL. Status: approved. Submitted: 2026-02-20 11:18:23 UTC. Decided: 2026-02-27 11:18:23 UTC.
+
+Prior authorization PA00000165 for member M000559 (Susana Meléndez). Service code: MRI-KNEE. Status: approved. Submitted: 2026-09-14 01:20:50 UTC. Decided: 2026-09-15 01:20:50 UTC.
+
+Prior authorization PA00000166 for member M000361 (Sebastian Zulauf). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-02-27 10:06:48 UTC. Decided: 2026-02-28 10:06:48 UTC.
+
+Prior authorization PA00000167 for member M000172 (Macie O'Connell). Service code: CT-CHEST. Status: approved. Submitted: 2026-06-23 00:43:29 UTC. Decided: 2026-07-03 00:43:29 UTC.
+
+Prior authorization PA00000168 for member M000834 (Damon Langosh). Service code: CT-CHEST. Status: pending. Submitted: 2026-03-19 02:18:53 UTC. Decided: not yet.
+
+Prior authorization PA00000169 for member M000813 (Avis Ankunding). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-09-26 23:56:10 UTC. Decided: not yet.
+
+Prior authorization PA00000170 for member M001025 (Mae D'Amore). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-12-28 08:35:38 UTC. Decided: 2026-01-06 08:35:38 UTC.
+
+Prior authorization PA00000171 for member M001076 (Chung Stoltenberg). Service code: CT-CHEST. Status: pending. Submitted: 2026-09-23 21:07:56 UTC. Decided: not yet.
+
+Prior authorization PA00000172 for member M000251 (Dan Tromp). Service code: CT-CHEST. Status: approved. Submitted: 2026-06-29 03:17:09 UTC. Decided: 2026-07-05 03:17:09 UTC.
+
+Prior authorization PA00000173 for member M000484 (Ja Mayer). Service code: PT-EVAL. Status: denied. Submitted: 2026-08-13 14:11:51 UTC. Decided: 2026-08-17 14:11:51 UTC.
+
+Prior authorization PA00000174 for member M000563 (Doyle Johns). Service code: PT-EVAL. Status: approved. Submitted: 2025-12-30 03:53:20 UTC. Decided: 2026-01-06 03:53:20 UTC.
+
+Prior authorization PA00000175 for member M001093 (Jamie Luettgen). Service code: CT-CHEST. Status: approved. Submitted: 2026-02-25 21:27:44 UTC. Decided: 2026-02-27 21:27:44 UTC.
+
+Prior authorization PA00000176 for member M000505 (Adriana Hintz). Service code: CT-CHEST. Status: approved. Submitted: 2026-03-29 19:52:11 UTC. Decided: 2026-04-01 19:52:11 UTC.
+
+Prior authorization PA00000177 for member M000632 (Juana Duarte). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-04-21 17:18:08 UTC. Decided: 2026-05-01 17:18:08 UTC.
+
+Prior authorization PA00000178 for member M000491 (Devon Bernhard). Service code: CT-CHEST. Status: denied. Submitted: 2025-11-04 01:59:26 UTC. Decided: 2025-11-13 01:59:26 UTC.
+
+Prior authorization PA00000179 for member M000744 (Elliot Fritsch). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-05-02 11:15:36 UTC. Decided: 2026-05-04 11:15:36 UTC.
+
+Prior authorization PA00000180 for member M000796 (Sasha Renner). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-07-18 08:36:23 UTC. Decided: not yet.
+
+Prior authorization PA00000181 for member M000483 (Allison Howell). Service code: CT-CHEST. Status: approved. Submitted: 2026-05-07 09:18:13 UTC. Decided: 2026-05-11 09:18:13 UTC.
+
+Prior authorization PA00000182 for member M000833 (Trista Kertzmann). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-01-08 15:58:40 UTC. Decided: 2026-01-13 15:58:40 UTC.
+
+Prior authorization PA00000183 for member M000846 (Lance Daugherty). Service code: CT-CHEST. Status: approved. Submitted: 2025-11-28 17:54:07 UTC. Decided: 2025-12-05 17:54:07 UTC.
+
+Prior authorization PA00000184 for member M001037 (Buddy Gislason). Service code: MRI-BRAIN. Status: denied. Submitted: 2025-12-08 05:50:16 UTC. Decided: 2025-12-14 05:50:16 UTC.
+
+Prior authorization PA00000185 for member M001122 (Sherley Dare). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-05-21 21:55:20 UTC. Decided: 2026-05-27 21:55:20 UTC.
+
+Prior authorization PA00000186 for member M000377 (Jacquelynn Morar). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-06-07 00:59:44 UTC. Decided: 2026-06-15 00:59:44 UTC.
+
+Prior authorization PA00000187 for member M000410 (Marc Rutherford). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-09-11 04:57:17 UTC. Decided: 2026-09-16 04:57:17 UTC.
+
+Prior authorization PA00000188 for member M000324 (Fabian Champlin). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-27 20:57:52 UTC. Decided: 2026-04-05 20:57:52 UTC.
+
+Prior authorization PA00000189 for member M000841 (Valentine Sanford). Service code: CT-CHEST. Status: denied. Submitted: 2026-10-18 23:38:09 UTC. Decided: 2026-10-26 23:38:09 UTC.
+
+Prior authorization PA00000190 for member M000671 (Brunilda Toy). Service code: CT-CHEST. Status: approved. Submitted: 2026-06-19 04:51:39 UTC. Decided: 2026-06-23 04:51:39 UTC.
+
+Prior authorization PA00000191 for member M000806 (Leana Keeling). Service code: PT-EVAL. Status: approved. Submitted: 2025-11-30 15:05:28 UTC. Decided: 2025-12-10 15:05:28 UTC.
+
+Prior authorization PA00000192 for member M001144 (Glinda O'Keefe). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-02-09 00:45:17 UTC. Decided: not yet.
+
+Prior authorization PA00000193 for member M000183 (Marcelo Kub). Service code: PT-EVAL. Status: approved. Submitted: 2026-08-27 22:48:53 UTC. Decided: 2026-08-31 22:48:53 UTC.
+
+Prior authorization PA00000194 for member M000879 (Damien Ebert). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-03-01 06:08:39 UTC. Decided: 2026-03-06 06:08:39 UTC.
+
+Prior authorization PA00000195 for member M000349 (Gillian Langworth). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-01-02 03:14:33 UTC. Decided: not yet.
+
+Prior authorization PA00000196 for member M000892 (Vania Mills). Service code: PT-EVAL. Status: denied. Submitted: 2025-12-17 00:30:50 UTC. Decided: 2025-12-25 00:30:50 UTC.
+
+Prior authorization PA00000197 for member M000391 (Lucius Abernathy). Service code: CT-CHEST. Status: denied. Submitted: 2025-12-17 08:10:23 UTC. Decided: 2025-12-22 08:10:23 UTC.
+
+Prior authorization PA00000198 for member M000424 (Isabelle Runte). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-06-28 13:54:39 UTC. Decided: 2026-07-02 13:54:39 UTC.
+
+Prior authorization PA00000199 for member M000837 (Milton Effertz). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-11 06:53:40 UTC. Decided: 2026-03-12 06:53:40 UTC.
+
+Prior authorization PA00000200 for member M000924 (Kurtis Watsica). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-15 09:31:54 UTC. Decided: 2026-03-21 09:31:54 UTC.
+
+Prior authorization PA00000201 for member M000022 (Sydney Kassulke). Service code: PT-EVAL. Status: approved. Submitted: 2026-08-12 23:33:54 UTC. Decided: 2026-08-15 23:33:54 UTC.
+
+Prior authorization PA00000202 for member M000786 (Darline Ondricka). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-04-01 14:28:28 UTC. Decided: 2026-04-08 14:28:28 UTC.
+
+Prior authorization PA00000203 for member M001141 (Maddie Stokes). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-08-19 09:19:44 UTC. Decided: 2026-08-20 09:19:44 UTC.
+
+Prior authorization PA00000204 for member M000726 (Armando Hilll). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-04-06 08:33:01 UTC. Decided: 2026-04-16 08:33:01 UTC.
+
+Prior authorization PA00000205 for member M001034 (Angelo Conroy). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-10-16 01:39:25 UTC. Decided: 2026-10-23 01:39:25 UTC.
+
+Prior authorization PA00000206 for member M000271 (Chris Wisozk). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-03-21 14:22:13 UTC. Decided: 2026-03-22 14:22:13 UTC.
+
+Prior authorization PA00000207 for member M001032 (Dewitt Hane). Service code: PT-EVAL. Status: approved. Submitted: 2026-08-11 06:31:50 UTC. Decided: 2026-08-17 06:31:50 UTC.
+
+Prior authorization PA00000208 for member M001087 (Dorotea Botello). Service code: PT-EVAL. Status: approved. Submitted: 2026-06-14 04:48:10 UTC. Decided: 2026-06-17 04:48:10 UTC.
+
+Prior authorization PA00000209 for member M000262 (Ralph Herzog). Service code: PT-EVAL. Status: approved. Submitted: 2026-02-28 04:15:14 UTC. Decided: 2026-03-05 04:15:14 UTC.
+
+Prior authorization PA00000210 for member M000540 (Nona Satterfield). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-04-20 15:39:32 UTC. Decided: 2026-04-25 15:39:32 UTC.
+
+Prior authorization PA00000211 for member M000338 (Philip Boyer). Service code: CT-CHEST. Status: approved. Submitted: 2026-07-09 11:23:46 UTC. Decided: 2026-07-17 11:23:46 UTC.
+
+Prior authorization PA00000212 for member M000902 (Darcey Walker). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-01-03 20:13:53 UTC. Decided: not yet.
+
+Prior authorization PA00000213 for member M000376 (Loretta Bosco). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-01-22 05:24:40 UTC. Decided: 2026-01-30 05:24:40 UTC.
+
+Prior authorization PA00000214 for member M000894 (Parker Hudson). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-02-28 05:57:17 UTC. Decided: 2026-03-08 05:57:17 UTC.
+
+Prior authorization PA00000215 for member M001149 (Aisha Kassulke). Service code: PT-EVAL. Status: approved. Submitted: 2025-11-07 16:04:30 UTC. Decided: 2025-11-15 16:04:30 UTC.
+
+Prior authorization PA00000216 for member M000304 (Vance Jakubowski). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-06-27 04:05:44 UTC. Decided: 2026-07-03 04:05:44 UTC.
+
+Prior authorization PA00000217 for member M000370 (Abel Bauch). Service code: MRI-KNEE. Status: pending. Submitted: 2025-12-04 07:25:03 UTC. Decided: not yet.
+
+Prior authorization PA00000218 for member M000435 (Rosario Brekke). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-07-05 09:55:55 UTC. Decided: 2026-07-06 09:55:55 UTC.
+
+Prior authorization PA00000219 for member M000158 (Cinthia Cremin). Service code: MRI-KNEE. Status: approved. Submitted: 2026-07-14 20:46:54 UTC. Decided: 2026-07-22 20:46:54 UTC.
+
+Prior authorization PA00000220 for member M000054 (Reyes White). Service code: CT-CHEST. Status: pending. Submitted: 2026-09-29 03:26:00 UTC. Decided: not yet.
+
+Prior authorization PA00000221 for member M000218 (Barbara Acevedo). Service code: CT-CHEST. Status: approved. Submitted: 2026-10-01 04:26:29 UTC. Decided: 2026-10-04 04:26:29 UTC.
+
+Prior authorization PA00000222 for member M000983 (Lucio Ledner). Service code: PT-EVAL. Status: approved. Submitted: 2025-11-01 02:57:05 UTC. Decided: 2025-11-06 02:57:05 UTC.
+
+Prior authorization PA00000223 for member M000090 (Vita Bosco). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-08-18 23:57:26 UTC. Decided: 2026-08-28 23:57:26 UTC.
+
+Prior authorization PA00000224 for member M000265 (Teresita Little). Service code: MRI-KNEE. Status: pending. Submitted: 2026-06-06 11:49:47 UTC. Decided: not yet.
+
+Prior authorization PA00000225 for member M000114 (Billie Grady). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-11-11 23:26:03 UTC. Decided: 2025-11-13 23:26:03 UTC.
+
+Prior authorization PA00000226 for member M000817 (Breanne Leffler). Service code: CT-CHEST. Status: approved. Submitted: 2026-07-25 21:55:43 UTC. Decided: 2026-07-28 21:55:43 UTC.
+
+Prior authorization PA00000227 for member M000427 (Olimpia Rolfson). Service code: MRI-KNEE. Status: approved. Submitted: 2026-02-17 14:31:26 UTC. Decided: 2026-02-24 14:31:26 UTC.
+
+Prior authorization PA00000228 for member M000316 (Janet Auer). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-05-12 10:22:27 UTC. Decided: 2026-05-17 10:22:27 UTC.
+
+Prior authorization PA00000229 for member M000636 (Elena Otero). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-06-26 15:44:30 UTC. Decided: 2026-07-06 15:44:30 UTC.
+
+Prior authorization PA00000230 for member M000753 (Andrea Champlin). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2025-12-24 13:04:20 UTC. Decided: 2025-12-28 13:04:20 UTC.
+
+Prior authorization PA00000231 for member M000976 (Elana Herman). Service code: CT-CHEST. Status: pending. Submitted: 2026-06-25 16:13:05 UTC. Decided: not yet.
+
+Prior authorization PA00000232 for member M000866 (Jennie Jerde). Service code: CT-CHEST. Status: approved. Submitted: 2026-08-02 21:51:27 UTC. Decided: 2026-08-12 21:51:27 UTC.
+
+Prior authorization PA00000233 for member M000191 (Tracy Kassulke). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-01-21 15:48:19 UTC. Decided: 2026-01-30 15:48:19 UTC.
+
+Prior authorization PA00000234 for member M000318 (Arline Rohan). Service code: PT-EVAL. Status: denied. Submitted: 2026-04-10 16:52:35 UTC. Decided: 2026-04-19 16:52:35 UTC.
+
+Prior authorization PA00000235 for member M000596 (Anja Jakubowski). Service code: PT-EVAL. Status: approved. Submitted: 2026-09-05 23:33:53 UTC. Decided: 2026-09-12 23:33:53 UTC.
+
+Prior authorization PA00000236 for member M000262 (Ralph Herzog). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-11-27 17:23:21 UTC. Decided: 2025-12-02 17:23:21 UTC.
+
+Prior authorization PA00000237 for member M000098 (Cyrus Schuster). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-02-22 19:02:42 UTC. Decided: 2026-02-24 19:02:42 UTC.
+
+Prior authorization PA00000238 for member M000871 (Thi Wunsch). Service code: PT-EVAL. Status: approved. Submitted: 2025-11-10 18:41:34 UTC. Decided: 2025-11-12 18:41:34 UTC.
+
+Prior authorization PA00000239 for member M000728 (Terrilyn Murphy). Service code: CT-CHEST. Status: denied. Submitted: 2026-06-12 20:41:51 UTC. Decided: 2026-06-22 20:41:51 UTC.
+
+Prior authorization PA00000240 for member M000948 (Reyes Witting). Service code: MRI-KNEE. Status: approved. Submitted: 2025-11-28 18:19:47 UTC. Decided: 2025-12-01 18:19:47 UTC.
+
+Prior authorization PA00000241 for member M000610 (Ulrike Bauch). Service code: CT-CHEST. Status: approved. Submitted: 2026-05-07 01:38:52 UTC. Decided: 2026-05-17 01:38:52 UTC.
+
+Prior authorization PA00000242 for member M000543 (Justin Larson). Service code: CT-CHEST. Status: approved. Submitted: 2026-06-07 16:22:55 UTC. Decided: 2026-06-10 16:22:55 UTC.
+
+Prior authorization PA00000243 for member M000532 (Ema Bosco). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-02-03 06:44:19 UTC. Decided: 2026-02-05 06:44:19 UTC.
+
+Prior authorization PA00000244 for member M000809 (Shaun Jenkins). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-05-28 19:27:21 UTC. Decided: 2026-05-29 19:27:21 UTC.
+
+Prior authorization PA00000245 for member M000830 (Darrell Pollich). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-01-13 23:52:37 UTC. Decided: 2026-01-23 23:52:37 UTC.
+
+Prior authorization PA00000246 for member M000739 (Randal Herman). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-24 11:01:28 UTC. Decided: 2026-07-01 11:01:28 UTC.
+
+Prior authorization PA00000247 for member M000029 (Abraham Koss). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-21 03:11:26 UTC. Decided: 2026-03-23 03:11:26 UTC.
+
+Prior authorization PA00000248 for member M000429 (Leonie Koelpin). Service code: PT-EVAL. Status: pending. Submitted: 2025-10-26 06:51:10 UTC. Decided: not yet.
+
+Prior authorization PA00000249 for member M000893 (Briana Hegmann). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-09-15 05:17:05 UTC. Decided: 2026-09-24 05:17:05 UTC.
+
+Prior authorization PA00000250 for member M000950 (Lorinda Rosenbaum). Service code: MRI-KNEE. Status: approved. Submitted: 2026-01-23 03:08:04 UTC. Decided: 2026-01-31 03:08:04 UTC.
+
+Prior authorization PA00000251 for member M000313 (Andres Hintz). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-05-22 00:47:39 UTC. Decided: 2026-05-30 00:47:39 UTC.
+
+Prior authorization PA00000252 for member M000921 (Jackson Veum). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-06-23 17:09:59 UTC. Decided: 2026-06-27 17:09:59 UTC.
+
+Prior authorization PA00000253 for member M000803 (Micheline Barton). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-01-29 10:44:04 UTC. Decided: 2026-02-04 10:44:04 UTC.
+
+Prior authorization PA00000254 for member M000885 (Svetlana Tremblay). Service code: PT-EVAL. Status: approved. Submitted: 2025-10-22 03:44:16 UTC. Decided: 2025-10-30 03:44:16 UTC.
+
+Prior authorization PA00000255 for member M000596 (Anja Jakubowski). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-08-10 21:41:37 UTC. Decided: 2026-08-18 21:41:37 UTC.
+
+Prior authorization PA00000256 for member M001000 (Chase Okuneva). Service code: MRI-KNEE. Status: approved. Submitted: 2026-05-10 17:41:54 UTC. Decided: 2026-05-11 17:41:54 UTC.
+
+Prior authorization PA00000257 for member M000647 (Johnathan Reichert). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-07-15 00:41:32 UTC. Decided: 2026-07-17 00:41:32 UTC.
+
+Prior authorization PA00000258 for member M000970 (Claudio Swift). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-03-04 23:36:14 UTC. Decided: 2026-03-12 23:36:14 UTC.
+
+Prior authorization PA00000259 for member M000894 (Parker Hudson). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-09-01 23:31:36 UTC. Decided: 2026-09-04 23:31:36 UTC.
+
+Prior authorization PA00000260 for member M000898 (Veta Roob). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-14 06:59:52 UTC. Decided: 2026-03-23 06:59:52 UTC.
+
+Prior authorization PA00000261 for member M000695 (Felice Rodriguez). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-02-07 21:23:45 UTC. Decided: not yet.
+
+Prior authorization PA00000262 for member M000601 (Stephan Krajcik). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-09-19 17:03:22 UTC. Decided: 2026-09-26 17:03:22 UTC.
+
+Prior authorization PA00000263 for member M000968 (Milton Ortiz). Service code: MRI-KNEE. Status: denied. Submitted: 2026-05-19 23:45:24 UTC. Decided: 2026-05-29 23:45:24 UTC.
+
+Prior authorization PA00000264 for member M000177 (Damian Trantow). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-02-01 10:17:02 UTC. Decided: 2026-02-09 10:17:02 UTC.
+
+Prior authorization PA00000265 for member M001008 (Tyson Bailey). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-12-23 06:18:33 UTC. Decided: 2025-12-30 06:18:33 UTC.
+
+Prior authorization PA00000266 for member M001141 (Maddie Stokes). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-06-27 11:03:20 UTC. Decided: 2026-06-28 11:03:20 UTC.
+
+Prior authorization PA00000267 for member M000325 (Earle Balistreri). Service code: MRI-KNEE. Status: approved. Submitted: 2026-04-19 09:29:44 UTC. Decided: 2026-04-28 09:29:44 UTC.
+
+Prior authorization PA00000268 for member M000234 (Jayson Ryan). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-11-03 02:19:04 UTC. Decided: 2025-11-07 02:19:04 UTC.
+
+Prior authorization PA00000269 for member M000529 (Von Botsford). Service code: CT-CHEST. Status: approved. Submitted: 2025-12-18 20:27:40 UTC. Decided: 2025-12-24 20:27:40 UTC.
+
+Prior authorization PA00000270 for member M000310 (Joey Stoltenberg). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-11-10 20:16:50 UTC. Decided: 2025-11-19 20:16:50 UTC.
+
+Prior authorization PA00000271 for member M000897 (Kiersten Parker). Service code: PT-EVAL. Status: denied. Submitted: 2026-08-23 03:47:30 UTC. Decided: 2026-08-25 03:47:30 UTC.
+
+Prior authorization PA00000272 for member M000209 (Moira McLaughlin). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-12-11 22:13:48 UTC. Decided: 2025-12-12 22:13:48 UTC.
+
+Prior authorization PA00000273 for member M000242 (Ariel Berge). Service code: MRI-KNEE. Status: approved. Submitted: 2026-07-04 03:50:16 UTC. Decided: 2026-07-10 03:50:16 UTC.
+
+Prior authorization PA00000274 for member M001037 (Buddy Gislason). Service code: PT-EVAL. Status: denied. Submitted: 2026-01-06 10:38:09 UTC. Decided: 2026-01-08 10:38:09 UTC.
+
+Prior authorization PA00000275 for member M000283 (Randal Robel). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-01-04 23:33:35 UTC. Decided: 2026-01-08 23:33:35 UTC.
+
+Prior authorization PA00000276 for member M000014 (Scarlett Breitenberg). Service code: MRI-KNEE. Status: denied. Submitted: 2026-05-30 15:08:13 UTC. Decided: 2026-06-07 15:08:13 UTC.
+
+Prior authorization PA00000277 for member M000175 (Ethelene Reilly). Service code: CT-CHEST. Status: approved. Submitted: 2026-04-10 10:26:25 UTC. Decided: 2026-04-16 10:26:25 UTC.
+
+Prior authorization PA00000278 for member M000503 (Marilu Upton). Service code: MRI-KNEE. Status: approved. Submitted: 2026-05-18 13:07:50 UTC. Decided: 2026-05-27 13:07:50 UTC.
+
+Prior authorization PA00000279 for member M000879 (Damien Ebert). Service code: PT-EVAL. Status: approved. Submitted: 2026-05-21 08:18:28 UTC. Decided: 2026-05-28 08:18:28 UTC.
+
+Prior authorization PA00000280 for member M000741 (Kimbra Bogan). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-06-09 18:47:33 UTC. Decided: 2026-06-17 18:47:33 UTC.
+
+Prior authorization PA00000281 for member M001060 (Alene Hermann). Service code: MRI-BRAIN. Status: denied. Submitted: 2025-12-31 00:21:43 UTC. Decided: 2026-01-02 00:21:43 UTC.
+
+Prior authorization PA00000282 for member M000337 (Daren Schmidt). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-09 11:27:42 UTC. Decided: 2026-04-10 11:27:42 UTC.
+
+Prior authorization PA00000283 for member M000310 (Joey Stoltenberg). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-05-07 01:21:01 UTC. Decided: 2026-05-08 01:21:01 UTC.
+
+Prior authorization PA00000284 for member M000859 (Shelby Muller). Service code: PT-EVAL. Status: pending. Submitted: 2026-09-06 18:55:28 UTC. Decided: not yet.
+
+Prior authorization PA00000285 for member M000643 (Darla Hoppe). Service code: CT-CHEST. Status: pending. Submitted: 2026-10-01 20:09:22 UTC. Decided: not yet.
+
+Prior authorization PA00000286 for member M000301 (Coy Schaden). Service code: SURG-OUTPT. Status: pending. Submitted: 2025-10-22 10:11:11 UTC. Decided: not yet.
+
+Prior authorization PA00000287 for member M001115 (Palma Mann). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-05-12 16:14:42 UTC. Decided: 2026-05-22 16:14:42 UTC.
+
+Prior authorization PA00000288 for member M000829 (Ashley McKenzie). Service code: MRI-KNEE. Status: denied. Submitted: 2026-09-16 16:05:52 UTC. Decided: 2026-09-21 16:05:52 UTC.
+
+Prior authorization PA00000289 for member M000799 (Hassan Wyman). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-11-30 01:20:45 UTC. Decided: 2025-12-03 01:20:45 UTC.
+
+Prior authorization PA00000290 for member M000191 (Tracy Kassulke). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-07-11 19:41:22 UTC. Decided: 2026-07-20 19:41:22 UTC.
+
+Prior authorization PA00000291 for member M000328 (Dann Wisoky). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-03-26 18:58:52 UTC. Decided: 2026-03-27 18:58:52 UTC.
+
+Prior authorization PA00000292 for member M000623 (Collin Becker). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-07-21 21:34:20 UTC. Decided: 2026-07-28 21:34:20 UTC.
+
+Prior authorization PA00000293 for member M000764 (Shirlene Pfeffer). Service code: CT-CHEST. Status: denied. Submitted: 2026-07-03 04:01:15 UTC. Decided: 2026-07-12 04:01:15 UTC.
+
+Prior authorization PA00000294 for member M000256 (Thomasena O'Conner). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-17 04:30:28 UTC. Decided: 2026-04-22 04:30:28 UTC.
+
+Prior authorization PA00000295 for member M000484 (Ja Mayer). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-08-07 00:11:23 UTC. Decided: 2026-08-17 00:11:23 UTC.
+
+Prior authorization PA00000296 for member M000479 (Sunni Oberbrunner). Service code: CT-CHEST. Status: denied. Submitted: 2026-08-03 22:51:19 UTC. Decided: 2026-08-08 22:51:19 UTC.
+
+Prior authorization PA00000297 for member M000774 (Mitch Stark). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-03-12 20:51:13 UTC. Decided: 2026-03-16 20:51:13 UTC.
+
+Prior authorization PA00000298 for member M000395 (Marylin Sipes). Service code: CT-CHEST. Status: approved. Submitted: 2025-12-10 11:56:11 UTC. Decided: 2025-12-18 11:56:11 UTC.
+
+Prior authorization PA00000299 for member M000844 (Christia Ritchie). Service code: MRI-BRAIN. Status: denied. Submitted: 2025-12-07 05:20:09 UTC. Decided: 2025-12-09 05:20:09 UTC.
+
+Prior authorization PA00000300 for member M000976 (Elana Herman). Service code: MRI-KNEE. Status: pending. Submitted: 2025-11-18 15:28:10 UTC. Decided: not yet.
+
+Prior authorization PA00000301 for member M001078 (Salvador Tromp). Service code: PT-EVAL. Status: approved. Submitted: 2026-06-03 02:50:33 UTC. Decided: 2026-06-13 02:50:33 UTC.
+
+Prior authorization PA00000302 for member M000541 (Georgene Romaguera). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-07-31 18:53:39 UTC. Decided: 2026-08-08 18:53:39 UTC.
+
+Prior authorization PA00000303 for member M001003 (Mariano Metz). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-09-08 15:24:58 UTC. Decided: not yet.
+
+Prior authorization PA00000304 for member M000261 (Napoleon Fay). Service code: PT-EVAL. Status: approved. Submitted: 2026-05-19 05:55:44 UTC. Decided: 2026-05-27 05:55:44 UTC.
+
+Prior authorization PA00000305 for member M000242 (Ariel Berge). Service code: SURG-OUTPT. Status: pending. Submitted: 2025-12-23 18:41:04 UTC. Decided: not yet.
+
+Prior authorization PA00000306 for member M000322 (Raul Heller). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-02-03 16:34:54 UTC. Decided: 2026-02-09 16:34:54 UTC.
+
+Prior authorization PA00000307 for member M000226 (Russel Moen). Service code: MRI-BRAIN. Status: pending. Submitted: 2025-12-17 21:54:12 UTC. Decided: not yet.
+
+Prior authorization PA00000308 for member M001071 (Irish Torp). Service code: MRI-KNEE. Status: approved. Submitted: 2026-04-25 20:49:02 UTC. Decided: 2026-04-27 20:49:02 UTC.
+
+Prior authorization PA00000309 for member M000622 (Lucio Toy). Service code: CT-CHEST. Status: pending. Submitted: 2026-04-26 11:06:07 UTC. Decided: not yet.
+
+Prior authorization PA00000310 for member M000292 (Olivia Lovato). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-06-23 01:01:07 UTC. Decided: 2026-06-30 01:01:07 UTC.
+
+Prior authorization PA00000311 for member M000442 (Louis Wintheiser). Service code: MRI-KNEE. Status: pending. Submitted: 2025-11-11 11:06:38 UTC. Decided: not yet.
+
+Prior authorization PA00000312 for member M000715 (Edythe Morar). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-06-25 00:04:33 UTC. Decided: 2026-06-26 00:04:33 UTC.
+
+Prior authorization PA00000313 for member M001159 (Bobby Harris). Service code: PT-EVAL. Status: approved. Submitted: 2026-05-19 17:31:08 UTC. Decided: 2026-05-25 17:31:08 UTC.
+
+Prior authorization PA00000314 for member M000272 (Marivel Ledner). Service code: MRI-KNEE. Status: denied. Submitted: 2026-04-29 17:18:09 UTC. Decided: 2026-05-08 17:18:09 UTC.
+
+Prior authorization PA00000315 for member M000920 (Miss Reichert). Service code: MRI-KNEE. Status: denied. Submitted: 2026-09-08 16:46:55 UTC. Decided: 2026-09-14 16:46:55 UTC.
+
+Prior authorization PA00000316 for member M000839 (Son Rodriguez). Service code: PT-EVAL. Status: denied. Submitted: 2025-12-02 22:44:49 UTC. Decided: 2025-12-06 22:44:49 UTC.
+
+Prior authorization PA00000317 for member M000908 (Pei Williamson). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-05-08 12:20:33 UTC. Decided: 2026-05-13 12:20:33 UTC.
+
+Prior authorization PA00000318 for member M000051 (Ramona Cordero). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-09-13 03:13:23 UTC. Decided: not yet.
+
+Prior authorization PA00000319 for member M000254 (Neoma Powlowski). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-09-05 11:14:41 UTC. Decided: 2026-09-14 11:14:41 UTC.
+
+Prior authorization PA00000320 for member M001110 (Tyler Bergnaum). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2025-11-30 07:00:21 UTC. Decided: not yet.
+
+Prior authorization PA00000321 for member M000975 (Heath King). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-11-14 20:45:43 UTC. Decided: 2025-11-15 20:45:43 UTC.
+
+Prior authorization PA00000322 for member M000369 (Tony Ward). Service code: MRI-BRAIN. Status: pending. Submitted: 2025-12-18 23:57:58 UTC. Decided: not yet.
+
+Prior authorization PA00000323 for member M000910 (Daniela Hagenes). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-03-07 07:29:35 UTC. Decided: 2026-03-16 07:29:35 UTC.
+
+Prior authorization PA00000324 for member M000093 (Craig Pfeffer). Service code: PT-EVAL. Status: approved. Submitted: 2026-08-24 11:39:59 UTC. Decided: 2026-08-25 11:39:59 UTC.
+
+Prior authorization PA00000325 for member M000050 (Shaun Franecki). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-04-10 15:54:40 UTC. Decided: 2026-04-16 15:54:40 UTC.
+
+Prior authorization PA00000326 for member M000204 (Isaac Marks). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-05-01 09:21:48 UTC. Decided: 2026-05-04 09:21:48 UTC.
+
+Prior authorization PA00000327 for member M000184 (Pablo Rojo). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-13 05:14:38 UTC. Decided: 2026-03-18 05:14:38 UTC.
+
+Prior authorization PA00000328 for member M000667 (Ahmed O'Reilly). Service code: MRI-KNEE. Status: approved. Submitted: 2026-05-14 06:09:36 UTC. Decided: 2026-05-15 06:09:36 UTC.
+
+Prior authorization PA00000329 for member M000203 (Graham Willms). Service code: CT-CHEST. Status: approved. Submitted: 2026-10-18 02:07:47 UTC. Decided: 2026-10-21 02:07:47 UTC.
+
+Prior authorization PA00000330 for member M000248 (Alvaro Altenwerth). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-05-17 11:48:15 UTC. Decided: 2026-05-21 11:48:15 UTC.
+
+Prior authorization PA00000331 for member M001010 (Jospeh Mann). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-02-17 21:44:10 UTC. Decided: 2026-02-26 21:44:10 UTC.
+
+Prior authorization PA00000332 for member M000652 (Ned Emmerich). Service code: PT-EVAL. Status: approved. Submitted: 2026-05-03 04:11:23 UTC. Decided: 2026-05-12 04:11:23 UTC.
+
+Prior authorization PA00000333 for member M000835 (Marylyn Botsford). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-05-14 02:22:59 UTC. Decided: 2026-05-18 02:22:59 UTC.
+
+Prior authorization PA00000334 for member M000208 (Mikaela Keeling). Service code: MRI-KNEE. Status: approved. Submitted: 2025-10-27 09:47:59 UTC. Decided: 2025-11-05 09:47:59 UTC.
+
+Prior authorization PA00000335 for member M000834 (Damon Langosh). Service code: PT-EVAL. Status: approved. Submitted: 2026-09-16 04:34:18 UTC. Decided: 2026-09-18 04:34:18 UTC.
+
+Prior authorization PA00000336 for member M000292 (Olivia Lovato). Service code: CT-CHEST. Status: approved. Submitted: 2026-09-08 18:13:12 UTC. Decided: 2026-09-17 18:13:12 UTC.
+
+Prior authorization PA00000337 for member M000868 (Zachariah Bergstrom). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-01-12 08:55:33 UTC. Decided: 2026-01-20 08:55:33 UTC.
+
+Prior authorization PA00000338 for member M000593 (Bryce Schinner). Service code: SURG-OUTPT. Status: denied. Submitted: 2025-11-08 00:02:11 UTC. Decided: 2025-11-11 00:02:11 UTC.
+
+Prior authorization PA00000339 for member M000988 (Rich Armstrong). Service code: CT-CHEST. Status: pending. Submitted: 2025-10-18 02:11:27 UTC. Decided: not yet.
+
+Prior authorization PA00000340 for member M000779 (Robt Mante). Service code: CT-CHEST. Status: denied. Submitted: 2026-08-20 09:08:04 UTC. Decided: 2026-08-24 09:08:04 UTC.
+
+Prior authorization PA00000341 for member M000331 (Raúl Porras). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-08-13 18:34:49 UTC. Decided: 2026-08-22 18:34:49 UTC.
+
+Prior authorization PA00000342 for member M000810 (Raymonde Marvin). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-08-02 02:32:46 UTC. Decided: 2026-08-04 02:32:46 UTC.
+
+Prior authorization PA00000343 for member M000885 (Svetlana Tremblay). Service code: MRI-KNEE. Status: pending. Submitted: 2025-12-28 20:15:38 UTC. Decided: not yet.
+
+Prior authorization PA00000344 for member M000652 (Ned Emmerich). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-08-26 18:22:47 UTC. Decided: not yet.
+
+Prior authorization PA00000345 for member M000928 (Deidra Rosenbaum). Service code: CT-CHEST. Status: approved. Submitted: 2026-04-11 23:07:32 UTC. Decided: 2026-04-15 23:07:32 UTC.
+
+Prior authorization PA00000346 for member M000942 (Nita McLaughlin). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-09-22 11:42:37 UTC. Decided: 2026-09-28 11:42:37 UTC.
+
+Prior authorization PA00000347 for member M000005 (Ralph Kuhlman). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-10-26 04:52:07 UTC. Decided: 2025-11-03 04:52:07 UTC.
+
+Prior authorization PA00000348 for member M000847 (Forrest Paucek). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2025-10-20 00:20:55 UTC. Decided: 2025-10-28 00:20:55 UTC.
+
+Prior authorization PA00000349 for member M000159 (Elton Homenick). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-05-07 19:35:33 UTC. Decided: 2026-05-08 19:35:33 UTC.
+
+Prior authorization PA00000350 for member M000723 (Reta Koch). Service code: PT-EVAL. Status: denied. Submitted: 2026-09-26 16:12:30 UTC. Decided: 2026-10-06 16:12:30 UTC.
+
+Prior authorization PA00000351 for member M000018 (Regenia Gibson). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-19 14:04:52 UTC. Decided: 2026-04-27 14:04:52 UTC.
+
+Prior authorization PA00000352 for member M000454 (Filomena Miller). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-04-25 07:01:35 UTC. Decided: 2026-04-26 07:01:35 UTC.
+
+Prior authorization PA00000353 for member M000621 (Marlen Batz). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-03-10 13:01:40 UTC. Decided: 2026-03-14 13:01:40 UTC.
+
+Prior authorization PA00000354 for member M000076 (Amy Prosacco). Service code: CT-CHEST. Status: pending. Submitted: 2026-02-14 17:58:44 UTC. Decided: not yet.
+
+Prior authorization PA00000355 for member M000402 (Denny Watsica). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-27 22:03:53 UTC. Decided: 2026-07-04 22:03:53 UTC.
+
+Prior authorization PA00000356 for member M001012 (Dirk Stehr). Service code: MRI-KNEE. Status: approved. Submitted: 2025-12-13 10:05:52 UTC. Decided: 2025-12-22 10:05:52 UTC.
+
+Prior authorization PA00000357 for member M001158 (Foster Stokes). Service code: MRI-KNEE. Status: denied. Submitted: 2026-01-25 20:35:48 UTC. Decided: 2026-01-27 20:35:48 UTC.
+
+Prior authorization PA00000358 for member M000261 (Napoleon Fay). Service code: CT-CHEST. Status: denied. Submitted: 2026-08-15 04:40:09 UTC. Decided: 2026-08-25 04:40:09 UTC.
+
+Prior authorization PA00000359 for member M000562 (Nathan Stroman). Service code: MRI-KNEE. Status: denied. Submitted: 2026-02-11 19:02:41 UTC. Decided: 2026-02-12 19:02:41 UTC.
+
+Prior authorization PA00000360 for member M001148 (Jeffery Brakus). Service code: PT-EVAL. Status: approved. Submitted: 2026-10-07 19:24:13 UTC. Decided: 2026-10-08 19:24:13 UTC.
+
+Prior authorization PA00000361 for member M000107 (Ernestina Fahey). Service code: CT-CHEST. Status: denied. Submitted: 2026-05-24 23:20:12 UTC. Decided: 2026-05-31 23:20:12 UTC.
+
+Prior authorization PA00000362 for member M001062 (Julieta Schmitt). Service code: PT-EVAL. Status: approved. Submitted: 2026-05-14 09:58:38 UTC. Decided: 2026-05-22 09:58:38 UTC.
+
+Prior authorization PA00000363 for member M000460 (Donnell Kshlerin). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-04-21 18:49:57 UTC. Decided: 2026-04-26 18:49:57 UTC.
+
+Prior authorization PA00000364 for member M000011 (María Teresa Valadez). Service code: PT-EVAL. Status: approved. Submitted: 2026-05-21 19:23:04 UTC. Decided: 2026-05-25 19:23:04 UTC.
+
+Prior authorization PA00000365 for member M000052 (Lazaro Greenfelder). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-04-07 02:58:42 UTC. Decided: not yet.
+
+Prior authorization PA00000366 for member M000512 (Kim Barton). Service code: MRI-KNEE. Status: pending. Submitted: 2026-02-10 15:25:50 UTC. Decided: not yet.
+
+Prior authorization PA00000367 for member M000199 (Janna Shanahan). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-01-10 11:59:12 UTC. Decided: 2026-01-18 11:59:12 UTC.
+
+Prior authorization PA00000368 for member M000685 (Neil Johnson). Service code: CT-CHEST. Status: approved. Submitted: 2026-05-27 00:52:28 UTC. Decided: 2026-05-31 00:52:28 UTC.
+
+Prior authorization PA00000369 for member M000698 (Marjory Beatty). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-12-12 17:14:32 UTC. Decided: 2025-12-18 17:14:32 UTC.
+
+Prior authorization PA00000370 for member M000899 (Luciano Bode). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-07-11 08:37:10 UTC. Decided: not yet.
+
+Prior authorization PA00000371 for member M000176 (Donetta Bradtke). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-09-03 16:15:17 UTC. Decided: 2026-09-04 16:15:17 UTC.
+
+Prior authorization PA00000372 for member M000134 (Randa Nader). Service code: MRI-KNEE. Status: pending. Submitted: 2026-04-29 11:24:22 UTC. Decided: not yet.
+
+Prior authorization PA00000373 for member M000885 (Svetlana Tremblay). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-11-18 16:05:23 UTC. Decided: 2025-11-20 16:05:23 UTC.
+
+Prior authorization PA00000374 for member M000604 (Sofia Mesa). Service code: PT-EVAL. Status: approved. Submitted: 2026-09-29 02:01:52 UTC. Decided: 2026-10-06 02:01:52 UTC.
+
+Prior authorization PA00000375 for member M000478 (Lashawnda O'Hara). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2025-12-06 22:28:31 UTC. Decided: 2025-12-16 22:28:31 UTC.
+
+Prior authorization PA00000376 for member M000877 (Hong Miller). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-10-23 16:30:29 UTC. Decided: 2025-11-02 16:30:29 UTC.
+
+Prior authorization PA00000377 for member M000054 (Reyes White). Service code: PT-EVAL. Status: denied. Submitted: 2025-12-08 12:21:54 UTC. Decided: 2025-12-17 12:21:54 UTC.
+
+Prior authorization PA00000378 for member M000211 (Leonardo Carter). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-04 21:24:05 UTC. Decided: 2026-04-14 21:24:05 UTC.
+
+Prior authorization PA00000379 for member M000397 (Maddie Gutmann). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-10-18 02:27:33 UTC. Decided: 2026-10-21 02:27:33 UTC.
+
+Prior authorization PA00000380 for member M000863 (Bee Macejkovic). Service code: PT-EVAL. Status: approved. Submitted: 2026-09-09 18:31:42 UTC. Decided: 2026-09-19 18:31:42 UTC.
+
+Prior authorization PA00000381 for member M000091 (Brain Wuckert). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-06-02 06:46:09 UTC. Decided: 2026-06-05 06:46:09 UTC.
+
+Prior authorization PA00000382 for member M000733 (Mallory Hills). Service code: CT-CHEST. Status: approved. Submitted: 2026-03-26 21:16:54 UTC. Decided: 2026-04-05 21:16:54 UTC.
+
+Prior authorization PA00000383 for member M000633 (Romeo Toy). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-07-22 05:18:07 UTC. Decided: 2026-07-28 05:18:07 UTC.
+
+Prior authorization PA00000384 for member M001061 (Gary Hoppe). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-03-16 13:25:43 UTC. Decided: not yet.
+
+Prior authorization PA00000385 for member M001039 (José Emilio Niño). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-09-19 05:15:53 UTC. Decided: 2026-09-20 05:15:53 UTC.
+
+Prior authorization PA00000386 for member M000411 (Sheldon Becker). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-05-22 12:31:04 UTC. Decided: 2026-05-26 12:31:04 UTC.
+
+Prior authorization PA00000387 for member M000975 (Heath King). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-11-22 12:26:07 UTC. Decided: 2025-11-30 12:26:07 UTC.
+
+Prior authorization PA00000388 for member M001160 (Domingo Bashirian). Service code: CT-CHEST. Status: pending. Submitted: 2026-08-21 12:03:23 UTC. Decided: not yet.
+
+Prior authorization PA00000389 for member M000333 (Shona Swift). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-08-29 10:54:33 UTC. Decided: 2026-09-06 10:54:33 UTC.
+
+Prior authorization PA00000390 for member M000008 (Vito Toy). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-11-08 18:03:22 UTC. Decided: 2025-11-12 18:03:22 UTC.
+
+Prior authorization PA00000391 for member M000437 (Leland Runolfsdottir). Service code: MRI-KNEE. Status: approved. Submitted: 2026-10-07 08:23:02 UTC. Decided: 2026-10-15 08:23:02 UTC.
+
+Prior authorization PA00000392 for member M000378 (Colby Bernier). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-05 13:41:11 UTC. Decided: 2026-04-11 13:41:11 UTC.
+
+Prior authorization PA00000393 for member M001137 (Nicholas Muller). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-10-23 02:41:04 UTC. Decided: 2025-10-26 02:41:04 UTC.
+
+Prior authorization PA00000394 for member M000738 (Demetra Jaskolski). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-03-15 16:02:05 UTC. Decided: 2026-03-16 16:02:05 UTC.
+
+Prior authorization PA00000395 for member M000449 (Anh Schaden). Service code: CT-CHEST. Status: approved. Submitted: 2026-01-27 07:12:09 UTC. Decided: 2026-01-30 07:12:09 UTC.
+
+Prior authorization PA00000396 for member M000402 (Denny Watsica). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-09 20:11:20 UTC. Decided: 2026-04-12 20:11:20 UTC.
+
+Prior authorization PA00000397 for member M000282 (Reyna Kemmer). Service code: PT-EVAL. Status: approved. Submitted: 2026-03-01 03:41:03 UTC. Decided: 2026-03-03 03:41:03 UTC.
+
+Prior authorization PA00000398 for member M000492 (Henriette Flatley). Service code: CT-CHEST. Status: approved. Submitted: 2026-04-09 07:39:16 UTC. Decided: 2026-04-15 07:39:16 UTC.
+
+Prior authorization PA00000399 for member M000889 (Jimmie Effertz). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-09-21 06:14:20 UTC. Decided: not yet.
+
+Prior authorization PA00000400 for member M000268 (Sudie Rowe). Service code: MRI-KNEE. Status: approved. Submitted: 2025-11-20 04:18:51 UTC. Decided: 2025-11-24 04:18:51 UTC.
+
+Prior authorization PA00000401 for member M000652 (Ned Emmerich). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-07-17 13:46:10 UTC. Decided: 2026-07-24 13:46:10 UTC.
+
+Prior authorization PA00000402 for member M000388 (Sharilyn Schmitt). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-09-08 08:54:13 UTC. Decided: not yet.
+
+Prior authorization PA00000403 for member M000110 (Mohamed Mann). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-03-17 05:24:32 UTC. Decided: 2026-03-22 05:24:32 UTC.
+
+Prior authorization PA00000404 for member M001002 (Dewayne Jacobi). Service code: MRI-KNEE. Status: pending. Submitted: 2025-12-21 18:30:19 UTC. Decided: not yet.
+
+Prior authorization PA00000405 for member M000133 (Jamison Denesik). Service code: MRI-KNEE. Status: denied. Submitted: 2025-11-28 17:08:11 UTC. Decided: 2025-12-07 17:08:11 UTC.
+
+Prior authorization PA00000406 for member M000767 (Augustine Dickinson). Service code: PT-EVAL. Status: denied. Submitted: 2026-05-04 23:29:10 UTC. Decided: 2026-05-13 23:29:10 UTC.
+
+Prior authorization PA00000407 for member M000766 (Parker Hauck). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-06-12 06:31:01 UTC. Decided: 2026-06-20 06:31:01 UTC.
+
+Prior authorization PA00000408 for member M000822 (Temple Bruen). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-28 17:14:56 UTC. Decided: 2026-07-08 17:14:56 UTC.
+
+Prior authorization PA00000409 for member M000416 (Elliott Nikolaus). Service code: PT-EVAL. Status: approved. Submitted: 2026-09-15 01:19:57 UTC. Decided: 2026-09-19 01:19:57 UTC.
+
+Prior authorization PA00000410 for member M000773 (Chanel Emmerich). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-05-08 07:57:31 UTC. Decided: 2026-05-11 07:57:31 UTC.
+
+Prior authorization PA00000411 for member M000276 (Jackie Runolfsson). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-27 09:16:01 UTC. Decided: 2026-05-02 09:16:01 UTC.
+
+Prior authorization PA00000412 for member M000085 (Son Donnelly). Service code: PT-EVAL. Status: approved. Submitted: 2026-06-02 18:53:22 UTC. Decided: 2026-06-11 18:53:22 UTC.
+
+Prior authorization PA00000413 for member M000958 (Phillis Walter). Service code: PT-EVAL. Status: approved. Submitted: 2026-09-01 12:14:49 UTC. Decided: 2026-09-08 12:14:49 UTC.
+
+Prior authorization PA00000414 for member M000784 (Majorie Grady). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-24 18:06:53 UTC. Decided: 2026-04-27 18:06:53 UTC.
+
+Prior authorization PA00000415 for member M000156 (Rene Wisoky). Service code: CT-CHEST. Status: approved. Submitted: 2026-06-01 08:30:43 UTC. Decided: 2026-06-03 08:30:43 UTC.
+
+Prior authorization PA00000416 for member M000161 (Antony McDermott). Service code: CT-CHEST. Status: approved. Submitted: 2026-03-17 18:16:07 UTC. Decided: 2026-03-21 18:16:07 UTC.
+
+Prior authorization PA00000417 for member M000079 (Margherita King). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-12-07 04:19:03 UTC. Decided: 2025-12-11 04:19:03 UTC.
+
+Prior authorization PA00000418 for member M000513 (Teresa Estévez). Service code: CT-CHEST. Status: denied. Submitted: 2026-04-06 07:09:34 UTC. Decided: 2026-04-11 07:09:34 UTC.
+
+Prior authorization PA00000419 for member M001113 (Dalton Marks). Service code: CT-CHEST. Status: pending. Submitted: 2026-01-23 21:59:31 UTC. Decided: not yet.
+
+Prior authorization PA00000420 for member M000710 (Ligia Becker). Service code: PT-EVAL. Status: approved. Submitted: 2025-10-22 10:54:12 UTC. Decided: 2025-10-29 10:54:12 UTC.
+
+Prior authorization PA00000421 for member M001050 (Lyla Braun). Service code: MRI-KNEE. Status: approved. Submitted: 2026-08-10 23:51:32 UTC. Decided: 2026-08-17 23:51:32 UTC.
+
+Prior authorization PA00000422 for member M000430 (Duane Gibson). Service code: PT-EVAL. Status: denied. Submitted: 2026-02-11 08:15:43 UTC. Decided: 2026-02-15 08:15:43 UTC.
+
+Prior authorization PA00000423 for member M000960 (Shemeka Kertzmann). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-07-09 21:22:19 UTC. Decided: 2026-07-17 21:22:19 UTC.
+
+Prior authorization PA00000424 for member M000385 (Herbert Renner). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-10 03:07:35 UTC. Decided: 2026-04-17 03:07:35 UTC.
+
+Prior authorization PA00000425 for member M001144 (Glinda O'Keefe). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-02-02 15:58:18 UTC. Decided: 2026-02-08 15:58:18 UTC.
+
+Prior authorization PA00000426 for member M000626 (Carita Larson). Service code: SURG-OUTPT. Status: pending. Submitted: 2025-12-28 21:01:35 UTC. Decided: not yet.
+
+Prior authorization PA00000427 for member M000727 (Luella Corwin). Service code: CT-CHEST. Status: denied. Submitted: 2025-10-22 18:11:49 UTC. Decided: 2025-10-26 18:11:49 UTC.
+
+Prior authorization PA00000428 for member M000827 (Brett Heathcote). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-05-20 15:29:59 UTC. Decided: 2026-05-29 15:29:59 UTC.
+
+Prior authorization PA00000429 for member M001163 (Andrew Wilkinson). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-03-20 11:52:19 UTC. Decided: 2026-03-23 11:52:19 UTC.
+
+Prior authorization PA00000430 for member M000801 (Hertha Lesch). Service code: PT-EVAL. Status: approved. Submitted: 2026-01-04 12:01:26 UTC. Decided: 2026-01-08 12:01:26 UTC.
+
+Prior authorization PA00000431 for member M000386 (Carlos Mayert). Service code: PT-EVAL. Status: approved. Submitted: 2026-05-06 02:19:10 UTC. Decided: 2026-05-08 02:19:10 UTC.
+
+Prior authorization PA00000432 for member M000624 (Stevie Wolff). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-04-04 20:44:07 UTC. Decided: not yet.
+
+Prior authorization PA00000433 for member M000364 (Louvenia Wisozk). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-01-13 03:47:52 UTC. Decided: 2026-01-23 03:47:52 UTC.
+
+Prior authorization PA00000434 for member M000143 (Kori Gleichner). Service code: PT-EVAL. Status: approved. Submitted: 2026-06-25 00:58:37 UTC. Decided: 2026-06-30 00:58:37 UTC.
+
+Prior authorization PA00000435 for member M001074 (Lamar McDermott). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-01-31 08:29:04 UTC. Decided: 2026-02-08 08:29:04 UTC.
+
+Prior authorization PA00000436 for member M000352 (Emilio Partida). Service code: CT-CHEST. Status: approved. Submitted: 2025-11-16 13:25:19 UTC. Decided: 2025-11-23 13:25:19 UTC.
+
+Prior authorization PA00000437 for member M000265 (Teresita Little). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-05-06 05:43:02 UTC. Decided: not yet.
+
+Prior authorization PA00000438 for member M000797 (Abdul Harris). Service code: MRI-KNEE. Status: denied. Submitted: 2026-05-20 17:24:45 UTC. Decided: 2026-05-23 17:24:45 UTC.
+
+Prior authorization PA00000439 for member M000973 (Inés Huerta). Service code: MRI-KNEE. Status: approved. Submitted: 2026-01-31 11:16:40 UTC. Decided: 2026-02-10 11:16:40 UTC.
+
+Prior authorization PA00000440 for member M001030 (Angelyn Mills). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-08-08 11:17:53 UTC. Decided: 2026-08-16 11:17:53 UTC.
+
+Prior authorization PA00000441 for member M000293 (Shelba Dicki). Service code: PT-EVAL. Status: approved. Submitted: 2026-03-08 07:20:37 UTC. Decided: 2026-03-10 07:20:37 UTC.
+
+Prior authorization PA00000442 for member M001077 (Latarsha Carroll). Service code: CT-CHEST. Status: denied. Submitted: 2026-05-10 22:01:18 UTC. Decided: 2026-05-20 22:01:18 UTC.
+
+Prior authorization PA00000443 for member M000081 (Cory Corkery). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-26 16:45:19 UTC. Decided: 2026-06-28 16:45:19 UTC.
+
+Prior authorization PA00000444 for member M000935 (Esteban Moore). Service code: CT-CHEST. Status: pending. Submitted: 2026-03-14 23:31:51 UTC. Decided: not yet.
+
+Prior authorization PA00000445 for member M000359 (Louis Senger). Service code: PT-EVAL. Status: approved. Submitted: 2026-10-11 10:49:47 UTC. Decided: 2026-10-15 10:49:47 UTC.
+
+Prior authorization PA00000446 for member M000938 (Krystyna VonRueden). Service code: PT-EVAL. Status: denied. Submitted: 2026-01-17 22:29:27 UTC. Decided: 2026-01-20 22:29:27 UTC.
+
+Prior authorization PA00000447 for member M000090 (Vita Bosco). Service code: MRI-KNEE. Status: approved. Submitted: 2026-10-10 20:42:09 UTC. Decided: 2026-10-13 20:42:09 UTC.
+
+Prior authorization PA00000448 for member M000137 (Brock Paucek). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-03-07 22:52:04 UTC. Decided: 2026-03-11 22:52:04 UTC.
+
+Prior authorization PA00000449 for member M001133 (Scarlet Gaylord). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-06-27 14:58:27 UTC. Decided: not yet.
+
+Prior authorization PA00000450 for member M001034 (Angelo Conroy). Service code: CT-CHEST. Status: denied. Submitted: 2026-04-24 02:47:11 UTC. Decided: 2026-05-01 02:47:11 UTC.
+
+Prior authorization PA00000451 for member M001037 (Buddy Gislason). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-06-05 06:00:05 UTC. Decided: 2026-06-13 06:00:05 UTC.
+
+Prior authorization PA00000452 for member M000946 (Sherwood Glover). Service code: PT-EVAL. Status: approved. Submitted: 2025-10-31 02:39:53 UTC. Decided: 2025-11-06 02:39:53 UTC.
+
+Prior authorization PA00000453 for member M000022 (Sydney Kassulke). Service code: CT-CHEST. Status: approved. Submitted: 2026-05-10 07:04:40 UTC. Decided: 2026-05-12 07:04:40 UTC.
+
+Prior authorization PA00000454 for member M000951 (Luis Juárez). Service code: PT-EVAL. Status: approved. Submitted: 2026-10-16 04:58:08 UTC. Decided: 2026-10-24 04:58:08 UTC.
+
+Prior authorization PA00000455 for member M000497 (Noriko Mayert). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-11-21 03:00:19 UTC. Decided: 2025-11-29 03:00:19 UTC.
+
+Prior authorization PA00000456 for member M000331 (Raúl Porras). Service code: MRI-KNEE. Status: denied. Submitted: 2025-12-28 17:08:27 UTC. Decided: 2025-12-29 17:08:27 UTC.
+
+Prior authorization PA00000457 for member M000255 (Shelby Schroeder). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-08-24 03:39:34 UTC. Decided: 2026-08-31 03:39:34 UTC.
+
+Prior authorization PA00000458 for member M000023 (Shanda Cremin). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-01-12 02:49:29 UTC. Decided: 2026-01-17 02:49:29 UTC.
+
+Prior authorization PA00000459 for member M000444 (Lashandra Ankunding). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-01-04 16:02:37 UTC. Decided: 2026-01-05 16:02:37 UTC.
+
+Prior authorization PA00000460 for member M000098 (Cyrus Schuster). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-09-28 19:22:49 UTC. Decided: 2026-10-07 19:22:49 UTC.
+
+Prior authorization PA00000461 for member M000632 (Juana Duarte). Service code: PT-EVAL. Status: approved. Submitted: 2026-09-11 03:44:33 UTC. Decided: 2026-09-12 03:44:33 UTC.
+
+Prior authorization PA00000462 for member M000773 (Chanel Emmerich). Service code: MRI-KNEE. Status: approved. Submitted: 2026-08-20 00:10:11 UTC. Decided: 2026-08-24 00:10:11 UTC.
+
+Prior authorization PA00000463 for member M000033 (Armando Stiedemann). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-27 08:41:05 UTC. Decided: 2026-04-28 08:41:05 UTC.
+
+Prior authorization PA00000464 for member M000130 (Cheri Prosacco). Service code: MRI-KNEE. Status: denied. Submitted: 2025-10-25 12:16:26 UTC. Decided: 2025-10-27 12:16:26 UTC.
+
+Prior authorization PA00000465 for member M000091 (Brain Wuckert). Service code: PT-EVAL. Status: denied. Submitted: 2026-09-23 06:06:44 UTC. Decided: 2026-10-02 06:06:44 UTC.
+
+Prior authorization PA00000466 for member M000389 (Elwood Gottlieb). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-12-12 11:54:39 UTC. Decided: 2025-12-16 11:54:39 UTC.
+
+Prior authorization PA00000467 for member M000248 (Alvaro Altenwerth). Service code: MRI-KNEE. Status: pending. Submitted: 2026-07-22 14:23:01 UTC. Decided: not yet.
+
+Prior authorization PA00000468 for member M000356 (Manual Morissette). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-02-04 03:51:18 UTC. Decided: 2026-02-11 03:51:18 UTC.
+
+Prior authorization PA00000469 for member M000436 (Jonathon Rice). Service code: PT-EVAL. Status: approved. Submitted: 2026-09-17 11:30:50 UTC. Decided: 2026-09-21 11:30:50 UTC.
+
+Prior authorization PA00000470 for member M000756 (Vivienne Doyle). Service code: MRI-BRAIN. Status: denied. Submitted: 2025-11-20 23:57:20 UTC. Decided: 2025-11-22 23:57:20 UTC.
+
+Prior authorization PA00000471 for member M001024 (Yong Rodriguez). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-02-06 14:58:03 UTC. Decided: 2026-02-15 14:58:03 UTC.
+
+Prior authorization PA00000472 for member M000195 (Manuel Gusikowski). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-08-05 06:14:33 UTC. Decided: 2026-08-11 06:14:33 UTC.
+
+Prior authorization PA00000473 for member M000273 (Lashaun Leannon). Service code: CT-CHEST. Status: denied. Submitted: 2026-09-06 14:08:50 UTC. Decided: 2026-09-09 14:08:50 UTC.
+
+Prior authorization PA00000474 for member M000988 (Rich Armstrong). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-09-08 11:34:36 UTC. Decided: not yet.
+
+Prior authorization PA00000475 for member M000920 (Miss Reichert). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-07 00:38:33 UTC. Decided: 2026-04-16 00:38:33 UTC.
+
+Prior authorization PA00000476 for member M000028 (Ezequiel Gulgowski). Service code: MRI-KNEE. Status: approved. Submitted: 2026-09-10 08:27:44 UTC. Decided: 2026-09-11 08:27:44 UTC.
+
+Prior authorization PA00000477 for member M000878 (Morris Ruecker). Service code: MRI-KNEE. Status: approved. Submitted: 2026-08-29 04:31:00 UTC. Decided: 2026-09-08 04:31:00 UTC.
+
+Prior authorization PA00000478 for member M001022 (Marybeth Brekke). Service code: CT-CHEST. Status: approved. Submitted: 2025-11-27 02:10:54 UTC. Decided: 2025-12-01 02:10:54 UTC.
+
+Prior authorization PA00000479 for member M000078 (Chauncey Jones). Service code: MRI-KNEE. Status: approved. Submitted: 2026-01-03 13:40:50 UTC. Decided: 2026-01-13 13:40:50 UTC.
+
+Prior authorization PA00000480 for member M000651 (Mika Daugherty). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-02 11:58:02 UTC. Decided: 2026-06-03 11:58:02 UTC.
+
+Prior authorization PA00000481 for member M000591 (Aimee Hudson). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-07-11 15:06:20 UTC. Decided: 2026-07-15 15:06:20 UTC.
+
+Prior authorization PA00000482 for member M001105 (Sterling Rau). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-05 12:28:42 UTC. Decided: 2026-04-09 12:28:42 UTC.
+
+Prior authorization PA00000483 for member M000782 (Allen Ferry). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-10-04 08:05:56 UTC. Decided: 2026-10-10 08:05:56 UTC.
+
+Prior authorization PA00000484 for member M000133 (Jamison Denesik). Service code: PT-EVAL. Status: approved. Submitted: 2026-01-19 16:06:21 UTC. Decided: 2026-01-21 16:06:21 UTC.
+
+Prior authorization PA00000485 for member M000290 (Charline Braun). Service code: MRI-KNEE. Status: approved. Submitted: 2026-01-24 01:53:49 UTC. Decided: 2026-01-27 01:53:49 UTC.
+
+Prior authorization PA00000486 for member M000419 (Grady Rutherford). Service code: MRI-KNEE. Status: approved. Submitted: 2025-12-03 06:19:24 UTC. Decided: 2025-12-12 06:19:24 UTC.
+
+Prior authorization PA00000487 for member M000638 (Emilie Kozey). Service code: MRI-KNEE. Status: denied. Submitted: 2025-11-27 15:31:08 UTC. Decided: 2025-12-01 15:31:08 UTC.
+
+Prior authorization PA00000488 for member M000510 (Cecilia Arroyo). Service code: CT-CHEST. Status: approved. Submitted: 2026-02-20 15:26:16 UTC. Decided: 2026-02-25 15:26:16 UTC.
+
+Prior authorization PA00000489 for member M000413 (Ellis Trantow). Service code: CT-CHEST. Status: pending. Submitted: 2026-08-09 16:19:15 UTC. Decided: not yet.
+
+Prior authorization PA00000490 for member M000737 (Willodean Hyatt). Service code: PT-EVAL. Status: pending. Submitted: 2026-06-21 02:54:47 UTC. Decided: not yet.
+
+Prior authorization PA00000491 for member M000866 (Jennie Jerde). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-04-29 06:06:29 UTC. Decided: 2026-05-09 06:06:29 UTC.
+
+Prior authorization PA00000492 for member M000988 (Rich Armstrong). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-05-27 05:40:31 UTC. Decided: 2026-06-03 05:40:31 UTC.
+
+Prior authorization PA00000493 for member M000615 (Scottie Fritsch). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-05-24 03:01:49 UTC. Decided: 2026-06-02 03:01:49 UTC.
+
+Prior authorization PA00000494 for member M000527 (Oralia Williamson). Service code: PT-EVAL. Status: denied. Submitted: 2026-01-04 20:07:43 UTC. Decided: 2026-01-12 20:07:43 UTC.
+
+Prior authorization PA00000495 for member M001152 (Tracy Kirlin). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-03-23 16:30:54 UTC. Decided: 2026-03-31 16:30:54 UTC.
+
+Prior authorization PA00000496 for member M000962 (Jeff Wehner). Service code: MRI-KNEE. Status: approved. Submitted: 2025-11-23 12:07:57 UTC. Decided: 2025-11-26 12:07:57 UTC.
+
+Prior authorization PA00000497 for member M001026 (Esteban Mitchell). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-01-23 00:09:07 UTC. Decided: 2026-01-29 00:09:07 UTC.
+
+Prior authorization PA00000498 for member M000809 (Shaun Jenkins). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-06-26 14:43:45 UTC. Decided: not yet.
+
+Prior authorization PA00000499 for member M000146 (Robin Reichel). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-27 13:58:56 UTC. Decided: 2026-04-28 13:58:56 UTC.
+
+Prior authorization PA00000500 for member M000333 (Shona Swift). Service code: MRI-KNEE. Status: pending. Submitted: 2025-12-20 14:00:39 UTC. Decided: not yet.
+
+Prior authorization PA00000501 for member M000714 (Francisco Sauer). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-05-29 09:17:37 UTC. Decided: 2026-06-06 09:17:37 UTC.
+
+Prior authorization PA00000502 for member M000790 (Claire Lakin). Service code: PT-EVAL. Status: denied. Submitted: 2026-09-08 13:24:18 UTC. Decided: 2026-09-12 13:24:18 UTC.
+
+Prior authorization PA00000503 for member M000741 (Kimbra Bogan). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-02-19 17:23:36 UTC. Decided: 2026-02-20 17:23:36 UTC.
+
+Prior authorization PA00000504 for member M000933 (Lila Weber). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-10-10 23:29:45 UTC. Decided: 2026-10-13 23:29:45 UTC.
+
+Prior authorization PA00000505 for member M000331 (Raúl Porras). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-02-25 09:00:29 UTC. Decided: 2026-02-27 09:00:29 UTC.
+
+Prior authorization PA00000506 for member M000788 (Allan Koelpin). Service code: PT-EVAL. Status: denied. Submitted: 2025-12-04 23:27:42 UTC. Decided: 2025-12-14 23:27:42 UTC.
+
+Prior authorization PA00000507 for member M000867 (Christen Aufderhar). Service code: MRI-KNEE. Status: pending. Submitted: 2025-11-28 18:52:45 UTC. Decided: not yet.
+
+Prior authorization PA00000508 for member M001026 (Esteban Mitchell). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-05-24 09:12:24 UTC. Decided: 2026-05-31 09:12:24 UTC.
+
+Prior authorization PA00000509 for member M000183 (Marcelo Kub). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-08-14 11:12:47 UTC. Decided: 2026-08-24 11:12:47 UTC.
+
+Prior authorization PA00000510 for member M000430 (Duane Gibson). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-04-12 05:11:45 UTC. Decided: 2026-04-19 05:11:45 UTC.
+
+Prior authorization PA00000511 for member M000345 (Paris West). Service code: PT-EVAL. Status: approved. Submitted: 2026-10-10 11:13:03 UTC. Decided: 2026-10-11 11:13:03 UTC.
+
+Prior authorization PA00000512 for member M000856 (Clay Gleason). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2025-12-06 02:32:34 UTC. Decided: 2025-12-13 02:32:34 UTC.
+
+Prior authorization PA00000513 for member M000350 (Norman Glover). Service code: MRI-KNEE. Status: denied. Submitted: 2026-09-18 10:29:53 UTC. Decided: 2026-09-24 10:29:53 UTC.
+
+Prior authorization PA00000514 for member M000373 (Mickey Oberbrunner). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-01-21 04:53:27 UTC. Decided: 2026-01-23 04:53:27 UTC.
+
+Prior authorization PA00000515 for member M000381 (Carmen Gutkowski). Service code: MRI-KNEE. Status: denied. Submitted: 2026-06-05 20:38:49 UTC. Decided: 2026-06-06 20:38:49 UTC.
+
+Prior authorization PA00000516 for member M000838 (Alva Conn). Service code: PT-EVAL. Status: approved. Submitted: 2026-01-19 06:59:10 UTC. Decided: 2026-01-29 06:59:10 UTC.
+
+Prior authorization PA00000517 for member M000601 (Stephan Krajcik). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-12-12 23:10:18 UTC. Decided: 2025-12-19 23:10:18 UTC.
+
+Prior authorization PA00000518 for member M000061 (Carol Lesch). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-12-20 10:04:35 UTC. Decided: 2025-12-24 10:04:35 UTC.
+
+Prior authorization PA00000519 for member M000207 (Bob Waelchi). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-06-19 17:39:55 UTC. Decided: 2026-06-20 17:39:55 UTC.
+
+Prior authorization PA00000520 for member M000086 (Erin Schumm). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-03-03 00:15:47 UTC. Decided: 2026-03-07 00:15:47 UTC.
+
+Prior authorization PA00000521 for member M001066 (Arron Labadie). Service code: CT-CHEST. Status: approved. Submitted: 2026-07-12 00:15:51 UTC. Decided: 2026-07-20 00:15:51 UTC.
+
+Prior authorization PA00000522 for member M000690 (Lucretia Mann). Service code: CT-CHEST. Status: approved. Submitted: 2026-06-17 12:16:15 UTC. Decided: 2026-06-23 12:16:15 UTC.
+
+Prior authorization PA00000523 for member M000817 (Breanne Leffler). Service code: PT-EVAL. Status: pending. Submitted: 2026-03-28 08:43:24 UTC. Decided: not yet.
+
+Prior authorization PA00000524 for member M000677 (Laverne Anderson). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-08-26 02:05:02 UTC. Decided: not yet.
+
+Prior authorization PA00000525 for member M000823 (Kaye Mayert). Service code: SURG-OUTPT. Status: pending. Submitted: 2025-10-19 16:38:09 UTC. Decided: not yet.
+
+Prior authorization PA00000526 for member M001087 (Dorotea Botello). Service code: CT-CHEST. Status: approved. Submitted: 2025-12-28 00:56:05 UTC. Decided: 2026-01-01 00:56:05 UTC.
+
+Prior authorization PA00000527 for member M000974 (Tad Pagac). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-04-24 16:27:13 UTC. Decided: 2026-05-01 16:27:13 UTC.
+
+Prior authorization PA00000528 for member M000660 (Betsy Morissette). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-09-21 06:50:33 UTC. Decided: 2026-09-27 06:50:33 UTC.
+
+Prior authorization PA00000529 for member M000479 (Sunni Oberbrunner). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2025-11-10 11:51:07 UTC. Decided: 2025-11-18 11:51:07 UTC.
+
+Prior authorization PA00000530 for member M000714 (Francisco Sauer). Service code: PT-EVAL. Status: denied. Submitted: 2026-05-10 22:18:13 UTC. Decided: 2026-05-18 22:18:13 UTC.
+
+Prior authorization PA00000531 for member M000602 (Chong Boehm). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-09-20 03:39:26 UTC. Decided: 2026-09-24 03:39:26 UTC.
+
+Prior authorization PA00000532 for member M001034 (Angelo Conroy). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-10-17 05:12:44 UTC. Decided: not yet.
+
+Prior authorization PA00000533 for member M000618 (Lean Barrows). Service code: SURG-OUTPT. Status: denied. Submitted: 2025-12-22 18:07:44 UTC. Decided: 2025-12-31 18:07:44 UTC.
+
+Prior authorization PA00000534 for member M000237 (Jerry Satterfield). Service code: PT-EVAL. Status: pending. Submitted: 2026-06-14 06:07:07 UTC. Decided: not yet.
+
+Prior authorization PA00000535 for member M000434 (Sammie Mosciski). Service code: MRI-KNEE. Status: approved. Submitted: 2026-09-22 19:41:06 UTC. Decided: 2026-09-24 19:41:06 UTC.
+
+Prior authorization PA00000536 for member M000060 (Dwayne Fisher). Service code: MRI-KNEE. Status: pending. Submitted: 2025-12-11 15:50:02 UTC. Decided: not yet.
+
+Prior authorization PA00000537 for member M000452 (Rashida Murray). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-04-03 13:57:44 UTC. Decided: 2026-04-08 13:57:44 UTC.
+
+Prior authorization PA00000538 for member M000253 (Ching Morar). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-09-23 17:20:29 UTC. Decided: not yet.
+
+Prior authorization PA00000539 for member M001008 (Tyson Bailey). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-12-26 19:27:43 UTC. Decided: 2026-01-01 19:27:43 UTC.
+
+Prior authorization PA00000540 for member M000133 (Jamison Denesik). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-02-09 20:58:13 UTC. Decided: 2026-02-15 20:58:13 UTC.
+
+Prior authorization PA00000541 for member M001151 (Janie Macejkovic). Service code: PT-EVAL. Status: denied. Submitted: 2026-04-29 13:53:43 UTC. Decided: 2026-05-03 13:53:43 UTC.
+
+Prior authorization PA00000542 for member M000180 (Yevette Tillman). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-02-09 09:25:59 UTC. Decided: 2026-02-11 09:25:59 UTC.
+
+Prior authorization PA00000543 for member M000238 (Darrel O'Reilly). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-04-10 21:33:40 UTC. Decided: not yet.
+
+Prior authorization PA00000544 for member M000779 (Robt Mante). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-04-24 04:38:20 UTC. Decided: not yet.
+
+Prior authorization PA00000545 for member M001097 (Carmine Schinner). Service code: MRI-KNEE. Status: approved. Submitted: 2025-10-18 11:18:57 UTC. Decided: 2025-10-25 11:18:57 UTC.
+
+Prior authorization PA00000546 for member M000259 (Maribel Haley). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-05-22 11:38:16 UTC. Decided: 2026-06-01 11:38:16 UTC.
+
+Prior authorization PA00000547 for member M000019 (Katharyn Toy). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-08-16 08:05:16 UTC. Decided: 2026-08-24 08:05:16 UTC.
+
+Prior authorization PA00000548 for member M000608 (Dewitt Bernier). Service code: MRI-KNEE. Status: denied. Submitted: 2026-03-28 05:16:06 UTC. Decided: 2026-04-05 05:16:06 UTC.
+
+Prior authorization PA00000549 for member M000581 (Ciara Effertz). Service code: MRI-KNEE. Status: approved. Submitted: 2026-10-01 16:35:40 UTC. Decided: 2026-10-02 16:35:40 UTC.
+
+Prior authorization PA00000550 for member M000253 (Ching Morar). Service code: CT-CHEST. Status: approved. Submitted: 2026-08-20 11:39:21 UTC. Decided: 2026-08-30 11:39:21 UTC.
+
+Prior authorization PA00000551 for member M001014 (Josphine Keebler). Service code: CT-CHEST. Status: denied. Submitted: 2026-06-19 22:58:36 UTC. Decided: 2026-06-26 22:58:36 UTC.
+
+Prior authorization PA00000552 for member M000432 (Lenora Cartwright). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-11-17 12:07:45 UTC. Decided: 2025-11-21 12:07:45 UTC.
+
+Prior authorization PA00000553 for member M000367 (Tiana Fay). Service code: PT-EVAL. Status: pending. Submitted: 2026-10-11 01:54:49 UTC. Decided: not yet.
+
+Prior authorization PA00000554 for member M000327 (Margie Hermiston). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-05-06 10:53:23 UTC. Decided: not yet.
+
+Prior authorization PA00000555 for member M000970 (Claudio Swift). Service code: CT-CHEST. Status: approved. Submitted: 2026-07-25 14:16:57 UTC. Decided: 2026-08-01 14:16:57 UTC.
+
+Prior authorization PA00000556 for member M000580 (Anthony Wehner). Service code: CT-CHEST. Status: approved. Submitted: 2026-05-06 02:36:54 UTC. Decided: 2026-05-10 02:36:54 UTC.
+
+Prior authorization PA00000557 for member M000269 (Kyle Towne). Service code: CT-CHEST. Status: approved. Submitted: 2026-10-11 19:57:08 UTC. Decided: 2026-10-21 19:57:08 UTC.
+
+Prior authorization PA00000558 for member M000336 (María José Duarte). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-11-14 11:04:15 UTC. Decided: 2025-11-17 11:04:15 UTC.
+
+Prior authorization PA00000559 for member M000297 (Rosana Kessler). Service code: MRI-KNEE. Status: approved. Submitted: 2026-06-01 17:33:54 UTC. Decided: 2026-06-05 17:33:54 UTC.
+
+Prior authorization PA00000560 for member M000209 (Moira McLaughlin). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-01-26 23:42:39 UTC. Decided: 2026-01-29 23:42:39 UTC.
+
+Prior authorization PA00000561 for member M000345 (Paris West). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-04-28 15:33:02 UTC. Decided: 2026-04-30 15:33:02 UTC.
+
+Prior authorization PA00000562 for member M000108 (Mateo Cardenas). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-18 17:15:11 UTC. Decided: 2026-04-27 17:15:11 UTC.
+
+Prior authorization PA00000563 for member M000305 (Laurine Cronin). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-09-15 12:19:26 UTC. Decided: 2026-09-22 12:19:26 UTC.
+
+Prior authorization PA00000564 for member M000813 (Avis Ankunding). Service code: PT-EVAL. Status: approved. Submitted: 2026-02-20 01:14:15 UTC. Decided: 2026-02-25 01:14:15 UTC.
+
+Prior authorization PA00000565 for member M000769 (Cesar Strosin). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-10-05 21:42:19 UTC. Decided: not yet.
+
+Prior authorization PA00000566 for member M000950 (Lorinda Rosenbaum). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-09-26 23:58:33 UTC. Decided: 2026-10-03 23:58:33 UTC.
+
+Prior authorization PA00000567 for member M000753 (Andrea Champlin). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-03-07 23:01:21 UTC. Decided: 2026-03-09 23:01:21 UTC.
+
+Prior authorization PA00000568 for member M001044 (Elza Johnson). Service code: MRI-KNEE. Status: approved. Submitted: 2025-12-16 03:00:31 UTC. Decided: 2025-12-17 03:00:31 UTC.
+
+Prior authorization PA00000569 for member M000983 (Lucio Ledner). Service code: CT-CHEST. Status: pending. Submitted: 2026-08-14 20:51:41 UTC. Decided: not yet.
+
+Prior authorization PA00000570 for member M000371 (Porfirio Wunsch). Service code: PT-EVAL. Status: denied. Submitted: 2026-10-08 03:26:33 UTC. Decided: 2026-10-16 03:26:33 UTC.
+
+Prior authorization PA00000571 for member M000257 (Ruby Cole). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-09-13 15:47:20 UTC. Decided: 2026-09-19 15:47:20 UTC.
+
+Prior authorization PA00000572 for member M000041 (Betsey Funk). Service code: PT-EVAL. Status: approved. Submitted: 2025-11-19 19:34:12 UTC. Decided: 2025-11-28 19:34:12 UTC.
+
+Prior authorization PA00000573 for member M001063 (Claude Nikolaus). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-07-19 19:17:59 UTC. Decided: 2026-07-28 19:17:59 UTC.
+
+Prior authorization PA00000574 for member M000425 (Denis Abshire). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-10-18 23:43:39 UTC. Decided: 2026-10-20 23:43:39 UTC.
+
+Prior authorization PA00000575 for member M000011 (María Teresa Valadez). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-01-18 21:48:45 UTC. Decided: 2026-01-26 21:48:45 UTC.
+
+Prior authorization PA00000576 for member M000423 (Robbin Green). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-03-27 04:28:47 UTC. Decided: 2026-03-30 04:28:47 UTC.
+
+Prior authorization PA00000577 for member M000072 (Gabriel Villalpando). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-12-01 20:28:47 UTC. Decided: 2025-12-03 20:28:47 UTC.
+
+Prior authorization PA00000578 for member M001115 (Palma Mann). Service code: MRI-KNEE. Status: approved. Submitted: 2026-07-04 10:52:15 UTC. Decided: 2026-07-11 10:52:15 UTC.
+
+Prior authorization PA00000579 for member M000095 (Lucio Smith). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-09-19 00:00:11 UTC. Decided: 2026-09-24 00:00:11 UTC.
+
+Prior authorization PA00000580 for member M001005 (Odell O'Kon). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-09-20 19:26:45 UTC. Decided: 2026-09-26 19:26:45 UTC.
+
+Prior authorization PA00000581 for member M001046 (Karima Dare). Service code: MRI-KNEE. Status: approved. Submitted: 2026-07-12 12:49:12 UTC. Decided: 2026-07-14 12:49:12 UTC.
+
+Prior authorization PA00000582 for member M000386 (Carlos Mayert). Service code: MRI-KNEE. Status: approved. Submitted: 2026-09-22 01:37:43 UTC. Decided: 2026-09-27 01:37:43 UTC.
+
+Prior authorization PA00000583 for member M000443 (Nedra Dooley). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-02-05 04:53:10 UTC. Decided: 2026-02-11 04:53:10 UTC.
+
+Prior authorization PA00000584 for member M000865 (Young Orn). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-03-09 04:40:41 UTC. Decided: 2026-03-18 04:40:41 UTC.
+
+Prior authorization PA00000585 for member M000335 (Cleveland Dach). Service code: PT-EVAL. Status: approved. Submitted: 2026-02-25 09:29:27 UTC. Decided: 2026-03-05 09:29:27 UTC.
+
+Prior authorization PA00000586 for member M000294 (Waldo Nienow). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2025-11-29 09:15:15 UTC. Decided: 2025-12-03 09:15:15 UTC.
+
+Prior authorization PA00000587 for member M000395 (Marylin Sipes). Service code: SURG-OUTPT. Status: denied. Submitted: 2025-11-23 22:55:18 UTC. Decided: 2025-11-29 22:55:18 UTC.
+
+Prior authorization PA00000588 for member M001048 (Brent Metz). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-08-02 23:55:55 UTC. Decided: 2026-08-05 23:55:55 UTC.
+
+Prior authorization PA00000589 for member M000889 (Jimmie Effertz). Service code: PT-EVAL. Status: approved. Submitted: 2026-05-20 05:35:18 UTC. Decided: 2026-05-21 05:35:18 UTC.
+
+Prior authorization PA00000590 for member M000256 (Thomasena O'Conner). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-08-23 09:00:40 UTC. Decided: 2026-08-25 09:00:40 UTC.
+
+Prior authorization PA00000591 for member M000675 (Donnell Hills). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-10-03 19:57:55 UTC. Decided: 2026-10-05 19:57:55 UTC.
+
+Prior authorization PA00000592 for member M000300 (Brice Stark). Service code: MRI-KNEE. Status: denied. Submitted: 2026-04-21 12:08:34 UTC. Decided: 2026-04-26 12:08:34 UTC.
+
+Prior authorization PA00000593 for member M000456 (Christen Cartwright). Service code: PT-EVAL. Status: approved. Submitted: 2025-10-23 03:33:58 UTC. Decided: 2025-10-25 03:33:58 UTC.
+
+Prior authorization PA00000594 for member M000628 (Malcom Lang). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-12-20 06:23:53 UTC. Decided: 2025-12-28 06:23:53 UTC.
+
+Prior authorization PA00000595 for member M000578 (Shelby Quigley). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-12-05 19:15:31 UTC. Decided: 2025-12-10 19:15:31 UTC.
+
+Prior authorization PA00000596 for member M000350 (Norman Glover). Service code: CT-CHEST. Status: pending. Submitted: 2026-08-25 03:36:24 UTC. Decided: not yet.
+
+Prior authorization PA00000597 for member M001089 (Melodie Cormier). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-05-05 06:34:41 UTC. Decided: 2026-05-15 06:34:41 UTC.
+
+Prior authorization PA00000598 for member M000531 (Geraldine Koch). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-05-12 17:21:43 UTC. Decided: 2026-05-21 17:21:43 UTC.
+
+Prior authorization PA00000599 for member M000293 (Shelba Dicki). Service code: PT-EVAL. Status: denied. Submitted: 2026-10-18 05:39:40 UTC. Decided: 2026-10-28 05:39:40 UTC.
+
+Prior authorization PA00000600 for member M000759 (Judi Russel). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-03-03 01:55:29 UTC. Decided: not yet.
+
+Prior authorization PA00000601 for member M000938 (Krystyna VonRueden). Service code: MRI-KNEE. Status: approved. Submitted: 2026-02-22 22:09:43 UTC. Decided: 2026-03-02 22:09:43 UTC.
+
+Prior authorization PA00000602 for member M000565 (Eli Douglas). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-17 17:03:48 UTC. Decided: 2026-04-26 17:03:48 UTC.
+
+Prior authorization PA00000603 for member M000179 (Tereasa Wyman). Service code: CT-CHEST. Status: approved. Submitted: 2026-02-12 11:06:41 UTC. Decided: 2026-02-19 11:06:41 UTC.
+
+Prior authorization PA00000604 for member M000158 (Cinthia Cremin). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-03-27 03:16:54 UTC. Decided: 2026-03-31 03:16:54 UTC.
+
+Prior authorization PA00000605 for member M000174 (Illa Kuphal). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-12-04 06:00:41 UTC. Decided: 2025-12-09 06:00:41 UTC.
+
+Prior authorization PA00000606 for member M000022 (Sydney Kassulke). Service code: PT-EVAL. Status: denied. Submitted: 2026-07-28 17:56:38 UTC. Decided: 2026-08-06 17:56:38 UTC.
+
+Prior authorization PA00000607 for member M001091 (Terry King). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-12-26 17:27:49 UTC. Decided: 2025-12-28 17:27:49 UTC.
+
+Prior authorization PA00000608 for member M000015 (Eloise Gerhold). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-05-13 00:30:21 UTC. Decided: 2026-05-20 00:30:21 UTC.
+
+Prior authorization PA00000609 for member M000501 (Parker Davis). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-10-12 19:27:15 UTC. Decided: 2026-10-21 19:27:15 UTC.
+
+Prior authorization PA00000610 for member M000919 (Roseanna Fisher). Service code: MRI-KNEE. Status: approved. Submitted: 2026-10-03 22:10:48 UTC. Decided: 2026-10-12 22:10:48 UTC.
+
+Prior authorization PA00000611 for member M000274 (Wilmer Yost). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-02-10 06:21:53 UTC. Decided: 2026-02-16 06:21:53 UTC.
+
+Prior authorization PA00000612 for member M000350 (Norman Glover). Service code: CT-CHEST. Status: approved. Submitted: 2025-11-13 15:23:27 UTC. Decided: 2025-11-15 15:23:27 UTC.
+
+Prior authorization PA00000613 for member M000242 (Ariel Berge). Service code: CT-CHEST. Status: denied. Submitted: 2026-04-09 09:05:37 UTC. Decided: 2026-04-14 09:05:37 UTC.
+
+Prior authorization PA00000614 for member M000005 (Ralph Kuhlman). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-22 10:41:15 UTC. Decided: 2026-07-02 10:41:15 UTC.
+
+Prior authorization PA00000615 for member M001056 (Van Zieme). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-05-07 07:55:03 UTC. Decided: not yet.
+
+Prior authorization PA00000616 for member M000118 (Casey Jacobi). Service code: CT-CHEST. Status: denied. Submitted: 2026-06-12 22:29:29 UTC. Decided: 2026-06-13 22:29:29 UTC.
+
+Prior authorization PA00000617 for member M000725 (Alla Cummings). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-08-29 16:45:39 UTC. Decided: 2026-08-30 16:45:39 UTC.
+
+Prior authorization PA00000618 for member M000019 (Katharyn Toy). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-15 06:46:40 UTC. Decided: 2026-04-22 06:46:40 UTC.
+
+Prior authorization PA00000619 for member M001054 (Ernesto Jaramillo). Service code: MRI-KNEE. Status: approved. Submitted: 2026-06-26 07:11:32 UTC. Decided: 2026-07-03 07:11:32 UTC.
+
+Prior authorization PA00000620 for member M000513 (Teresa Estévez). Service code: MRI-KNEE. Status: approved. Submitted: 2025-12-20 17:44:46 UTC. Decided: 2025-12-28 17:44:46 UTC.
+
+Prior authorization PA00000621 for member M000878 (Morris Ruecker). Service code: MRI-KNEE. Status: approved. Submitted: 2026-05-08 13:37:41 UTC. Decided: 2026-05-17 13:37:41 UTC.
+
+Prior authorization PA00000622 for member M000900 (Alexander Robel). Service code: MRI-KNEE. Status: pending. Submitted: 2026-03-04 03:57:26 UTC. Decided: not yet.
+
+Prior authorization PA00000623 for member M000012 (Tijuana Abbott). Service code: CT-CHEST. Status: denied. Submitted: 2025-12-28 12:52:45 UTC. Decided: 2026-01-01 12:52:45 UTC.
+
+Prior authorization PA00000624 for member M000274 (Wilmer Yost). Service code: PT-EVAL. Status: approved. Submitted: 2025-12-13 06:54:06 UTC. Decided: 2025-12-20 06:54:06 UTC.
+
+Prior authorization PA00000625 for member M000408 (Chanell Skiles). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-05 01:09:02 UTC. Decided: 2026-04-10 01:09:02 UTC.
+
+Prior authorization PA00000626 for member M001015 (Thomasina Heidenreich). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-12-17 15:19:53 UTC. Decided: 2025-12-20 15:19:53 UTC.
+
+Prior authorization PA00000627 for member M000797 (Abdul Harris). Service code: MRI-KNEE. Status: approved. Submitted: 2026-04-02 14:33:32 UTC. Decided: 2026-04-04 14:33:32 UTC.
+
+Prior authorization PA00000628 for member M000705 (Michele Keeling). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-12-12 00:46:12 UTC. Decided: 2025-12-13 00:46:12 UTC.
+
+Prior authorization PA00000629 for member M000701 (Brice Ferry). Service code: PT-EVAL. Status: approved. Submitted: 2026-10-03 08:36:39 UTC. Decided: 2026-10-13 08:36:39 UTC.
+
+Prior authorization PA00000630 for member M000578 (Shelby Quigley). Service code: PT-EVAL. Status: approved. Submitted: 2025-10-22 15:48:48 UTC. Decided: 2025-10-24 15:48:48 UTC.
+
+Prior authorization PA00000631 for member M001048 (Brent Metz). Service code: MRI-KNEE. Status: approved. Submitted: 2026-05-25 09:01:12 UTC. Decided: 2026-05-29 09:01:12 UTC.
+
+Prior authorization PA00000632 for member M000507 (Jesica Schumm). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-03-10 04:11:15 UTC. Decided: not yet.
+
+Prior authorization PA00000633 for member M000212 (Etta Sporer). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-05-25 07:13:26 UTC. Decided: 2026-06-03 07:13:26 UTC.
+
+Prior authorization PA00000634 for member M000305 (Laurine Cronin). Service code: MRI-KNEE. Status: approved. Submitted: 2026-08-26 06:35:48 UTC. Decided: 2026-08-28 06:35:48 UTC.
+
+Prior authorization PA00000635 for member M000394 (Jenny Krajcik). Service code: MRI-KNEE. Status: approved. Submitted: 2025-12-24 14:36:36 UTC. Decided: 2025-12-31 14:36:36 UTC.
+
+Prior authorization PA00000636 for member M000105 (Narcisa Torphy). Service code: PT-EVAL. Status: approved. Submitted: 2025-10-27 22:26:41 UTC. Decided: 2025-11-03 22:26:41 UTC.
+
+Prior authorization PA00000637 for member M000474 (Dori Orn). Service code: MRI-KNEE. Status: denied. Submitted: 2026-07-13 11:09:26 UTC. Decided: 2026-07-19 11:09:26 UTC.
+
+Prior authorization PA00000638 for member M000875 (Nathanial Beatty). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-05-24 17:26:49 UTC. Decided: 2026-05-25 17:26:49 UTC.
+
+Prior authorization PA00000639 for member M000575 (Ferdinand Ratke). Service code: CT-CHEST. Status: approved. Submitted: 2026-03-22 04:00:25 UTC. Decided: 2026-03-29 04:00:25 UTC.
+
+Prior authorization PA00000640 for member M000373 (Mickey Oberbrunner). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-02-21 11:38:42 UTC. Decided: not yet.
+
+Prior authorization PA00000641 for member M000659 (Jonas Sporer). Service code: MRI-KNEE. Status: denied. Submitted: 2025-10-18 01:53:52 UTC. Decided: 2025-10-23 01:53:52 UTC.
+
+Prior authorization PA00000642 for member M000207 (Bob Waelchi). Service code: PT-EVAL. Status: pending. Submitted: 2026-06-16 10:12:01 UTC. Decided: not yet.
+
+Prior authorization PA00000643 for member M000745 (Marty Wisozk). Service code: CT-CHEST. Status: pending. Submitted: 2026-01-20 09:11:04 UTC. Decided: not yet.
+
+Prior authorization PA00000644 for member M000028 (Ezequiel Gulgowski). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-03-22 04:03:38 UTC. Decided: 2026-03-31 04:03:38 UTC.
+
+Prior authorization PA00000645 for member M000741 (Kimbra Bogan). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-12-23 12:03:32 UTC. Decided: 2026-01-02 12:03:32 UTC.
+
+Prior authorization PA00000646 for member M000566 (Lou Dickinson). Service code: MRI-KNEE. Status: approved. Submitted: 2026-07-15 22:01:01 UTC. Decided: 2026-07-25 22:01:01 UTC.
+
+Prior authorization PA00000647 for member M000268 (Sudie Rowe). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-05-02 03:10:33 UTC. Decided: not yet.
+
+Prior authorization PA00000648 for member M000391 (Lucius Abernathy). Service code: MRI-KNEE. Status: approved. Submitted: 2026-08-22 04:22:55 UTC. Decided: 2026-08-30 04:22:55 UTC.
+
+Prior authorization PA00000649 for member M000703 (Golda Green). Service code: CT-CHEST. Status: pending. Submitted: 2025-12-07 02:43:34 UTC. Decided: not yet.
+
+Prior authorization PA00000650 for member M000315 (Erich Gulgowski). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-06-17 07:21:16 UTC. Decided: 2026-06-20 07:21:16 UTC.
+
+Prior authorization PA00000651 for member M000518 (Hollis Wisoky). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-01-24 15:13:35 UTC. Decided: 2026-01-30 15:13:35 UTC.
+
+Prior authorization PA00000652 for member M000241 (Carole Konopelski). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-23 16:19:43 UTC. Decided: 2026-04-25 16:19:43 UTC.
+
+Prior authorization PA00000653 for member M001032 (Dewitt Hane). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-06-22 15:15:19 UTC. Decided: 2026-06-25 15:15:19 UTC.
+
+Prior authorization PA00000654 for member M000265 (Teresita Little). Service code: CT-CHEST. Status: denied. Submitted: 2026-08-20 09:58:53 UTC. Decided: 2026-08-21 09:58:53 UTC.
+
+Prior authorization PA00000655 for member M000390 (Esperanza Márquez). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-08-03 02:12:48 UTC. Decided: 2026-08-10 02:12:48 UTC.
+
+Prior authorization PA00000656 for member M000154 (Jerrold Herzog). Service code: MRI-KNEE. Status: pending. Submitted: 2026-06-28 19:23:11 UTC. Decided: not yet.
+
+Prior authorization PA00000657 for member M000800 (Nathalie Reichel). Service code: PT-EVAL. Status: approved. Submitted: 2026-05-30 18:32:32 UTC. Decided: 2026-06-09 18:32:32 UTC.
+
+Prior authorization PA00000658 for member M000328 (Dann Wisoky). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-03-06 07:32:02 UTC. Decided: 2026-03-10 07:32:02 UTC.
+
+Prior authorization PA00000659 for member M001051 (Javier Greenfelder). Service code: PT-EVAL. Status: pending. Submitted: 2026-08-17 00:19:21 UTC. Decided: not yet.
+
+Prior authorization PA00000660 for member M000452 (Rashida Murray). Service code: CT-CHEST. Status: approved. Submitted: 2026-07-02 19:07:02 UTC. Decided: 2026-07-07 19:07:02 UTC.
+
+Prior authorization PA00000661 for member M000094 (Nelson Jast). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-07-27 04:20:11 UTC. Decided: 2026-07-31 04:20:11 UTC.
+
+Prior authorization PA00000662 for member M000569 (Scott Jakubowski). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-16 01:25:23 UTC. Decided: 2026-03-21 01:25:23 UTC.
+
+Prior authorization PA00000663 for member M000431 (Ellen Windler). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2025-11-13 23:23:22 UTC. Decided: not yet.
+
+Prior authorization PA00000664 for member M000756 (Vivienne Doyle). Service code: CT-CHEST. Status: approved. Submitted: 2025-12-16 00:03:03 UTC. Decided: 2025-12-18 00:03:03 UTC.
+
+Prior authorization PA00000665 for member M000274 (Wilmer Yost). Service code: PT-EVAL. Status: approved. Submitted: 2026-10-14 19:59:54 UTC. Decided: 2026-10-24 19:59:54 UTC.
+
+Prior authorization PA00000666 for member M000022 (Sydney Kassulke). Service code: CT-CHEST. Status: pending. Submitted: 2026-03-17 11:49:10 UTC. Decided: not yet.
+
+Prior authorization PA00000667 for member M000033 (Armando Stiedemann). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-02-07 10:10:59 UTC. Decided: 2026-02-17 10:10:59 UTC.
+
+Prior authorization PA00000668 for member M000528 (Oneida Tromp). Service code: SURG-OUTPT. Status: pending. Submitted: 2025-12-11 13:54:27 UTC. Decided: not yet.
+
+Prior authorization PA00000669 for member M000906 (Rodrigo Thompson). Service code: MRI-KNEE. Status: approved. Submitted: 2026-09-07 22:00:12 UTC. Decided: 2026-09-13 22:00:12 UTC.
+
+Prior authorization PA00000670 for member M000810 (Raymonde Marvin). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-04 07:25:28 UTC. Decided: 2026-03-12 07:25:28 UTC.
+
+Prior authorization PA00000671 for member M000982 (Shantae Glover). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-02-13 15:47:52 UTC. Decided: 2026-02-21 15:47:52 UTC.
+
+Prior authorization PA00000672 for member M000361 (Sebastian Zulauf). Service code: MRI-KNEE. Status: approved. Submitted: 2026-01-18 16:43:33 UTC. Decided: 2026-01-28 16:43:33 UTC.
+
+Prior authorization PA00000673 for member M000044 (Ahmed Beatty). Service code: CT-CHEST. Status: approved. Submitted: 2026-06-26 06:34:06 UTC. Decided: 2026-06-29 06:34:06 UTC.
+
+Prior authorization PA00000674 for member M000385 (Herbert Renner). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-01-16 14:21:08 UTC. Decided: 2026-01-19 14:21:08 UTC.
+
+Prior authorization PA00000675 for member M000825 (Lora Kilback). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-11-23 15:31:28 UTC. Decided: 2025-12-02 15:31:28 UTC.
+
+Prior authorization PA00000676 for member M000774 (Mitch Stark). Service code: PT-EVAL. Status: approved. Submitted: 2025-12-27 00:25:45 UTC. Decided: 2025-12-28 00:25:45 UTC.
+
+Prior authorization PA00000677 for member M000090 (Vita Bosco). Service code: MRI-KNEE. Status: denied. Submitted: 2025-12-13 00:29:36 UTC. Decided: 2025-12-17 00:29:36 UTC.
+
+Prior authorization PA00000678 for member M000028 (Ezequiel Gulgowski). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-11-29 09:44:42 UTC. Decided: 2025-12-01 09:44:42 UTC.
+
+Prior authorization PA00000679 for member M000175 (Ethelene Reilly). Service code: MRI-KNEE. Status: pending. Submitted: 2026-07-22 12:19:13 UTC. Decided: not yet.
+
+Prior authorization PA00000680 for member M000910 (Daniela Hagenes). Service code: MRI-KNEE. Status: denied. Submitted: 2025-12-28 17:29:30 UTC. Decided: 2026-01-02 17:29:30 UTC.
+
+Prior authorization PA00000681 for member M000115 (Sherilyn O'Keefe). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-04-05 17:26:11 UTC. Decided: 2026-04-10 17:26:11 UTC.
+
+Prior authorization PA00000682 for member M000092 (Myrtice Ernser). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-09-04 19:47:32 UTC. Decided: 2026-09-13 19:47:32 UTC.
+
+Prior authorization PA00000683 for member M000851 (Felton Pouros). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-18 03:44:03 UTC. Decided: 2026-03-19 03:44:03 UTC.
+
+Prior authorization PA00000684 for member M000790 (Claire Lakin). Service code: MRI-KNEE. Status: approved. Submitted: 2026-02-09 00:52:25 UTC. Decided: 2026-02-15 00:52:25 UTC.
+
+Prior authorization PA00000685 for member M000788 (Allan Koelpin). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-09-18 10:26:37 UTC. Decided: 2026-09-20 10:26:37 UTC.
+
+Prior authorization PA00000686 for member M000460 (Donnell Kshlerin). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-06-26 06:10:24 UTC. Decided: not yet.
+
+Prior authorization PA00000687 for member M000684 (Pablo Zemlak). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-03-11 13:00:33 UTC. Decided: 2026-03-17 13:00:33 UTC.
+
+Prior authorization PA00000688 for member M000365 (Bev Morissette). Service code: PT-EVAL. Status: approved. Submitted: 2025-11-30 01:34:41 UTC. Decided: 2025-12-09 01:34:41 UTC.
+
+Prior authorization PA00000689 for member M000871 (Thi Wunsch). Service code: MRI-KNEE. Status: approved. Submitted: 2026-04-07 21:49:52 UTC. Decided: 2026-04-12 21:49:52 UTC.
+
+Prior authorization PA00000690 for member M000213 (Almeta Marvin). Service code: CT-CHEST. Status: approved. Submitted: 2026-09-02 10:26:58 UTC. Decided: 2026-09-10 10:26:58 UTC.
+
+Prior authorization PA00000691 for member M000157 (Kristen Gulgowski). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-09-21 13:26:20 UTC. Decided: not yet.
+
+Prior authorization PA00000692 for member M000303 (Nanci Kreiger). Service code: PT-EVAL. Status: approved. Submitted: 2026-01-02 23:52:44 UTC. Decided: 2026-01-10 23:52:44 UTC.
+
+Prior authorization PA00000693 for member M000876 (Erin Mann). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-19 02:27:02 UTC. Decided: 2026-06-24 02:27:02 UTC.
+
+Prior authorization PA00000694 for member M000262 (Ralph Herzog). Service code: MRI-KNEE. Status: approved. Submitted: 2025-12-31 03:17:35 UTC. Decided: 2026-01-07 03:17:35 UTC.
+
+Prior authorization PA00000695 for member M000986 (Emerita Jones). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-04-16 11:37:33 UTC. Decided: 2026-04-23 11:37:33 UTC.
+
+Prior authorization PA00000696 for member M000504 (Reynalda Metz). Service code: PT-EVAL. Status: approved. Submitted: 2026-08-22 23:10:40 UTC. Decided: 2026-08-29 23:10:40 UTC.
+
+Prior authorization PA00000697 for member M001009 (Cletus Bartell). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-07-26 18:05:56 UTC. Decided: 2026-08-04 18:05:56 UTC.
+
+Prior authorization PA00000698 for member M000864 (Antony Nikolaus). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-02-12 14:00:13 UTC. Decided: 2026-02-22 14:00:13 UTC.
+
+Prior authorization PA00000699 for member M000482 (Cristen Hammes). Service code: CT-CHEST. Status: denied. Submitted: 2026-10-08 07:59:08 UTC. Decided: 2026-10-09 07:59:08 UTC.
+
+Prior authorization PA00000700 for member M000971 (Boyce Olson). Service code: MRI-KNEE. Status: approved. Submitted: 2026-01-30 00:37:28 UTC. Decided: 2026-02-01 00:37:28 UTC.
+
+Prior authorization PA00000701 for member M000286 (Carmelina Morissette). Service code: CT-CHEST. Status: approved. Submitted: 2025-11-17 12:43:09 UTC. Decided: 2025-11-25 12:43:09 UTC.
+
+Prior authorization PA00000702 for member M000863 (Bee Macejkovic). Service code: MRI-KNEE. Status: pending. Submitted: 2025-12-30 20:04:46 UTC. Decided: not yet.
+
+Prior authorization PA00000703 for member M000283 (Randal Robel). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-02-02 08:10:37 UTC. Decided: 2026-02-05 08:10:37 UTC.
+
+Prior authorization PA00000704 for member M000870 (Delmy Shanahan). Service code: CT-CHEST. Status: denied. Submitted: 2026-04-29 00:57:33 UTC. Decided: 2026-04-30 00:57:33 UTC.
+
+Prior authorization PA00000705 for member M000152 (Leif Rath). Service code: PT-EVAL. Status: denied. Submitted: 2026-10-12 03:51:34 UTC. Decided: 2026-10-22 03:51:34 UTC.
+
+Prior authorization PA00000706 for member M000290 (Charline Braun). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-01-06 01:05:56 UTC. Decided: 2026-01-10 01:05:56 UTC.
+
+Prior authorization PA00000707 for member M000853 (Anya Mills). Service code: MRI-KNEE. Status: approved. Submitted: 2025-11-26 00:27:15 UTC. Decided: 2025-11-29 00:27:15 UTC.
+
+Prior authorization PA00000708 for member M000614 (Ula Beatty). Service code: PT-EVAL. Status: denied. Submitted: 2026-06-15 05:06:04 UTC. Decided: 2026-06-22 05:06:04 UTC.
+
+Prior authorization PA00000709 for member M000028 (Ezequiel Gulgowski). Service code: CT-CHEST. Status: denied. Submitted: 2026-04-08 16:09:52 UTC. Decided: 2026-04-10 16:09:52 UTC.
+
+Prior authorization PA00000710 for member M000066 (Genny Rath). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-01-05 02:11:04 UTC. Decided: not yet.
+
+Prior authorization PA00000711 for member M000812 (Mariette Gusikowski). Service code: PT-EVAL. Status: approved. Submitted: 2026-01-14 18:19:27 UTC. Decided: 2026-01-22 18:19:27 UTC.
+
+Prior authorization PA00000712 for member M001028 (Antonietta Collier). Service code: CT-CHEST. Status: pending. Submitted: 2026-07-28 09:23:43 UTC. Decided: not yet.
+
+Prior authorization PA00000713 for member M000322 (Raul Heller). Service code: CT-CHEST. Status: approved. Submitted: 2026-10-16 08:16:34 UTC. Decided: 2026-10-18 08:16:34 UTC.
+
+Prior authorization PA00000714 for member M000257 (Ruby Cole). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-07-12 13:44:47 UTC. Decided: not yet.
+
+Prior authorization PA00000715 for member M000449 (Anh Schaden). Service code: PT-EVAL. Status: approved. Submitted: 2026-02-03 14:34:41 UTC. Decided: 2026-02-06 14:34:41 UTC.
+
+Prior authorization PA00000716 for member M000960 (Shemeka Kertzmann). Service code: PT-EVAL. Status: denied. Submitted: 2026-07-31 22:01:49 UTC. Decided: 2026-08-06 22:01:49 UTC.
+
+Prior authorization PA00000717 for member M000780 (Brunilda Will). Service code: MRI-KNEE. Status: approved. Submitted: 2026-09-17 23:22:13 UTC. Decided: 2026-09-18 23:22:13 UTC.
+
+Prior authorization PA00000718 for member M000553 (Diann Kub). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-26 23:32:37 UTC. Decided: 2026-04-28 23:32:37 UTC.
+
+Prior authorization PA00000719 for member M000688 (Alberta Waters). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-11-26 13:12:20 UTC. Decided: 2025-11-30 13:12:20 UTC.
+
+Prior authorization PA00000720 for member M000134 (Randa Nader). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-11 05:55:33 UTC. Decided: 2026-03-21 05:55:33 UTC.
+
+Prior authorization PA00000721 for member M000414 (Carman Wyman). Service code: SURG-OUTPT. Status: approved. Submitted: 2025-10-23 11:15:16 UTC. Decided: 2025-10-24 11:15:16 UTC.
+
+Prior authorization PA00000722 for member M001157 (Rea Daugherty). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-02-18 09:48:00 UTC. Decided: 2026-02-28 09:48:00 UTC.
+
+Prior authorization PA00000723 for member M000191 (Tracy Kassulke). Service code: CT-CHEST. Status: approved. Submitted: 2026-06-22 01:39:47 UTC. Decided: 2026-06-23 01:39:47 UTC.
+
+Prior authorization PA00000724 for member M001025 (Mae D'Amore). Service code: MRI-KNEE. Status: pending. Submitted: 2026-04-18 10:16:55 UTC. Decided: not yet.
+
+Prior authorization PA00000725 for member M000266 (Voncile Schultz). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-03-28 14:13:22 UTC. Decided: 2026-03-30 14:13:22 UTC.
+
+Prior authorization PA00000726 for member M001032 (Dewitt Hane). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-04-05 14:49:43 UTC. Decided: not yet.
+
+Prior authorization PA00000727 for member M000783 (Frieda Homenick). Service code: PT-EVAL. Status: approved. Submitted: 2026-07-02 05:28:05 UTC. Decided: 2026-07-12 05:28:05 UTC.
+
+Prior authorization PA00000728 for member M000949 (Lynetta Hahn). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-11-06 10:33:46 UTC. Decided: 2025-11-08 10:33:46 UTC.
+
+Prior authorization PA00000729 for member M000289 (Lawrence Boyer). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-02-13 07:51:05 UTC. Decided: 2026-02-16 07:51:05 UTC.
+
+Prior authorization PA00000730 for member M001072 (Jorge Boyer). Service code: CT-CHEST. Status: pending. Submitted: 2026-07-01 18:47:52 UTC. Decided: not yet.
+
+Prior authorization PA00000731 for member M000738 (Demetra Jaskolski). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-06-04 04:46:36 UTC. Decided: 2026-06-11 04:46:36 UTC.
+
+Prior authorization PA00000732 for member M000154 (Jerrold Herzog). Service code: MRI-KNEE. Status: approved. Submitted: 2025-11-07 14:06:47 UTC. Decided: 2025-11-17 14:06:47 UTC.
+
+Prior authorization PA00000733 for member M000031 (Otha Wintheiser). Service code: MRI-KNEE. Status: approved. Submitted: 2026-09-04 18:06:51 UTC. Decided: 2026-09-09 18:06:51 UTC.
+
+Prior authorization PA00000734 for member M000932 (Gerry Treutel). Service code: CT-CHEST. Status: approved. Submitted: 2026-07-25 03:10:25 UTC. Decided: 2026-07-28 03:10:25 UTC.
+
+Prior authorization PA00000735 for member M000745 (Marty Wisozk). Service code: CT-CHEST. Status: approved. Submitted: 2026-03-18 05:52:44 UTC. Decided: 2026-03-20 05:52:44 UTC.
+
+Prior authorization PA00000736 for member M000944 (Terrell Wintheiser). Service code: CT-CHEST. Status: denied. Submitted: 2025-11-23 06:31:26 UTC. Decided: 2025-12-01 06:31:26 UTC.
+
+Prior authorization PA00000737 for member M000288 (Cornelia Gibson). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-02-26 16:05:39 UTC. Decided: 2026-03-08 16:05:39 UTC.
+
+Prior authorization PA00000738 for member M000588 (Cherri Klocko). Service code: PT-EVAL. Status: approved. Submitted: 2026-06-24 01:26:29 UTC. Decided: 2026-07-01 01:26:29 UTC.
+
+Prior authorization PA00000739 for member M001050 (Lyla Braun). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-08-31 04:41:46 UTC. Decided: 2026-09-06 04:41:46 UTC.
+
+Prior authorization PA00000740 for member M001037 (Buddy Gislason). Service code: PT-EVAL. Status: denied. Submitted: 2026-04-27 03:02:23 UTC. Decided: 2026-05-02 03:02:23 UTC.
+
+Prior authorization PA00000741 for member M000117 (Sylvia Collins). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-10-02 01:33:13 UTC. Decided: 2026-10-06 01:33:13 UTC.
+
+Prior authorization PA00000742 for member M000216 (January Ledner). Service code: CT-CHEST. Status: approved. Submitted: 2026-10-11 20:25:05 UTC. Decided: 2026-10-18 20:25:05 UTC.
+
+Prior authorization PA00000743 for member M000150 (Winston Stamm). Service code: MRI-KNEE. Status: approved. Submitted: 2026-01-07 20:45:28 UTC. Decided: 2026-01-14 20:45:28 UTC.
+
+Prior authorization PA00000744 for member M000960 (Shemeka Kertzmann). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-11 03:24:15 UTC. Decided: 2026-06-20 03:24:15 UTC.
+
+Prior authorization PA00000745 for member M000222 (Mario Towne). Service code: PT-EVAL. Status: approved. Submitted: 2026-06-13 03:58:22 UTC. Decided: 2026-06-20 03:58:22 UTC.
+
+Prior authorization PA00000746 for member M000650 (Lon Wyman). Service code: CT-CHEST. Status: approved. Submitted: 2026-01-28 14:37:08 UTC. Decided: 2026-02-07 14:37:08 UTC.
+
+Prior authorization PA00000747 for member M000976 (Elana Herman). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-06-23 07:44:30 UTC. Decided: 2026-06-28 07:44:30 UTC.
+
+Prior authorization PA00000748 for member M000963 (Cody Hilll). Service code: MRI-KNEE. Status: approved. Submitted: 2026-06-07 01:23:37 UTC. Decided: 2026-06-11 01:23:37 UTC.
+
+Prior authorization PA00000749 for member M000779 (Robt Mante). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-03-30 20:41:15 UTC. Decided: 2026-04-05 20:41:15 UTC.
+
+Prior authorization PA00000750 for member M000434 (Sammie Mosciski). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-05-26 17:14:10 UTC. Decided: 2026-06-02 17:14:10 UTC.
+
+Prior authorization PA00000751 for member M000172 (Macie O'Connell). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-05 09:10:39 UTC. Decided: 2026-03-07 09:10:39 UTC.
+
+Prior authorization PA00000752 for member M000925 (Gayla Purdy). Service code: PT-EVAL. Status: approved. Submitted: 2026-03-07 14:44:53 UTC. Decided: 2026-03-16 14:44:53 UTC.
+
+Prior authorization PA00000753 for member M000111 (Reta West). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-02-04 09:26:46 UTC. Decided: 2026-02-11 09:26:46 UTC.
+
+Prior authorization PA00000754 for member M000716 (Vi Hessel). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-11 10:48:35 UTC. Decided: 2026-04-19 10:48:35 UTC.
+
+Prior authorization PA00000755 for member M000330 (Bradly Schneider). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-06-18 19:29:49 UTC. Decided: 2026-06-25 19:29:49 UTC.
+
+Prior authorization PA00000756 for member M000021 (Eugene Heller). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-04-17 20:45:52 UTC. Decided: 2026-04-27 20:45:52 UTC.
+
+Prior authorization PA00000757 for member M000297 (Rosana Kessler). Service code: CT-CHEST. Status: denied. Submitted: 2026-01-27 02:49:58 UTC. Decided: 2026-02-02 02:49:58 UTC.
+
+Prior authorization PA00000758 for member M000303 (Nanci Kreiger). Service code: PT-EVAL. Status: pending. Submitted: 2025-10-25 05:28:47 UTC. Decided: not yet.
+
+Prior authorization PA00000759 for member M000833 (Trista Kertzmann). Service code: CT-CHEST. Status: denied. Submitted: 2026-03-29 04:08:10 UTC. Decided: 2026-04-07 04:08:10 UTC.
+
+Prior authorization PA00000760 for member M000258 (Christal Glover). Service code: SURG-OUTPT. Status: pending. Submitted: 2025-10-19 16:24:15 UTC. Decided: not yet.
+
+Prior authorization PA00000761 for member M000200 (Chauncey Baumbach). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-06-05 23:15:44 UTC. Decided: not yet.
+
+Prior authorization PA00000762 for member M001119 (Joseph Stiedemann). Service code: MRI-KNEE. Status: approved. Submitted: 2026-02-06 06:49:56 UTC. Decided: 2026-02-16 06:49:56 UTC.
+
+Prior authorization PA00000763 for member M000392 (Iola Volkman). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-04-29 07:52:09 UTC. Decided: 2026-05-09 07:52:09 UTC.
+
+Prior authorization PA00000764 for member M000034 (Kenton Lowe). Service code: CT-CHEST. Status: denied. Submitted: 2025-10-25 13:28:50 UTC. Decided: 2025-10-30 13:28:50 UTC.
+
+Prior authorization PA00000765 for member M000934 (Francisco Mora). Service code: PT-EVAL. Status: denied. Submitted: 2026-07-02 04:32:30 UTC. Decided: 2026-07-09 04:32:30 UTC.
+
+Prior authorization PA00000766 for member M000873 (Demetrice Collier). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-04-16 12:49:25 UTC. Decided: 2026-04-22 12:49:25 UTC.
+
+Prior authorization PA00000767 for member M000765 (Odis Veum). Service code: MRI-KNEE. Status: approved. Submitted: 2025-12-15 06:24:04 UTC. Decided: 2025-12-24 06:24:04 UTC.
+
+Prior authorization PA00000768 for member M000782 (Allen Ferry). Service code: CT-CHEST. Status: approved. Submitted: 2026-08-18 05:55:19 UTC. Decided: 2026-08-25 05:55:19 UTC.
+
+Prior authorization PA00000769 for member M000204 (Isaac Marks). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-09-07 10:18:45 UTC. Decided: 2026-09-09 10:18:45 UTC.
+
+Prior authorization PA00000770 for member M000843 (Berta Treviño). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-12-02 23:39:07 UTC. Decided: 2025-12-10 23:39:07 UTC.
+
+Prior authorization PA00000771 for member M000910 (Daniela Hagenes). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-09-02 19:49:59 UTC. Decided: 2026-09-12 19:49:59 UTC.
+
+Prior authorization PA00000772 for member M000434 (Sammie Mosciski). Service code: MRI-KNEE. Status: pending. Submitted: 2025-11-03 10:33:18 UTC. Decided: not yet.
+
+Prior authorization PA00000773 for member M000401 (Argelia Will). Service code: PT-EVAL. Status: approved. Submitted: 2026-06-07 20:04:57 UTC. Decided: 2026-06-09 20:04:57 UTC.
+
+Prior authorization PA00000774 for member M000811 (Gustavo Rael). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-15 16:53:30 UTC. Decided: 2026-04-21 16:53:30 UTC.
+
+Prior authorization PA00000775 for member M000542 (Leota Thiel). Service code: CT-CHEST. Status: approved. Submitted: 2026-02-09 18:28:47 UTC. Decided: 2026-02-16 18:28:47 UTC.
+
+Prior authorization PA00000776 for member M000850 (Jason Johns). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-09-27 08:47:41 UTC. Decided: 2026-09-28 08:47:41 UTC.
+
+Prior authorization PA00000777 for member M001063 (Claude Nikolaus). Service code: SURG-OUTPT. Status: denied. Submitted: 2025-10-31 05:35:03 UTC. Decided: 2025-11-10 05:35:03 UTC.
+
+Prior authorization PA00000778 for member M000881 (Hilario Stracke). Service code: MRI-KNEE. Status: approved. Submitted: 2026-03-29 12:12:00 UTC. Decided: 2026-04-07 12:12:00 UTC.
+
+Prior authorization PA00000779 for member M000806 (Leana Keeling). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-05-06 07:00:52 UTC. Decided: 2026-05-16 07:00:52 UTC.
+
+Prior authorization PA00000780 for member M000800 (Nathalie Reichel). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-05-25 04:41:31 UTC. Decided: not yet.
+
+Prior authorization PA00000781 for member M001060 (Alene Hermann). Service code: MRI-KNEE. Status: pending. Submitted: 2026-01-14 14:40:37 UTC. Decided: not yet.
+
+Prior authorization PA00000782 for member M000259 (Maribel Haley). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-05-29 08:24:33 UTC. Decided: 2026-05-31 08:24:33 UTC.
+
+Prior authorization PA00000783 for member M000533 (Israel Oberbrunner). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-09-06 21:00:19 UTC. Decided: 2026-09-09 21:00:19 UTC.
+
+Prior authorization PA00000784 for member M000053 (Paz Murphy). Service code: PT-EVAL. Status: approved. Submitted: 2026-04-01 07:25:07 UTC. Decided: 2026-04-02 07:25:07 UTC.
+
+Prior authorization PA00000785 for member M001114 (Virgil Farrell). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-09-04 21:36:03 UTC. Decided: 2026-09-14 21:36:03 UTC.
+
+Prior authorization PA00000786 for member M000268 (Sudie Rowe). Service code: PT-EVAL. Status: denied. Submitted: 2026-05-01 00:55:14 UTC. Decided: 2026-05-07 00:55:14 UTC.
+
+Prior authorization PA00000787 for member M000455 (Lavette Miller). Service code: CT-CHEST. Status: denied. Submitted: 2026-01-21 08:43:40 UTC. Decided: 2026-01-25 08:43:40 UTC.
+
+Prior authorization PA00000788 for member M000775 (Sal Hoppe). Service code: CT-CHEST. Status: denied. Submitted: 2026-07-19 08:55:45 UTC. Decided: 2026-07-20 08:55:45 UTC.
+
+Prior authorization PA00000789 for member M000048 (Josefina Deckow). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-03-07 03:01:14 UTC. Decided: not yet.
+
+Prior authorization PA00000790 for member M000252 (Stormy Gulgowski). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-08-10 03:45:55 UTC. Decided: 2026-08-13 03:45:55 UTC.
+
+Prior authorization PA00000791 for member M000191 (Tracy Kassulke). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-03-11 09:32:20 UTC. Decided: not yet.
+
+Prior authorization PA00000792 for member M000426 (Bettina Nienow). Service code: PT-EVAL. Status: pending. Submitted: 2026-06-28 13:09:29 UTC. Decided: not yet.
+
+Prior authorization PA00000793 for member M000848 (Wilford Hilpert). Service code: MRI-BRAIN. Status: denied. Submitted: 2025-12-08 17:52:41 UTC. Decided: 2025-12-16 17:52:41 UTC.
+
+Prior authorization PA00000794 for member M000860 (Beatriz Urías). Service code: PT-EVAL. Status: approved. Submitted: 2026-09-03 02:46:42 UTC. Decided: 2026-09-09 02:46:42 UTC.
+
+Prior authorization PA00000795 for member M000369 (Tony Ward). Service code: CT-CHEST. Status: denied. Submitted: 2026-09-07 16:24:57 UTC. Decided: 2026-09-08 16:24:57 UTC.
+
+Prior authorization PA00000796 for member M000065 (Kelley Lockman). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-01-17 20:39:16 UTC. Decided: 2026-01-23 20:39:16 UTC.
+
+Prior authorization PA00000797 for member M001120 (Maximina Lehner). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-04-13 17:37:07 UTC. Decided: not yet.
+
+Prior authorization PA00000798 for member M000250 (Ji Powlowski). Service code: MRI-KNEE. Status: denied. Submitted: 2026-01-07 18:59:46 UTC. Decided: 2026-01-17 18:59:46 UTC.
+
+Prior authorization PA00000799 for member M001049 (Wilber Rath). Service code: MRI-KNEE. Status: approved. Submitted: 2025-11-02 19:30:48 UTC. Decided: 2025-11-06 19:30:48 UTC.
+
+Prior authorization PA00000800 for member M000061 (Carol Lesch). Service code: CT-CHEST. Status: pending. Submitted: 2026-04-22 04:10:45 UTC. Decided: not yet.
+
+Prior authorization PA00000801 for member M000260 (Yelena Kozey). Service code: CT-CHEST. Status: approved. Submitted: 2025-12-27 08:00:04 UTC. Decided: 2026-01-01 08:00:04 UTC.
+
+Prior authorization PA00000802 for member M000714 (Francisco Sauer). Service code: SURG-OUTPT. Status: pending. Submitted: 2026-06-21 07:15:14 UTC. Decided: not yet.
+
+Prior authorization PA00000803 for member M001016 (Kirk Gaylord). Service code: PT-EVAL. Status: approved. Submitted: 2026-07-27 23:44:09 UTC. Decided: 2026-08-05 23:44:09 UTC.
+
+Prior authorization PA00000804 for member M000406 (Amado Botsford). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-05-10 07:01:44 UTC. Decided: 2026-05-15 07:01:44 UTC.
+
+Prior authorization PA00000805 for member M000639 (Ethelyn Vandervort). Service code: MRI-KNEE. Status: approved. Submitted: 2026-05-07 03:44:46 UTC. Decided: 2026-05-11 03:44:46 UTC.
+
+Prior authorization PA00000806 for member M000868 (Zachariah Bergstrom). Service code: DME-WHEELCHAIR. Status: pending. Submitted: 2026-06-24 15:46:55 UTC. Decided: not yet.
+
+Prior authorization PA00000807 for member M000785 (Rachell Lesch). Service code: PT-EVAL. Status: approved. Submitted: 2026-03-06 11:36:19 UTC. Decided: 2026-03-10 11:36:19 UTC.
+
+Prior authorization PA00000808 for member M000132 (Angel Jacobi). Service code: PT-EVAL. Status: approved. Submitted: 2026-08-04 12:50:57 UTC. Decided: 2026-08-07 12:50:57 UTC.
+
+Prior authorization PA00000809 for member M000840 (Beata Nicolas). Service code: CT-CHEST. Status: approved. Submitted: 2025-11-04 18:37:04 UTC. Decided: 2025-11-14 18:37:04 UTC.
+
+Prior authorization PA00000810 for member M000062 (Lavera Reilly). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-09-13 19:18:53 UTC. Decided: 2026-09-16 19:18:53 UTC.
+
+Prior authorization PA00000811 for member M000733 (Mallory Hills). Service code: MRI-KNEE. Status: denied. Submitted: 2026-04-01 15:38:00 UTC. Decided: 2026-04-03 15:38:00 UTC.
+
+Prior authorization PA00000812 for member M000298 (Carrol Bogisich). Service code: CT-CHEST. Status: approved. Submitted: 2026-02-05 23:55:08 UTC. Decided: 2026-02-07 23:55:08 UTC.
+
+Prior authorization PA00000813 for member M000674 (Emilia Uribe). Service code: MRI-KNEE. Status: denied. Submitted: 2025-10-22 11:35:58 UTC. Decided: 2025-10-30 11:35:58 UTC.
+
+Prior authorization PA00000814 for member M001151 (Janie Macejkovic). Service code: MRI-BRAIN. Status: pending. Submitted: 2026-08-04 11:42:27 UTC. Decided: not yet.
+
+Prior authorization PA00000815 for member M001080 (Nicholas Heaney). Service code: MRI-KNEE. Status: approved. Submitted: 2026-05-03 10:19:33 UTC. Decided: 2026-05-05 10:19:33 UTC.
+
+Prior authorization PA00000816 for member M000154 (Jerrold Herzog). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-08-01 10:07:24 UTC. Decided: 2026-08-08 10:07:24 UTC.
+
+Prior authorization PA00000817 for member M000656 (Calvin Schiller). Service code: MRI-KNEE. Status: approved. Submitted: 2026-10-02 15:50:43 UTC. Decided: 2026-10-06 15:50:43 UTC.
+
+Prior authorization PA00000818 for member M000563 (Doyle Johns). Service code: PT-EVAL. Status: approved. Submitted: 2025-11-12 17:59:00 UTC. Decided: 2025-11-14 17:59:00 UTC.
+
+Prior authorization PA00000819 for member M000670 (Malena Bashirian). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-12-20 16:29:07 UTC. Decided: 2025-12-27 16:29:07 UTC.
+
+Prior authorization PA00000820 for member M000037 (Marisha Roberts). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-02-16 20:59:11 UTC. Decided: 2026-02-26 20:59:11 UTC.
+
+Prior authorization PA00000821 for member M000825 (Lora Kilback). Service code: MRI-BRAIN. Status: approved. Submitted: 2025-10-20 16:48:45 UTC. Decided: 2025-10-29 16:48:45 UTC.
+
+Prior authorization PA00000822 for member M000034 (Kenton Lowe). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-07-15 01:25:27 UTC. Decided: 2026-07-23 01:25:27 UTC.
+
+Prior authorization PA00000823 for member M000563 (Doyle Johns). Service code: CT-CHEST. Status: denied. Submitted: 2025-12-05 15:06:45 UTC. Decided: 2025-12-11 15:06:45 UTC.
+
+Prior authorization PA00000824 for member M000642 (Nova Blanda). Service code: PT-EVAL. Status: approved. Submitted: 2026-05-10 02:54:15 UTC. Decided: 2026-05-20 02:54:15 UTC.
+
+Prior authorization PA00000825 for member M000931 (Hulda Reichel). Service code: PT-EVAL. Status: approved. Submitted: 2025-11-11 14:19:14 UTC. Decided: 2025-11-13 14:19:14 UTC.
+
+Prior authorization PA00000826 for member M000459 (Alayna Beier). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-27 22:29:59 UTC. Decided: 2026-04-28 22:29:59 UTC.
+
+Prior authorization PA00000827 for member M000893 (Briana Hegmann). Service code: MRI-KNEE. Status: pending. Submitted: 2025-12-28 03:49:40 UTC. Decided: not yet.
+
+Prior authorization PA00000828 for member M000756 (Vivienne Doyle). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-01-13 03:12:16 UTC. Decided: 2026-01-14 03:12:16 UTC.
+
+Prior authorization PA00000829 for member M000089 (Darin Williamson). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-10-05 01:54:40 UTC. Decided: 2026-10-06 01:54:40 UTC.
+
+Prior authorization PA00000830 for member M000778 (Garfield Waters). Service code: CT-CHEST. Status: approved. Submitted: 2026-03-22 02:43:55 UTC. Decided: 2026-03-25 02:43:55 UTC.
+
+Prior authorization PA00000831 for member M000259 (Maribel Haley). Service code: CT-CHEST. Status: approved. Submitted: 2025-12-27 21:14:34 UTC. Decided: 2025-12-30 21:14:34 UTC.
+
+Prior authorization PA00000832 for member M000251 (Dan Tromp). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-08-13 15:02:51 UTC. Decided: 2026-08-22 15:02:51 UTC.
+
+Prior authorization PA00000833 for member M001004 (Fredrick Stehr). Service code: CT-CHEST. Status: approved. Submitted: 2026-02-18 21:02:24 UTC. Decided: 2026-02-24 21:02:24 UTC.
+
+Prior authorization PA00000834 for member M000607 (Hugo Quiñónez). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-22 08:13:20 UTC. Decided: 2026-06-24 08:13:20 UTC.
+
+Prior authorization PA00000835 for member M000497 (Noriko Mayert). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-04-16 20:20:05 UTC. Decided: 2026-04-20 20:20:05 UTC.
+
+Prior authorization PA00000836 for member M001013 (Olin Balistreri). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-10-08 02:50:25 UTC. Decided: 2026-10-12 02:50:25 UTC.
+
+Prior authorization PA00000837 for member M000789 (Katie Feest). Service code: MRI-KNEE. Status: approved. Submitted: 2025-10-24 07:52:09 UTC. Decided: 2025-11-01 07:52:09 UTC.
+
+Prior authorization PA00000838 for member M001081 (Ruthann Rolfson). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-12-10 12:23:43 UTC. Decided: 2025-12-16 12:23:43 UTC.
+
+Prior authorization PA00000839 for member M001034 (Angelo Conroy). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-03-26 16:31:49 UTC. Decided: 2026-03-29 16:31:49 UTC.
+
+Prior authorization PA00000840 for member M000927 (Sunshine Friesen). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-02-07 13:14:23 UTC. Decided: 2026-02-16 13:14:23 UTC.
+
+Prior authorization PA00000841 for member M000570 (Wilton Schamberger). Service code: PT-EVAL. Status: approved. Submitted: 2026-01-29 14:34:15 UTC. Decided: 2026-02-01 14:34:15 UTC.
+
+Prior authorization PA00000842 for member M000210 (Magdalene Orn). Service code: MRI-KNEE. Status: pending. Submitted: 2026-10-04 11:10:58 UTC. Decided: not yet.
+
+Prior authorization PA00000843 for member M000493 (Reid MacGyver). Service code: MRI-BRAIN. Status: denied. Submitted: 2026-06-11 03:54:07 UTC. Decided: 2026-06-19 03:54:07 UTC.
+
+Prior authorization PA00000844 for member M001088 (Neta Morar). Service code: PT-EVAL. Status: approved. Submitted: 2026-01-21 09:42:44 UTC. Decided: 2026-01-27 09:42:44 UTC.
+
+Prior authorization PA00000845 for member M000173 (Delmy Auer). Service code: CT-CHEST. Status: pending. Submitted: 2026-03-02 04:18:29 UTC. Decided: not yet.
+
+Prior authorization PA00000846 for member M001029 (Rodrick Douglas). Service code: PT-EVAL. Status: approved. Submitted: 2026-05-26 07:43:15 UTC. Decided: 2026-06-04 07:43:15 UTC.
+
+Prior authorization PA00000847 for member M000758 (Esther Runolfsson). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-06 01:56:07 UTC. Decided: 2026-04-07 01:56:07 UTC.
+
+Prior authorization PA00000848 for member M000866 (Jennie Jerde). Service code: MRI-KNEE. Status: denied. Submitted: 2026-09-15 13:55:37 UTC. Decided: 2026-09-20 13:55:37 UTC.
+
+Prior authorization PA00000849 for member M000566 (Lou Dickinson). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-01-22 14:39:41 UTC. Decided: 2026-02-01 14:39:41 UTC.
+
+Prior authorization PA00000850 for member M000103 (Stephanie Gibson). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-06-27 18:52:56 UTC. Decided: 2026-07-01 18:52:56 UTC.
+
+Prior authorization PA00000851 for member M000074 (Carlota Morales). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2025-12-13 07:59:40 UTC. Decided: 2025-12-18 07:59:40 UTC.
+
+Prior authorization PA00000852 for member M000565 (Eli Douglas). Service code: MRI-KNEE. Status: approved. Submitted: 2026-02-17 02:23:50 UTC. Decided: 2026-02-27 02:23:50 UTC.
+
+Prior authorization PA00000853 for member M000208 (Mikaela Keeling). Service code: MRI-KNEE. Status: approved. Submitted: 2026-10-11 14:43:46 UTC. Decided: 2026-10-16 14:43:46 UTC.
+
+Prior authorization PA00000854 for member M000417 (Deirdre Langosh). Service code: CT-CHEST. Status: approved. Submitted: 2026-06-28 07:29:22 UTC. Decided: 2026-07-03 07:29:22 UTC.
+
+Prior authorization PA00000855 for member M000007 (Eustolia Barton). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-10-14 21:42:39 UTC. Decided: 2026-10-17 21:42:39 UTC.
+
+Prior authorization PA00000856 for member M000626 (Carita Larson). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-07-02 22:39:02 UTC. Decided: 2026-07-06 22:39:02 UTC.
+
+Prior authorization PA00000857 for member M000342 (Bibi Stoltenberg). Service code: MRI-KNEE. Status: denied. Submitted: 2026-01-13 11:28:22 UTC. Decided: 2026-01-19 11:28:22 UTC.
+
+Prior authorization PA00000858 for member M000972 (Michelle Haley). Service code: PT-EVAL. Status: pending. Submitted: 2026-06-08 05:09:50 UTC. Decided: not yet.
+
+Prior authorization PA00000859 for member M000541 (Georgene Romaguera). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-04-07 00:45:29 UTC. Decided: 2026-04-10 00:45:29 UTC.
+
+Prior authorization PA00000860 for member M000971 (Boyce Olson). Service code: DME-WHEELCHAIR. Status: approved. Submitted: 2026-09-30 00:21:15 UTC. Decided: 2026-10-01 00:21:15 UTC.
+
+Prior authorization PA00000861 for member M000093 (Craig Pfeffer). Service code: MRI-BRAIN. Status: approved. Submitted: 2026-06-25 09:00:41 UTC. Decided: 2026-07-05 09:00:41 UTC.
+
+Prior authorization PA00000862 for member M001076 (Chung Stoltenberg). Service code: DME-WHEELCHAIR. Status: denied. Submitted: 2026-10-01 10:34:57 UTC. Decided: 2026-10-04 10:34:57 UTC.
+
+Prior authorization PA00000863 for member M000688 (Alberta Waters). Service code: PT-EVAL. Status: approved. Submitted: 2026-01-01 03:25:08 UTC. Decided: 2026-01-09 03:25:08 UTC.
+
+Prior authorization PA00000864 for member M000997 (Anne Gleason). Service code: CT-CHEST. Status: approved. Submitted: 2026-04-15 19:52:07 UTC. Decided: 2026-04-21 19:52:07 UTC.
+
+Prior authorization PA00000865 for member M000617 (Raul D'Amore). Service code: SURG-OUTPT. Status: denied. Submitted: 2026-06-09 00:29:37 UTC. Decided: 2026-06-15 00:29:37 UTC.
+
+Prior authorization PA00000866 for member M000553 (Diann Kub). Service code: SURG-OUTPT. Status: approved. Submitted: 2026-07-10 21:41:25 UTC. Decided: 2026-07-19 21:41:25 UTC.
+
+Prior authorization PA00000867 for member M000841 (Valentine Sanford). Service code: MRI-KNEE. Status: approved. Submitted: 2026-09-10 00:45:16 UTC. Decided: 2026-09-13 00:45:16 UTC.
+
+Prior authorization PA00000868 for member M000883 (Giovanni Barrows). Service code: CT-CHEST. Status: approved. Submitted: 2026-04-18 18:07:31 UTC. Decided: 2026-04-22 18:07:31 UTC.
+
+Prior authorization PA00000869 for member M000774 (Mitch Stark). Service code: SURG-OUTPT. Status: pending. Submitted: 2025-12-02 07:03:27 UTC. Decided: not yet.
+
+Prior authorization PA00000870 for member M001116 (Pedro Maya). Service code: PT-EVAL. Status: pending. Submitted: 2025-12-12 09:58:23 UTC. Decided: not yet.
+
+Prior authorization PA00000871 for member M000715 (Edythe Morar). Service code: CT-CHEST. Status: approved. Submitted: 2026-07-14 06:22:11 UTC. Decided: 2026-07-21 06:22:11 UTC.
+
+Prior authorization PA00000872 for member M000566 (Lou Dickinson). Service code: CT-CHEST. Status: pending. Submitted: 2026-08-15 15:11:35 UTC. Decided: not yet.
+
+Prior authorization PA-SEED0001 for member M000007 (Eustolia Barton). Service code: MRI-KNEE. Status: approved. Submitted: 2026-09-28 00:00:00 UTC. Decided: 2026-09-30 00:00:00 UTC.
+
+Prior authorization PA-SEED0002 for member M000006 (Siu Konopelski). Service code: MRI-KNEE. Status: denied. Submitted: 2026-09-28 00:00:00 UTC. Decided: 2026-10-01 00:00:00 UTC.
+

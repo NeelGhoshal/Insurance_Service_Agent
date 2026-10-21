@@ -1,0 +1,7 @@
+plan_id,plan_name,tier,deductible,oop_max
+PLN-BRZ,Cedarline Bronze HMO,Bronze,6000,9000
+PLN-SLV,Cedarline Silver HMO,Silver,3500,7500
+PLN-GLD,Cedarline Gold PPO,Gold,1500,6000
+PLN-PLT,Cedarline Platinum PPO,Platinum,500,4000
+PLN-HDH,Cedarline High-Deductible HSA,HDHP,7000,8500
+PLN-MCR,Cedarline Medicare Advantage,Medicare,0,5000

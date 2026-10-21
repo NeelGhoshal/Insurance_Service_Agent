@@ -1,0 +1,150 @@
+openapi: 3.0.3
+components:
+  schemas:
+    plans:
+      type: object
+      properties:
+        plan_id:
+          type: string
+        plan_name:
+          type: string
+        tier:
+          type: string
+        deductible:
+          type: number
+        oop_max:
+          type: number
+    members:
+      type: object
+      properties:
+        member_id:
+          type: string
+        name:
+          type: string
+        dob:
+          type: string
+          format: date
+        email:
+          type: string
+        zip:
+          type: string
+        plan_id:
+          type: string
+        status:
+          type: string
+    accumulators:
+      type: object
+      properties:
+        member_id:
+          type: string
+        plan_year:
+          type: string
+        deductible_met:
+          type: number
+        oop_met:
+          type: number
+        as_of:
+          type: string
+          format: date
+    claims:
+      type: object
+      properties:
+        claim_id:
+          type: string
+        member_id:
+          type: string
+        service_date:
+          type: string
+          format: date
+        provider:
+          type: string
+        billed:
+          type: number
+        member_owes:
+          type: number
+        status:
+          type: string
+        status_reason:
+          type: string
+        updated_at:
+          type: string
+          format: date-time
+    prior_auths:
+      type: object
+      properties:
+        auth_id:
+          type: string
+        member_id:
+          type: string
+        service_code:
+          type: string
+        status:
+          type: string
+        submitted_at:
+          type: string
+          format: date-time
+        decided_at:
+          type: string
+          format: date-time
+    service_requests:
+      type: object
+      properties:
+        request_id:
+          type: string
+        member_id:
+          type: string
+        type:
+          type: string
+        status:
+          type: string
+        opened_at:
+          type: string
+          format: date-time
+        closed_at:
+          type: string
+          format: date-time
+    interactions:
+      type: object
+      properties:
+        interaction_id:
+          type: string
+        member_id:
+          type: string
+        channel:
+          type: string
+        intent:
+          type: string
+        started_at:
+          type: string
+          format: date-time
+        handle_secs:
+          type: number
+        resolved_flag:
+          type: string
+        csat:
+          type: number
+    call_transcripts:
+      type: object
+      properties:
+        transcript_id:
+          type: string
+        interaction_id:
+          type: string
+        member_id:
+          type: string
+        text:
+          type: string
+    case_notes:
+      type: object
+      properties:
+        note_id:
+          type: string
+        request_id:
+          type: string
+        author_role:
+          type: string
+        text:
+          type: string
+        created_at:
+          type: string
+          format: date-time

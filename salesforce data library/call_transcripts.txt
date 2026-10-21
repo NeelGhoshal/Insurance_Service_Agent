@@ -1,0 +1,583 @@
+Cedarline Call Transcripts
+Source: Cedarline Health Plan service data.
+
+Call transcript TR000001 (interaction INT00013648) with member M000918 (Kermit Wolff): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000002 (interaction INT00002776) with member M000852 (Isadora Tremblay): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000003 (interaction INT00010816) with member M000916 (Weston Thompson): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000004 (interaction INT00005847) with member M000738 (Demetra Jaskolski): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000005 (interaction INT00008864) with member M000622 (Lucio Toy): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000006 (interaction INT00004076) with member M000875 (Nathanial Beatty): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000007 (interaction INT00011762) with member M001063 (Claude Nikolaus): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000008 (interaction INT00011713) with member M000309 (Lucius Gerlach): Member contacted customer service with a general question.
+
+Call transcript TR000009 (interaction INT00002663) with member M001070 (Chantal Moore): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000010 (interaction INT00014256) with member M001106 (Kiyoko Reilly): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000011 (interaction INT00002900) with member M000241 (Carole Konopelski): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000012 (interaction INT00003613) with member M000076 (Amy Prosacco): Member contacted customer service with a general question.
+
+Call transcript TR000013 (interaction INT00011709) with member M000104 (Orval Schaefer): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000014 (interaction INT00013356) with member M001128 (Porter Wehner): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000015 (interaction INT00002254) with member M001067 (Kayce Friesen): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000016 (interaction INT00009166) with member M000585 (Lavern Gerlach): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000017 (interaction INT00003671) with member M000736 (Merlin Hane): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000018 (interaction INT00006555) with member M000974 (Tad Pagac): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000019 (interaction INT00003936) with member M000056 (Cathryn Reynolds): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000020 (interaction INT00001699) with member M000978 (Harland Price): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000021 (interaction INT00005342) with member M000495 (Kieth Hermann): Member contacted customer service with a general question.
+
+Call transcript TR000022 (interaction INT00001349) with member M000081 (Cory Corkery): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000023 (interaction INT00002097) with member M000521 (Tawna Gorczany): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000024 (interaction INT00000944) with member M000761 (Olen O'Reilly): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000025 (interaction INT00003537) with member M000121 (Leroy Rippin): Member called regarding an appeal they filed after a claim denial and asked for a timeline on the review.
+
+Call transcript TR000026 (interaction INT00008471) with member M000487 (Gladys Hilpert): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000027 (interaction INT00012188) with member M000480 (Lilly Hamill): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000028 (interaction INT00008869) with member M000240 (Benjamin Pfeffer): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000029 (interaction INT00000964) with member M000512 (Kim Barton): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000030 (interaction INT00004519) with member M000884 (Ernesto Pacocha): Member contacted customer service with a general question.
+
+Call transcript TR000031 (interaction INT00003093) with member M000786 (Darline Ondricka): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000032 (interaction INT00009064) with member M000305 (Laurine Cronin): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000033 (interaction INT00011554) with member M000003 (Tashia Boehm): Member contacted customer service with a general question.
+
+Call transcript TR000034 (interaction INT00001407) with member M000822 (Temple Bruen): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000035 (interaction INT00001247) with member M000419 (Grady Rutherford): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000036 (interaction INT00004357) with member M000272 (Marivel Ledner): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000037 (interaction INT00010965) with member M000128 (Mason Hettinger): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000038 (interaction INT00002646) with member M000151 (Miquel Hettinger): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000039 (interaction INT00013452) with member M000001 (Fatima Sauer): Member called regarding an appeal they filed after a claim denial and asked for a timeline on the review.
+
+Call transcript TR000040 (interaction INT00003762) with member M000136 (Tristan Swift): Member contacted customer service with a general question.
+
+Call transcript TR000041 (interaction INT00000730) with member M000132 (Angel Jacobi): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000042 (interaction INT00001044) with member M000813 (Avis Ankunding): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000043 (interaction INT00004655) with member M000766 (Parker Hauck): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000044 (interaction INT00002967) with member M000936 (Reina Tremblay): Member contacted customer service with a general question.
+
+Call transcript TR000045 (interaction INT00012271) with member M000545 (Mardell Legros): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000046 (interaction INT00000505) with member M000451 (Leonie Monahan): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000047 (interaction INT00000285) with member M000613 (Ricardo Stracke): Member called regarding an appeal they filed after a claim denial and asked for a timeline on the review.
+
+Call transcript TR000048 (interaction INT00001175) with member M000499 (Susie Tromp): Member contacted customer service with a general question.
+
+Call transcript TR000049 (interaction INT00011741) with member M000527 (Oralia Williamson): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000050 (interaction INT00001538) with member M000875 (Nathanial Beatty): Member contacted customer service with a general question.
+
+Call transcript TR000051 (interaction INT00002046) with member M001003 (Mariano Metz): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000052 (interaction INT00011696) with member M000274 (Wilmer Yost): Member contacted customer service with a general question.
+
+Call transcript TR000053 (interaction INT00012123) with member M000676 (Mel Labadie): Member contacted customer service with a general question.
+
+Call transcript TR000054 (interaction INT00012528) with member M000539 (Agueda Gerhold): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000055 (interaction INT00008362) with member M000682 (Kristi Anderson): Member contacted customer service with a general question.
+
+Call transcript TR000056 (interaction INT00000248) with member M000757 (Sydney O'Hara): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000057 (interaction INT00006900) with member M000327 (Margie Hermiston): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000058 (interaction INT00001869) with member M001069 (Shonta Veum): Member contacted customer service with a general question.
+
+Call transcript TR000059 (interaction INT00005086) with member M001114 (Virgil Farrell): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000060 (interaction INT00004620) with member M000686 (Gene McKenzie): Member contacted customer service with a general question.
+
+Call transcript TR000061 (interaction INT00008054) with member M001110 (Tyler Bergnaum): Member contacted customer service with a general question.
+
+Call transcript TR000062 (interaction INT00007667) with member M001108 (Dara Hills): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000063 (interaction INT00010354) with member M000058 (Roxy Reichert): Member contacted customer service with a general question.
+
+Call transcript TR000064 (interaction INT00012241) with member M000722 (Frances Smitham): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000065 (interaction INT00004321) with member M001087 (Dorotea Botello): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000066 (interaction INT00011833) with member M000775 (Sal Hoppe): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000067 (interaction INT00003319) with member M000926 (Francisco Stracke): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000068 (interaction INT00014537) with member M000628 (Malcom Lang): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000069 (interaction INT00004383) with member M001108 (Dara Hills): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000070 (interaction INT00004797) with member M000362 (Dona Purdy): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000071 (interaction INT00004857) with member M000354 (Ines Beier): Member called regarding an appeal they filed after a claim denial and asked for a timeline on the review.
+
+Call transcript TR000072 (interaction INT00005524) with member M000380 (Ross Willms): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000073 (interaction INT00011900) with member M000140 (Kit Hills): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000074 (interaction INT00005239) with member M000788 (Allan Koelpin): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000075 (interaction INT00006743) with member M000885 (Svetlana Tremblay): Member contacted customer service with a general question.
+
+Call transcript TR000076 (interaction INT00007426) with member M000480 (Lilly Hamill): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000077 (interaction INT00005798) with member M000705 (Michele Keeling): Member contacted customer service with a general question.
+
+Call transcript TR000078 (interaction INT00007930) with member M000166 (Jennette Kemmer): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000079 (interaction INT00011064) with member M001099 (Dino Dach): Member contacted customer service with a general question.
+
+Call transcript TR000080 (interaction INT00012479) with member M000728 (Terrilyn Murphy): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000081 (interaction INT00010082) with member M000074 (Carlota Morales): Member contacted customer service with a general question.
+
+Call transcript TR000082 (interaction INT00012180) with member M000650 (Lon Wyman): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000083 (interaction INT00013976) with member M000521 (Tawna Gorczany): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000084 (interaction INT00002609) with member M000512 (Kim Barton): Member contacted customer service with a general question.
+
+Call transcript TR000085 (interaction INT00012757) with member M000720 (Vicente Gleason): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000086 (interaction INT00008190) with member M000719 (Javier Tijerina): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000087 (interaction INT00010484) with member M001049 (Wilber Rath): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000088 (interaction INT00004470) with member M000674 (Emilia Uribe): Member contacted customer service with a general question.
+
+Call transcript TR000089 (interaction INT00001571) with member M000617 (Raul D'Amore): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000090 (interaction INT00002633) with member M000878 (Morris Ruecker): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000091 (interaction INT00004353) with member M000073 (Galina Beatty): Member contacted customer service with a general question.
+
+Call transcript TR000092 (interaction INT00011255) with member M000372 (Abel Dooley): Member contacted customer service with a general question.
+
+Call transcript TR000093 (interaction INT00004117) with member M000365 (Bev Morissette): Member contacted customer service with a general question.
+
+Call transcript TR000094 (interaction INT00004841) with member M000710 (Ligia Becker): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000095 (interaction INT00000417) with member M000238 (Darrel O'Reilly): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000096 (interaction INT00000979) with member M001131 (Kizzy Lubowitz): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000097 (interaction INT00001770) with member M000204 (Isaac Marks): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000098 (interaction INT00007693) with member M000512 (Kim Barton): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000099 (interaction INT00004537) with member M000126 (Alaine Willms): Member contacted customer service with a general question.
+
+Call transcript TR000100 (interaction INT00004870) with member M000985 (Teddy Batz): Member contacted customer service with a general question.
+
+Call transcript TR000101 (interaction INT00001583) with member M000591 (Aimee Hudson): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000102 (interaction INT00004654) with member M000961 (Irene Bétancourt): Member contacted customer service with a general question.
+
+Call transcript TR000103 (interaction INT00011356) with member M000367 (Tiana Fay): Member contacted customer service with a general question.
+
+Call transcript TR000104 (interaction INT00008695) with member M000082 (Keneth Kozey): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000105 (interaction INT00003194) with member M000471 (Ana Bonilla): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000106 (interaction INT00009450) with member M000598 (Francisco Alcántar): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000107 (interaction INT00013195) with member M000163 (Tom Frami): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000108 (interaction INT00002281) with member M000593 (Bryce Schinner): Member contacted customer service with a general question.
+
+Call transcript TR000109 (interaction INT00013791) with member M000134 (Randa Nader): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000110 (interaction INT00011234) with member M000178 (Jenifer Abshire): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000111 (interaction INT00010182) with member M000435 (Rosario Brekke): Member contacted customer service with a general question.
+
+Call transcript TR000112 (interaction INT00012350) with member M000247 (Juliette McClure): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000113 (interaction INT00006759) with member M000691 (Franklyn Abshire): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000114 (interaction INT00006853) with member M000335 (Cleveland Dach): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000115 (interaction INT00006733) with member M000475 (Roberto Quiroz): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000116 (interaction INT00007584) with member M000056 (Cathryn Reynolds): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000117 (interaction INT00003600) with member M000053 (Paz Murphy): Member contacted customer service with a general question.
+
+Call transcript TR000118 (interaction INT00007335) with member M001006 (Karma Klocko): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000119 (interaction INT00009144) with member M000297 (Rosana Kessler): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000120 (interaction INT00000605) with member M000360 (Ike Harvey): Member contacted customer service with a general question.
+
+Call transcript TR000121 (interaction INT00003453) with member M000311 (Charles Klocko): Member contacted customer service with a general question.
+
+Call transcript TR000122 (interaction INT00009799) with member M001018 (Dayle Trantow): Member contacted customer service with a general question.
+
+Call transcript TR000123 (interaction INT00000357) with member M000876 (Erin Mann): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000124 (interaction INT00000228) with member M001123 (Anna Davis): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000125 (interaction INT00010168) with member M000181 (Jolynn Conn): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000126 (interaction INT00002483) with member M000852 (Isadora Tremblay): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000127 (interaction INT00012387) with member M000425 (Denis Abshire): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000128 (interaction INT00007148) with member M000939 (Reid Schimmel): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000129 (interaction INT00001219) with member M000075 (Bridgette Schuppe): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000130 (interaction INT00012172) with member M000751 (Maud Rodriguez): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000131 (interaction INT00002287) with member M000769 (Cesar Strosin): Member contacted customer service with a general question.
+
+Call transcript TR000132 (interaction INT00002852) with member M000937 (Andera Lindgren): Member contacted customer service with a general question.
+
+Call transcript TR000133 (interaction INT00002622) with member M000336 (María José Duarte): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000134 (interaction INT00007117) with member M000846 (Lance Daugherty): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000135 (interaction INT00003054) with member M000983 (Lucio Ledner): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000136 (interaction INT00000533) with member M000558 (Sondra Robel): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000137 (interaction INT00012614) with member M000732 (Freddie Erdman): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000138 (interaction INT00009953) with member M000467 (Timmy Pfannerstill): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000139 (interaction INT00009856) with member M000345 (Paris West): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000140 (interaction INT00003873) with member M000205 (Shavonne Barton): Member contacted customer service with a general question.
+
+Call transcript TR000141 (interaction INT00010704) with member M001145 (Synthia Davis): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000142 (interaction INT00003113) with member M000066 (Genny Rath): Member contacted customer service with a general question.
+
+Call transcript TR000143 (interaction INT00012298) with member M000275 (Sanjuana Ritchie): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000144 (interaction INT00002828) with member M000535 (Nery Zemlak): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000145 (interaction INT00012410) with member M000674 (Emilia Uribe): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000146 (interaction INT00004924) with member M000324 (Fabian Champlin): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000147 (interaction INT00002649) with member M000058 (Roxy Reichert): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000148 (interaction INT00011692) with member M000527 (Oralia Williamson): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000149 (interaction INT00010498) with member M000503 (Marilu Upton): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000150 (interaction INT00008049) with member M000037 (Marisha Roberts): Member contacted customer service with a general question.
+
+Call transcript TR000151 (interaction INT00001651) with member M000307 (Debora Conn): Member contacted customer service with a general question.
+
+Call transcript TR000152 (interaction INT00010143) with member M000722 (Frances Smitham): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000153 (interaction INT00009334) with member M000611 (Victor Carter): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000154 (interaction INT00003540) with member M000494 (Robin Reilly): Member contacted customer service with a general question.
+
+Call transcript TR000155 (interaction INT00011835) with member M000741 (Kimbra Bogan): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000156 (interaction INT00007004) with member M000283 (Randal Robel): Member contacted customer service with a general question.
+
+Call transcript TR000157 (interaction INT00006999) with member M000917 (Ozell Tromp): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000158 (interaction INT00010180) with member M000952 (Fredda Larkin): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000159 (interaction INT00004741) with member M000319 (Francisco Lynch): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000160 (interaction INT00000365) with member M000846 (Lance Daugherty): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000161 (interaction INT00003295) with member M000537 (Kylee Rempel): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000162 (interaction INT00005440) with member M000362 (Dona Purdy): Member contacted customer service with a general question.
+
+Call transcript TR000163 (interaction INT00003910) with member M000913 (Sherry Barrows): Member contacted customer service with a general question.
+
+Call transcript TR000164 (interaction INT00007397) with member M000721 (Kizzie Hickle): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000165 (interaction INT00003788) with member M000827 (Brett Heathcote): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000166 (interaction INT00003539) with member M000843 (Berta Treviño): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000167 (interaction INT00002418) with member M000450 (Gerardo Herman): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000168 (interaction INT00010718) with member M000292 (Olivia Lovato): Member contacted customer service with a general question.
+
+Call transcript TR000169 (interaction INT00009147) with member M000523 (Isiah Jacobs): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000170 (interaction INT00013583) with member M000036 (Dominga Kuphal): Member contacted customer service with a general question.
+
+Call transcript TR000171 (interaction INT00006322) with member M000256 (Thomasena O'Conner): Member contacted customer service with a general question.
+
+Call transcript TR000172 (interaction INT00005543) with member M000026 (Benny Tillman): Member contacted customer service with a general question.
+
+Call transcript TR000173 (interaction INT00006347) with member M000013 (Justine Hackett): Member contacted customer service with a general question.
+
+Call transcript TR000174 (interaction INT00008216) with member M000923 (Emanuel Gaylord): Member contacted customer service with a general question.
+
+Call transcript TR000175 (interaction INT00000464) with member M000889 (Jimmie Effertz): Member contacted customer service with a general question.
+
+Call transcript TR000176 (interaction INT00009952) with member M001116 (Pedro Maya): Member contacted customer service with a general question.
+
+Call transcript TR000177 (interaction INT00009522) with member M000887 (Lesa Price): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000178 (interaction INT00009701) with member M001085 (Broderick Gerhold): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000179 (interaction INT00013975) with member M000845 (Amos Wehner): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000180 (interaction INT00009624) with member M000202 (Marcela Almonte): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000181 (interaction INT00013715) with member M000293 (Shelba Dicki): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000182 (interaction INT00011412) with member M000933 (Lila Weber): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000183 (interaction INT00005198) with member M000212 (Etta Sporer): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000184 (interaction INT00009287) with member M000493 (Reid MacGyver): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000185 (interaction INT00009067) with member M000436 (Jonathon Rice): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000186 (interaction INT00006545) with member M000875 (Nathanial Beatty): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000187 (interaction INT00005936) with member M000947 (Molly Carroll): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000188 (interaction INT00000628) with member M000754 (Kevin Kautzer): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000189 (interaction INT00001899) with member M000030 (Porsha Spencer): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000190 (interaction INT00003094) with member M000004 (Keisha Kilback): Member contacted customer service with a general question.
+
+Call transcript TR000191 (interaction INT00006920) with member M000571 (Jeanne Pfeffer): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000192 (interaction INT00000902) with member M000457 (Alysha Corwin): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000193 (interaction INT00002738) with member M000203 (Graham Willms): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000194 (interaction INT00009884) with member M000364 (Louvenia Wisozk): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000195 (interaction INT00011079) with member M000505 (Adriana Hintz): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000196 (interaction INT00013333) with member M000726 (Armando Hilll): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000197 (interaction INT00007178) with member M000370 (Abel Bauch): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000198 (interaction INT00005168) with member M000728 (Terrilyn Murphy): Member contacted customer service with a general question.
+
+Call transcript TR000199 (interaction INT00007678) with member M000596 (Anja Jakubowski): Member contacted customer service with a general question.
+
+Call transcript TR000200 (interaction INT00013364) with member M000484 (Ja Mayer): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000201 (interaction INT00008683) with member M000930 (Trinh Sanford): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000202 (interaction INT00000345) with member M000005 (Ralph Kuhlman): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000203 (interaction INT00005703) with member M000616 (Katlyn Hyatt): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000204 (interaction INT00010359) with member M000590 (Don Nitzsche): Member called regarding an appeal they filed after a claim denial and asked for a timeline on the review.
+
+Call transcript TR000205 (interaction INT00000621) with member M000824 (Cole Wuckert): Member contacted customer service with a general question.
+
+Call transcript TR000206 (interaction INT00010073) with member M000682 (Kristi Anderson): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000207 (interaction INT00005479) with member M000655 (Weston Leuschke): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000208 (interaction INT00011606) with member M000344 (Lesley Towne): Member contacted customer service with a general question.
+
+Call transcript TR000209 (interaction INT00004434) with member M000928 (Deidra Rosenbaum): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000210 (interaction INT00003176) with member M000726 (Armando Hilll): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000211 (interaction INT00002108) with member M000799 (Hassan Wyman): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000212 (interaction INT00009682) with member M000760 (Lavonia Abernathy): Member called regarding an appeal they filed after a claim denial and asked for a timeline on the review.
+
+Call transcript TR000213 (interaction INT00005987) with member M000296 (Nelida Jacobi): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000214 (interaction INT00006667) with member M000750 (Arnette Schamberger): Member contacted customer service with a general question.
+
+Call transcript TR000215 (interaction INT00001494) with member M000475 (Roberto Quiroz): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000216 (interaction INT00011238) with member M000805 (Eddie Beier): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000217 (interaction INT00005689) with member M000622 (Lucio Toy): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000218 (interaction INT00002953) with member M000405 (Jackie Cummerata): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000219 (interaction INT00008324) with member M000611 (Victor Carter): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000220 (interaction INT00001850) with member M000518 (Hollis Wisoky): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000221 (interaction INT00014336) with member M000673 (Jerica Pfeffer): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000222 (interaction INT00012360) with member M000844 (Christia Ritchie): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000223 (interaction INT00013313) with member M001118 (David Dicki): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000224 (interaction INT00003468) with member M000536 (Roosevelt Turner): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000225 (interaction INT00011350) with member M000123 (Rickie Nienow): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000226 (interaction INT00004422) with member M000612 (Renee Hilll): Member called regarding an appeal they filed after a claim denial and asked for a timeline on the review.
+
+Call transcript TR000227 (interaction INT00005812) with member M000144 (Herminia Hahn): Member contacted customer service with a general question.
+
+Call transcript TR000228 (interaction INT00012121) with member M000853 (Anya Mills): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000229 (interaction INT00012772) with member M000894 (Parker Hudson): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000230 (interaction INT00009591) with member M001018 (Dayle Trantow): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000231 (interaction INT00001567) with member M000241 (Carole Konopelski): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000232 (interaction INT00001229) with member M000722 (Frances Smitham): Member called regarding an appeal they filed after a claim denial and asked for a timeline on the review.
+
+Call transcript TR000233 (interaction INT00005734) with member M000601 (Stephan Krajcik): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000234 (interaction INT00009998) with member M001060 (Alene Hermann): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000235 (interaction INT00006116) with member M000552 (Milagros Hills): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000236 (interaction INT00012212) with member M000598 (Francisco Alcántar): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000237 (interaction INT00003694) with member M001035 (Leda Lemke): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000238 (interaction INT00005189) with member M000269 (Kyle Towne): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000239 (interaction INT00004947) with member M001130 (Macy Stroman): Member contacted customer service with a general question.
+
+Call transcript TR000240 (interaction INT00010002) with member M000680 (Yuriko Rogahn): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000241 (interaction INT00001963) with member M000894 (Parker Hudson): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000242 (interaction INT00010925) with member M000915 (Kari Douglas): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000243 (interaction INT00008120) with member M001006 (Karma Klocko): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000244 (interaction INT00012905) with member M000300 (Brice Stark): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000245 (interaction INT00009597) with member M000525 (Diane Murphy): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000246 (interaction INT00000160) with member M001131 (Kizzy Lubowitz): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000247 (interaction INT00013869) with member M000912 (Haywood Schroeder): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000248 (interaction INT00013298) with member M000194 (Emilie Nader): Member contacted customer service with a general question.
+
+Call transcript TR000249 (interaction INT00001171) with member M000938 (Krystyna VonRueden): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000250 (interaction INT00010289) with member M000206 (Margarite Boyer): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000251 (interaction INT00000012) with member M000419 (Grady Rutherford): Member contacted customer service with a general question.
+
+Call transcript TR000252 (interaction INT00006169) with member M000337 (Daren Schmidt): Member contacted customer service with a general question.
+
+Call transcript TR000253 (interaction INT00004639) with member M000284 (Myron Will): Member contacted customer service with a general question.
+
+Call transcript TR000254 (interaction INT00005522) with member M000447 (Norma Apodaca): Member contacted customer service with a general question.
+
+Call transcript TR000255 (interaction INT00000542) with member M000628 (Malcom Lang): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000256 (interaction INT00005637) with member M000535 (Nery Zemlak): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000257 (interaction INT00007649) with member M001039 (José Emilio Niño): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000258 (interaction INT00009977) with member M001124 (Dino Huel): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000259 (interaction INT00001157) with member M000585 (Lavern Gerlach): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000260 (interaction INT00007046) with member M001137 (Nicholas Muller): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000261 (interaction INT00003463) with member M000653 (Manuela Villalpando): Member contacted customer service with a general question.
+
+Call transcript TR000262 (interaction INT00004391) with member M000671 (Brunilda Toy): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000263 (interaction INT00009585) with member M000552 (Milagros Hills): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000264 (interaction INT00007013) with member M001104 (Vennie Hermiston): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000265 (interaction INT00000122) with member M000665 (Miki Gerhold): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000266 (interaction INT00001579) with member M000500 (Rosalia Klocko): Member contacted customer service with a general question.
+
+Call transcript TR000267 (interaction INT00012656) with member M000836 (Birgit Maggio): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000268 (interaction INT00009975) with member M000096 (Genna Stehr): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000269 (interaction INT00004037) with member M000844 (Christia Ritchie): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000270 (interaction INT00007416) with member M000022 (Sydney Kassulke): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000271 (interaction INT00003661) with member M000925 (Gayla Purdy): Member called regarding an appeal they filed after a claim denial and asked for a timeline on the review.
+
+Call transcript TR000272 (interaction INT00006379) with member M000134 (Randa Nader): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000273 (interaction INT00013970) with member M000176 (Donetta Bradtke): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000274 (interaction INT00010720) with member M000391 (Lucius Abernathy): Member contacted customer service with a general question.
+
+Call transcript TR000275 (interaction INT00011041) with member M000666 (Ping Abbott): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000276 (interaction INT00001141) with member M000555 (Felicitas Kovacek): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000277 (interaction INT00005294) with member M001098 (Jerome Kihn): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000278 (interaction INT00003895) with member M000098 (Cyrus Schuster): Member contacted customer service with a general question.
+
+Call transcript TR000279 (interaction INT00008161) with member M000791 (Luigi Carroll): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000280 (interaction INT00003883) with member M000003 (Tashia Boehm): Member contacted customer service with a general question.
+
+Call transcript TR000281 (interaction INT00011309) with member M000538 (Luanna Schuppe): Member called to check on a prior authorization request for an upcoming procedure. Agent confirmed the current review status.
+
+Call transcript TR000282 (interaction INT00011866) with member M001113 (Dalton Marks): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000283 (interaction INT00000422) with member M000973 (Inés Huerta): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000284 (interaction INT00004939) with member M000038 (Mary Macejkovic): Member contacted customer service with a general question.
+
+Call transcript TR000285 (interaction INT00012179) with member M000667 (Ahmed O'Reilly): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000286 (interaction INT00012728) with member M000452 (Rashida Murray): Member called asking about the status of a recent medical claim. Agent looked up the claim and explained the current status and next steps.
+
+Call transcript TR000287 (interaction INT00013211) with member M000886 (Candace Braun): Member contacted customer service with a general question.
+
+Call transcript TR000288 (interaction INT00005344) with member M000209 (Moira McLaughlin): Member asked how much of their annual deductible has been met so far this plan year. Agent provided the current accumulator balance.
+
+Call transcript TR000289 (interaction INT00004075) with member M000694 (Mandy McClure): Member asked whether a specific procedure is covered under their plan and what their expected out-of-pocket cost would be.
+
+Call transcript TR000290 (interaction INT00011304) with member M000041 (Betsey Funk): Member contacted customer service with a general question.
+
