@@ -2,6 +2,8 @@
 
 Member service agent for **Cedarline Health Plan**, a hypothetical medical insurance company. Members can ask about their claims, denial reasons, deductible and out-of-pocket balances, prior authorizations and service requests, and open appeals. The agent verifies their identity first.
 
+The project builds a synthetic insurance dataset, adds it to Snowflake and to Salesforce Data Cloud, and grounds an Agentforce agent on it.
+
 **Tech stack:** Python (pandas) · Snowflake · Salesforce Data Cloud (Data 360) · Agentforce Builder
 
 ![Agent summary](docs/images/Agentforce_Summary.png)
