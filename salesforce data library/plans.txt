@@ -1,15 +1,15 @@
 Cedarline Health Plans
 Source: Cedarline Health Plan service data.
 
-Plan 0: Cedarline Bronze HMO. Tier: Bronze. Annual deductible: $6,000.00. Out-of-pocket maximum: $9,000.00.
+Plan PLN-BRZ: Cedarline Bronze HMO. Tier: Bronze. Annual deductible: $6,000.00. Out-of-pocket maximum: $9,000.00.
 
-Plan 1: Cedarline Silver HMO. Tier: Silver. Annual deductible: $3,500.00. Out-of-pocket maximum: $7,500.00.
+Plan PLN-SLV: Cedarline Silver HMO. Tier: Silver. Annual deductible: $3,500.00. Out-of-pocket maximum: $7,500.00.
 
-Plan 2: Cedarline Gold PPO. Tier: Gold. Annual deductible: $1,500.00. Out-of-pocket maximum: $6,000.00.
+Plan PLN-GLD: Cedarline Gold PPO. Tier: Gold. Annual deductible: $1,500.00. Out-of-pocket maximum: $6,000.00.
 
-Plan 3: Cedarline Platinum PPO. Tier: Platinum. Annual deductible: $500.00. Out-of-pocket maximum: $4,000.00.
+Plan PLN-PLT: Cedarline Platinum PPO. Tier: Platinum. Annual deductible: $500.00. Out-of-pocket maximum: $4,000.00.
 
-Plan 4: Cedarline High-Deductible HSA. Tier: HDHP. Annual deductible: $7,000.00. Out-of-pocket maximum: $8,500.00.
+Plan PLN-HDH: Cedarline High-Deductible HSA. Tier: HDHP. Annual deductible: $7,000.00. Out-of-pocket maximum: $8,500.00.
 
-Plan 5: Cedarline Medicare Advantage. Tier: Medicare. Annual deductible: $0.00. Out-of-pocket maximum: $5,000.00.
+Plan PLN-MCR: Cedarline Medicare Advantage. Tier: Medicare. Annual deductible: $0.00. Out-of-pocket maximum: $5,000.00.
 

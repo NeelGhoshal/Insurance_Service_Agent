@@ -64,7 +64,7 @@ def who(mid):
 
 
 write("plans", "Cedarline Health Plans", [
-    f"Plan {p.Index}: {p.plan_name}. Tier: {p.tier}. Annual deductible: {money(p.deductible)}. "
+    f"Plan {p.plan_id}: {p.plan_name}. Tier: {p.tier}. Annual deductible: {money(p.deductible)}. "
     f"Out-of-pocket maximum: {money(p.oop_max)}."
     for p in plans.reset_index().itertuples()])
 
